@@ -1,5 +1,5 @@
 <?php
-// Emojiawesome extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/emojiawesome
+// Emojiawesome extension, https://github.com/annaesvensson/yellow-emojiawesome
 
 class YellowEmojiawesome {
     const VERSION = "0.8.12";

@@ -48,11 +48,11 @@ Adding an emoji with HTML, double size:
 
 The following settings can be configured in file `system/extensions/yellow-system.ini`:
 
-`EmojiawesomeToolbarButtons` = toolbar buttons for the [edit extension](https://github.com/datenstrom/yellow-extensions/tree/master/source/edit)  
+`EmojiawesomeToolbarButtons` = toolbar buttons for the [edit extension](https://github.com/annaesvensson/yellow-edit)  
 
 ## Installation
 
-[Download extension](https://github.com/datenstrom/yellow-extensions/raw/master/downloads/emojiawesome.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/annaesvensson/yellow-emojiawesome/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 This extension uses [Twemoji 13.0.0](https://github.com/twitter/twemoji) by Twitter. 
 
