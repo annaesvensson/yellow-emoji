@@ -58,4 +58,4 @@ This extension uses [Twemoji 13.0.0](https://github.com/twitter/twemoji) by Twit
 
 ## Developer
 
-Datenstrom. [Get help](https://datenstrom.se/yellow/help/).
+Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).

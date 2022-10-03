@@ -58,4 +58,4 @@ Diese Erweiterung benutzt [Twemoji 13.0.0](https://github.com/twitter/twemoji) v
 
 ## Entwickler
 
-Datenstrom. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).

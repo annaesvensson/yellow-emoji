@@ -58,4 +58,4 @@ Detta tilläg använder [Twemoji 13.0.0](https://github.com/twitter/twemoji) av 
 
 ## Utvecklare
 
-Datenstrom. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
