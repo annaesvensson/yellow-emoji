@@ -4,7 +4,7 @@
 
 Lots and lots of emoji.
 
-![Screenshot](emojiawesome-screenshot.jpg?raw=true)
+![Screenshot](emojiawesome-screenshot.png?raw=true)
 
 ## How to add an emoji
 
