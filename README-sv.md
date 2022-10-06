@@ -4,7 +4,7 @@
 
 Massor och massor av emoji.
 
-![Skärmdump](emojiawesome-screenshot.jpg?raw=true)
+![Skärmdump](emojiawesome-screenshot.png?raw=true)
 
 ## Hur man lägger till en emoji
 
