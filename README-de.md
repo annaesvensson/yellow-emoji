@@ -4,7 +4,7 @@
 
 Jede Menge Emoji.
 
-![Bildschirmfoto](emojiawesome-screenshot.jpg?raw=true)
+![Bildschirmfoto](emojiawesome-screenshot.png?raw=true)
 
 ## Wie man ein Emoji hinzufügt
 
