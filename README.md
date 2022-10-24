@@ -54,7 +54,7 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 [Download extension](https://github.com/annaesvensson/yellow-emojiawesome/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
-This extension uses [Twemoji 13.0.0](https://github.com/twitter/twemoji) by Twitter. 
+This extension includes [Twemoji 13.0.0](https://github.com/twitter/twemoji) by Twitter. 
 
 ## Developer
 
