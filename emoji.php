@@ -1,14 +1,14 @@
 <?php
-// Emojiawesome extension, https://github.com/annaesvensson/yellow-emojiawesome
+// Emoji extension, https://github.com/annaesvensson/yellow-emoji
 
-class YellowEmojiawesome {
+class YellowEmoji {
     const VERSION = "0.8.12";
     public $yellow;         // access to API
     
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
-        $this->yellow->system->setDefault("emojiawesomeToolbarButtons", ":grinning: :smile: :angry: :frowning: :heart_eyes: :kissing_heart: :stuck_out_tongue_winking_eye: :joy: :heart: :fire: :star: :cookie: :coffee: :hand: :+1: :-1:");
+        $this->yellow->system->setDefault("emojiToolbarButtons", ":grinning: :smile: :angry: :frowning: :heart_eyes: :kissing_heart: :stuck_out_tongue_winking_eye: :joy: :heart: :fire: :star: :cookie: :coffee: :hand: :+1: :-1:");
     }
     
     // Handle page content of shortcut
@@ -37,7 +37,7 @@ class YellowEmojiawesome {
         $output = null;
         if ($name=="header") {
             $extensionLocation = $this->yellow->system->get("coreServerBase").$this->yellow->system->get("coreExtensionLocation");
-            $output = "<link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"{$extensionLocation}emojiawesome.css\" />\n";
+            $output = "<link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"{$extensionLocation}emoji.css\" />\n";
         }
         return $output;
     }

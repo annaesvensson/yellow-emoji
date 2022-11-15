@@ -1,4 +1,4 @@
-/* Emojiawesome extension, https://github.com/annaesvensson/yellow-emojiawesome */
+/* Emoji extension, https://github.com/annaesvensson/yellow-emoji */
 
 .ea {
     display: inline-block;
@@ -40,2558 +40,2558 @@
     background-size: 5em 5em;
 }
 
-/* Emojiawesome uses images from Twemoji */
+/* Emoji uses images from Twemoji */
 
 .ea-smile {
-    background-image: url("emojiawesome-default-stack.svg#1f604");
+    background-image: url("emoji-default-stack.svg#1f604");
 }
 .ea-laughing {
-    background-image: url("emojiawesome-default-stack.svg#1f606");
+    background-image: url("emoji-default-stack.svg#1f606");
 }
 .ea-blush {
-    background-image: url("emojiawesome-default-stack.svg#1f60a");
+    background-image: url("emoji-default-stack.svg#1f60a");
 }
 .ea-smiley {
-    background-image: url("emojiawesome-default-stack.svg#1f603");
+    background-image: url("emoji-default-stack.svg#1f603");
 }
 .ea-relaxed {
-    background-image: url("emojiawesome-default-stack.svg#263a");
+    background-image: url("emoji-default-stack.svg#263a");
 }
 .ea-smirk {
-    background-image: url("emojiawesome-default-stack.svg#1f60f");
+    background-image: url("emoji-default-stack.svg#1f60f");
 }
 .ea-heart-eyes {
-    background-image: url("emojiawesome-default-stack.svg#1f60d");
+    background-image: url("emoji-default-stack.svg#1f60d");
 }
 .ea-kissing-heart {
-    background-image: url("emojiawesome-default-stack.svg#1f618");
+    background-image: url("emoji-default-stack.svg#1f618");
 }
 .ea-kissing-closed-eyes {
-    background-image: url("emojiawesome-default-stack.svg#1f61a");
+    background-image: url("emoji-default-stack.svg#1f61a");
 }
 .ea-flushed {
-    background-image: url("emojiawesome-default-stack.svg#1f633");
+    background-image: url("emoji-default-stack.svg#1f633");
 }
 .ea-relieved {
-    background-image: url("emojiawesome-default-stack.svg#1f625");
+    background-image: url("emoji-default-stack.svg#1f625");
 }
 .ea-satisfied {
-    background-image: url("emojiawesome-default-stack.svg#1f60c");
+    background-image: url("emoji-default-stack.svg#1f60c");
 }
 .ea-grin {
-    background-image: url("emojiawesome-default-stack.svg#1f601");
+    background-image: url("emoji-default-stack.svg#1f601");
 }
 .ea-wink {
-    background-image: url("emojiawesome-default-stack.svg#1f609");
+    background-image: url("emoji-default-stack.svg#1f609");
 }
 .ea-stuck-out-tongue-winking-eye {
-    background-image: url("emojiawesome-default-stack.svg#1f61c");
+    background-image: url("emoji-default-stack.svg#1f61c");
 }
 .ea-stuck-out-tongue-closed-eyes {
-    background-image: url("emojiawesome-default-stack.svg#1f61d");
+    background-image: url("emoji-default-stack.svg#1f61d");
 }
 .ea-grinning {
-    background-image: url("emojiawesome-default-stack.svg#1f600");
+    background-image: url("emoji-default-stack.svg#1f600");
 }
 .ea-kissing {
-    background-image: url("emojiawesome-default-stack.svg#1f617");
+    background-image: url("emoji-default-stack.svg#1f617");
 }
 .ea-kissing-smiling-eyes {
-    background-image: url("emojiawesome-default-stack.svg#1f619");
+    background-image: url("emoji-default-stack.svg#1f619");
 }
 .ea-stuck-out-tongue {
-    background-image: url("emojiawesome-default-stack.svg#1f61b");
+    background-image: url("emoji-default-stack.svg#1f61b");
 }
 .ea-sleeping {
-    background-image: url("emojiawesome-default-stack.svg#1f634");
+    background-image: url("emoji-default-stack.svg#1f634");
 }
 .ea-worried {
-    background-image: url("emojiawesome-default-stack.svg#1f61f");
+    background-image: url("emoji-default-stack.svg#1f61f");
 }
 .ea-frowning {
-    background-image: url("emojiawesome-default-stack.svg#1f626");
+    background-image: url("emoji-default-stack.svg#1f626");
 }
 .ea-anguished {
-    background-image: url("emojiawesome-default-stack.svg#1f627");
+    background-image: url("emoji-default-stack.svg#1f627");
 }
 .ea-open-mouth {
-    background-image: url("emojiawesome-default-stack.svg#1f62e");
+    background-image: url("emoji-default-stack.svg#1f62e");
 }
 .ea-grimacing {
-    background-image: url("emojiawesome-default-stack.svg#1f62c");
+    background-image: url("emoji-default-stack.svg#1f62c");
 }
 .ea-confused {
-    background-image: url("emojiawesome-default-stack.svg#1f615");
+    background-image: url("emoji-default-stack.svg#1f615");
 }
 .ea-hushed {
-    background-image: url("emojiawesome-default-stack.svg#1f62f");
+    background-image: url("emoji-default-stack.svg#1f62f");
 }
 .ea-expressionless {
-    background-image: url("emojiawesome-default-stack.svg#1f611");
+    background-image: url("emoji-default-stack.svg#1f611");
 }
 .ea-unamused {
-    background-image: url("emojiawesome-default-stack.svg#1f612");
+    background-image: url("emoji-default-stack.svg#1f612");
 }
 .ea-sweat-smile {
-    background-image: url("emojiawesome-default-stack.svg#1f605");
+    background-image: url("emoji-default-stack.svg#1f605");
 }
 .ea-sweat {
-    background-image: url("emojiawesome-default-stack.svg#1f613");
+    background-image: url("emoji-default-stack.svg#1f613");
 }
 .ea-weary {
-    background-image: url("emojiawesome-default-stack.svg#1f629");
+    background-image: url("emoji-default-stack.svg#1f629");
 }
 .ea-pensive {
-    background-image: url("emojiawesome-default-stack.svg#1f614");
+    background-image: url("emoji-default-stack.svg#1f614");
 }
 .ea-disappointed {
-    background-image: url("emojiawesome-default-stack.svg#1f61e");
+    background-image: url("emoji-default-stack.svg#1f61e");
 }
 .ea-confounded {
-    background-image: url("emojiawesome-default-stack.svg#1f616");
+    background-image: url("emoji-default-stack.svg#1f616");
 }
 .ea-fearful {
-    background-image: url("emojiawesome-default-stack.svg#1f628");
+    background-image: url("emoji-default-stack.svg#1f628");
 }
 .ea-cold-sweat {
-    background-image: url("emojiawesome-default-stack.svg#1f630");
+    background-image: url("emoji-default-stack.svg#1f630");
 }
 .ea-persevere {
-    background-image: url("emojiawesome-default-stack.svg#1f623");
+    background-image: url("emoji-default-stack.svg#1f623");
 }
 .ea-cry {
-    background-image: url("emojiawesome-default-stack.svg#1f622");
+    background-image: url("emoji-default-stack.svg#1f622");
 }
 .ea-sob {
-    background-image: url("emojiawesome-default-stack.svg#1f62d");
+    background-image: url("emoji-default-stack.svg#1f62d");
 }
 .ea-joy {
-    background-image: url("emojiawesome-default-stack.svg#1f602");
+    background-image: url("emoji-default-stack.svg#1f602");
 }
 .ea-astonished {
-    background-image: url("emojiawesome-default-stack.svg#1f632");
+    background-image: url("emoji-default-stack.svg#1f632");
 }
 .ea-scream {
-    background-image: url("emojiawesome-default-stack.svg#1f631");
+    background-image: url("emoji-default-stack.svg#1f631");
 }
 .ea-tired-face {
-    background-image: url("emojiawesome-default-stack.svg#1f62b");
+    background-image: url("emoji-default-stack.svg#1f62b");
 }
 .ea-angry {
-    background-image: url("emojiawesome-default-stack.svg#1f620");
+    background-image: url("emoji-default-stack.svg#1f620");
 }
 .ea-rage {
-    background-image: url("emojiawesome-default-stack.svg#1f621");
+    background-image: url("emoji-default-stack.svg#1f621");
 }
 .ea-triumph {
-    background-image: url("emojiawesome-default-stack.svg#1f624");
+    background-image: url("emoji-default-stack.svg#1f624");
 }
 .ea-sleepy {
-    background-image: url("emojiawesome-default-stack.svg#1f62a");
+    background-image: url("emoji-default-stack.svg#1f62a");
 }
 .ea-yum {
-    background-image: url("emojiawesome-default-stack.svg#1f60b");
+    background-image: url("emoji-default-stack.svg#1f60b");
 }
 .ea-mask {
-    background-image: url("emojiawesome-default-stack.svg#1f637");
+    background-image: url("emoji-default-stack.svg#1f637");
 }
 .ea-sunglasses {
-    background-image: url("emojiawesome-default-stack.svg#1f60e");
+    background-image: url("emoji-default-stack.svg#1f60e");
 }
 .ea-dizzy-face {
-    background-image: url("emojiawesome-default-stack.svg#1f635");
+    background-image: url("emoji-default-stack.svg#1f635");
 }
 .ea-imp {
-    background-image: url("emojiawesome-default-stack.svg#1f47f");
+    background-image: url("emoji-default-stack.svg#1f47f");
 }
 .ea-smiling-imp {
-    background-image: url("emojiawesome-default-stack.svg#1f608");
+    background-image: url("emoji-default-stack.svg#1f608");
 }
 .ea-neutral-face {
-    background-image: url("emojiawesome-default-stack.svg#1f610");
+    background-image: url("emoji-default-stack.svg#1f610");
 }
 .ea-no-mouth {
-    background-image: url("emojiawesome-default-stack.svg#1f636");
+    background-image: url("emoji-default-stack.svg#1f636");
 }
 .ea-innocent {
-    background-image: url("emojiawesome-default-stack.svg#1f607");
+    background-image: url("emoji-default-stack.svg#1f607");
 }
 .ea-alien {
-    background-image: url("emojiawesome-default-stack.svg#1f47d");
+    background-image: url("emoji-default-stack.svg#1f47d");
 }
 .ea-yellow-heart {
-    background-image: url("emojiawesome-default-stack.svg#1f49b");
+    background-image: url("emoji-default-stack.svg#1f49b");
 }
 .ea-blue-heart {
-    background-image: url("emojiawesome-default-stack.svg#1f499");
+    background-image: url("emoji-default-stack.svg#1f499");
 }
 .ea-purple-heart {
-    background-image: url("emojiawesome-default-stack.svg#1f49c");
+    background-image: url("emoji-default-stack.svg#1f49c");
 }
 .ea-heart {
-    background-image: url("emojiawesome-default-stack.svg#2764");
+    background-image: url("emoji-default-stack.svg#2764");
 }
 .ea-green-heart {
-    background-image: url("emojiawesome-default-stack.svg#1f49a");
+    background-image: url("emoji-default-stack.svg#1f49a");
 }
 .ea-broken-heart {
-    background-image: url("emojiawesome-default-stack.svg#1f494");
+    background-image: url("emoji-default-stack.svg#1f494");
 }
 .ea-heartbeat {
-    background-image: url("emojiawesome-default-stack.svg#1f493");
+    background-image: url("emoji-default-stack.svg#1f493");
 }
 .ea-heartpulse {
-    background-image: url("emojiawesome-default-stack.svg#1f497");
+    background-image: url("emoji-default-stack.svg#1f497");
 }
 .ea-two-hearts {
-    background-image: url("emojiawesome-default-stack.svg#1f495");
+    background-image: url("emoji-default-stack.svg#1f495");
 }
 .ea-revolving-hearts {
-    background-image: url("emojiawesome-default-stack.svg#1f49e");
+    background-image: url("emoji-default-stack.svg#1f49e");
 }
 .ea-cupid {
-    background-image: url("emojiawesome-default-stack.svg#1f498");
+    background-image: url("emoji-default-stack.svg#1f498");
 }
 .ea-sparkling-heart {
-    background-image: url("emojiawesome-default-stack.svg#1f496");
+    background-image: url("emoji-default-stack.svg#1f496");
 }
 .ea-sparkles {
-    background-image: url("emojiawesome-default-stack.svg#2728");
+    background-image: url("emoji-default-stack.svg#2728");
 }
 .ea-star {
-    background-image: url("emojiawesome-default-stack.svg#2b50");
+    background-image: url("emoji-default-stack.svg#2b50");
 }
 .ea-star2 {
-    background-image: url("emojiawesome-default-stack.svg#1f31f");
+    background-image: url("emoji-default-stack.svg#1f31f");
 }
 .ea-dizzy {
-    background-image: url("emojiawesome-default-stack.svg#1f4ab");
+    background-image: url("emoji-default-stack.svg#1f4ab");
 }
 .ea-boom {
-    background-image: url("emojiawesome-default-stack.svg#1f4a5");
+    background-image: url("emoji-default-stack.svg#1f4a5");
 }
 .ea-anger {
-    background-image: url("emojiawesome-default-stack.svg#1f4a2");
+    background-image: url("emoji-default-stack.svg#1f4a2");
 }
 .ea-exclamation {
-    background-image: url("emojiawesome-default-stack.svg#2757");
+    background-image: url("emoji-default-stack.svg#2757");
 }
 .ea-question {
-    background-image: url("emojiawesome-default-stack.svg#2753");
+    background-image: url("emoji-default-stack.svg#2753");
 }
 .ea-grey-exclamation {
-    background-image: url("emojiawesome-default-stack.svg#2755");
+    background-image: url("emoji-default-stack.svg#2755");
 }
 .ea-grey-question {
-    background-image: url("emojiawesome-default-stack.svg#2754");
+    background-image: url("emoji-default-stack.svg#2754");
 }
 .ea-zzz {
-    background-image: url("emojiawesome-default-stack.svg#1f4a4");
+    background-image: url("emoji-default-stack.svg#1f4a4");
 }
 .ea-dash {
-    background-image: url("emojiawesome-default-stack.svg#1f4a8");
+    background-image: url("emoji-default-stack.svg#1f4a8");
 }
 .ea-sweat-drops {
-    background-image: url("emojiawesome-default-stack.svg#1f4a6");
+    background-image: url("emoji-default-stack.svg#1f4a6");
 }
 .ea-notes {
-    background-image: url("emojiawesome-default-stack.svg#1f3b6");
+    background-image: url("emoji-default-stack.svg#1f3b6");
 }
 .ea-musical-note {
-    background-image: url("emojiawesome-default-stack.svg#1f3b5");
+    background-image: url("emoji-default-stack.svg#1f3b5");
 }
 .ea-fire {
-    background-image: url("emojiawesome-default-stack.svg#1f525");
+    background-image: url("emoji-default-stack.svg#1f525");
 }
 .ea-poop {
-    background-image: url("emojiawesome-default-stack.svg#1f4a9");
+    background-image: url("emoji-default-stack.svg#1f4a9");
 }
 .ea-thumbsup {
-    background-image: url("emojiawesome-default-stack.svg#1f44d");
+    background-image: url("emoji-default-stack.svg#1f44d");
 }
 .ea-plus1 {
-    background-image: url("emojiawesome-default-stack.svg#1f44d");
+    background-image: url("emoji-default-stack.svg#1f44d");
 }
 .ea-thumbsdown {
-    background-image: url("emojiawesome-default-stack.svg#1f44e");
+    background-image: url("emoji-default-stack.svg#1f44e");
 }
 .ea-minus1 {
-    background-image: url("emojiawesome-default-stack.svg#1f44e");
+    background-image: url("emoji-default-stack.svg#1f44e");
 }
 .ea-ok-hand {
-    background-image: url("emojiawesome-extra1-stack.svg#1f44c");
+    background-image: url("emoji-extra1-stack.svg#1f44c");
 }
 .ea-punch {
-    background-image: url("emojiawesome-extra1-stack.svg#1f44a");
+    background-image: url("emoji-extra1-stack.svg#1f44a");
 }
 .ea-fist {
-    background-image: url("emojiawesome-extra1-stack.svg#270a");
+    background-image: url("emoji-extra1-stack.svg#270a");
 }
 .ea-v {
-    background-image: url("emojiawesome-extra1-stack.svg#270c");
+    background-image: url("emoji-extra1-stack.svg#270c");
 }
 .ea-wave {
-    background-image: url("emojiawesome-extra1-stack.svg#1f44b");
+    background-image: url("emoji-extra1-stack.svg#1f44b");
 }
 .ea-hand {
-    background-image: url("emojiawesome-extra1-stack.svg#270b");
+    background-image: url("emoji-extra1-stack.svg#270b");
 }
 .ea-open-hands {
-    background-image: url("emojiawesome-extra1-stack.svg#1f450");
+    background-image: url("emoji-extra1-stack.svg#1f450");
 }
 .ea-point-up {
-    background-image: url("emojiawesome-extra1-stack.svg#261d");
+    background-image: url("emoji-extra1-stack.svg#261d");
 }
 .ea-point-down {
-    background-image: url("emojiawesome-extra1-stack.svg#1f447");
+    background-image: url("emoji-extra1-stack.svg#1f447");
 }
 .ea-point-left {
-    background-image: url("emojiawesome-extra1-stack.svg#1f448");
+    background-image: url("emoji-extra1-stack.svg#1f448");
 }
 .ea-point-right {
-    background-image: url("emojiawesome-extra1-stack.svg#1f449");
+    background-image: url("emoji-extra1-stack.svg#1f449");
 }
 .ea-raised-hands {
-    background-image: url("emojiawesome-extra1-stack.svg#1f64c");
+    background-image: url("emoji-extra1-stack.svg#1f64c");
 }
 .ea-pray {
-    background-image: url("emojiawesome-extra1-stack.svg#1f64f");
+    background-image: url("emoji-extra1-stack.svg#1f64f");
 }
 .ea-point-up-2 {
-    background-image: url("emojiawesome-extra1-stack.svg#1f446");
+    background-image: url("emoji-extra1-stack.svg#1f446");
 }
 .ea-clap {
-    background-image: url("emojiawesome-extra1-stack.svg#1f44f");
+    background-image: url("emoji-extra1-stack.svg#1f44f");
 }
 .ea-muscle {
-    background-image: url("emojiawesome-extra1-stack.svg#1f4aa");
+    background-image: url("emoji-extra1-stack.svg#1f4aa");
 }
 .ea-walking {
-    background-image: url("emojiawesome-extra1-stack.svg#1f6b6");
+    background-image: url("emoji-extra1-stack.svg#1f6b6");
 }
 .ea-runner {
-    background-image: url("emojiawesome-extra1-stack.svg#1f3c3");
+    background-image: url("emoji-extra1-stack.svg#1f3c3");
 }
 .ea-couple {
-    background-image: url("emojiawesome-extra1-stack.svg#1f46b");
+    background-image: url("emoji-extra1-stack.svg#1f46b");
 }
 .ea-family {
-    background-image: url("emojiawesome-extra1-stack.svg#1f46a");
+    background-image: url("emoji-extra1-stack.svg#1f46a");
 }
 .ea-two-men-holding-hands {
-    background-image: url("emojiawesome-extra1-stack.svg#1f46c");
+    background-image: url("emoji-extra1-stack.svg#1f46c");
 }
 .ea-two-women-holding-hands {
-    background-image: url("emojiawesome-extra1-stack.svg#1f46d");
+    background-image: url("emoji-extra1-stack.svg#1f46d");
 }
 .ea-dancer {
-    background-image: url("emojiawesome-extra1-stack.svg#1f483");
+    background-image: url("emoji-extra1-stack.svg#1f483");
 }
 .ea-dancers {
-    background-image: url("emojiawesome-extra1-stack.svg#1f46f");
+    background-image: url("emoji-extra1-stack.svg#1f46f");
 }
 .ea-ok-woman {
-    background-image: url("emojiawesome-extra1-stack.svg#1f646");
+    background-image: url("emoji-extra1-stack.svg#1f646");
 }
 .ea-no-good {
-    background-image: url("emojiawesome-extra1-stack.svg#1f645");
+    background-image: url("emoji-extra1-stack.svg#1f645");
 }
 .ea-information-desk-person {
-    background-image: url("emojiawesome-extra1-stack.svg#1f481");
+    background-image: url("emoji-extra1-stack.svg#1f481");
 }
 .ea-raised-hand {
-    background-image: url("emojiawesome-extra1-stack.svg#1f64b");
+    background-image: url("emoji-extra1-stack.svg#1f64b");
 }
 .ea-bride-with-veil {
-    background-image: url("emojiawesome-extra1-stack.svg#1f470");
+    background-image: url("emoji-extra1-stack.svg#1f470");
 }
 .ea-person-with-pouting-face {
-    background-image: url("emojiawesome-extra1-stack.svg#1f64e");
+    background-image: url("emoji-extra1-stack.svg#1f64e");
 }
 .ea-person-frowning {
-    background-image: url("emojiawesome-extra1-stack.svg#1f64d");
+    background-image: url("emoji-extra1-stack.svg#1f64d");
 }
 .ea-bow {
-    background-image: url("emojiawesome-extra1-stack.svg#1f647");
+    background-image: url("emoji-extra1-stack.svg#1f647");
 }
 .ea-couplekiss {
-    background-image: url("emojiawesome-extra1-stack.svg#1f48f");
+    background-image: url("emoji-extra1-stack.svg#1f48f");
 }
 .ea-couple-with-heart {
-    background-image: url("emojiawesome-extra1-stack.svg#1f491");
+    background-image: url("emoji-extra1-stack.svg#1f491");
 }
 .ea-massage {
-    background-image: url("emojiawesome-extra1-stack.svg#1f486");
+    background-image: url("emoji-extra1-stack.svg#1f486");
 }
 .ea-haircut {
-    background-image: url("emojiawesome-extra1-stack.svg#1f487");
+    background-image: url("emoji-extra1-stack.svg#1f487");
 }
 .ea-nail-care {
-    background-image: url("emojiawesome-extra1-stack.svg#1f485");
+    background-image: url("emoji-extra1-stack.svg#1f485");
 }
 .ea-boy {
-    background-image: url("emojiawesome-extra1-stack.svg#1f466");
+    background-image: url("emoji-extra1-stack.svg#1f466");
 }
 .ea-girl {
-    background-image: url("emojiawesome-extra1-stack.svg#1f467");
+    background-image: url("emoji-extra1-stack.svg#1f467");
 }
 .ea-woman {
-    background-image: url("emojiawesome-extra1-stack.svg#1f469");
+    background-image: url("emoji-extra1-stack.svg#1f469");
 }
 .ea-man {
-    background-image: url("emojiawesome-extra1-stack.svg#1f468");
+    background-image: url("emoji-extra1-stack.svg#1f468");
 }
 .ea-baby {
-    background-image: url("emojiawesome-extra1-stack.svg#1f476");
+    background-image: url("emoji-extra1-stack.svg#1f476");
 }
 .ea-older-woman {
-    background-image: url("emojiawesome-extra1-stack.svg#1f475");
+    background-image: url("emoji-extra1-stack.svg#1f475");
 }
 .ea-older-man {
-    background-image: url("emojiawesome-extra1-stack.svg#1f474");
+    background-image: url("emoji-extra1-stack.svg#1f474");
 }
 .ea-person-with-blond-hair {
-    background-image: url("emojiawesome-extra1-stack.svg#1f471");
+    background-image: url("emoji-extra1-stack.svg#1f471");
 }
 .ea-man-with-gua-pi-mao {
-    background-image: url("emojiawesome-extra1-stack.svg#1f472");
+    background-image: url("emoji-extra1-stack.svg#1f472");
 }
 .ea-man-with-turban {
-    background-image: url("emojiawesome-extra1-stack.svg#1f473");
+    background-image: url("emoji-extra1-stack.svg#1f473");
 }
 .ea-construction-worker {
-    background-image: url("emojiawesome-extra1-stack.svg#1f477");
+    background-image: url("emoji-extra1-stack.svg#1f477");
 }
 .ea-cop {
-    background-image: url("emojiawesome-extra1-stack.svg#1f46e");
+    background-image: url("emoji-extra1-stack.svg#1f46e");
 }
 .ea-angel {
-    background-image: url("emojiawesome-extra1-stack.svg#1f47c");
+    background-image: url("emoji-extra1-stack.svg#1f47c");
 }
 .ea-princess {
-    background-image: url("emojiawesome-extra1-stack.svg#1f478");
+    background-image: url("emoji-extra1-stack.svg#1f478");
 }
 .ea-smiley-cat {
-    background-image: url("emojiawesome-extra1-stack.svg#1f63a");
+    background-image: url("emoji-extra1-stack.svg#1f63a");
 }
 .ea-smile-cat {
-    background-image: url("emojiawesome-extra1-stack.svg#1f638");
+    background-image: url("emoji-extra1-stack.svg#1f638");
 }
 .ea-heart-eyes-cat {
-    background-image: url("emojiawesome-extra1-stack.svg#1f63b");
+    background-image: url("emoji-extra1-stack.svg#1f63b");
 }
 .ea-kissing-cat {
-    background-image: url("emojiawesome-extra1-stack.svg#1f63d");
+    background-image: url("emoji-extra1-stack.svg#1f63d");
 }
 .ea-smirk-cat {
-    background-image: url("emojiawesome-extra1-stack.svg#1f63c");
+    background-image: url("emoji-extra1-stack.svg#1f63c");
 }
 .ea-scream-cat {
-    background-image: url("emojiawesome-extra1-stack.svg#1f640");
+    background-image: url("emoji-extra1-stack.svg#1f640");
 }
 .ea-crying-cat-face {
-    background-image: url("emojiawesome-extra1-stack.svg#1f63f");
+    background-image: url("emoji-extra1-stack.svg#1f63f");
 }
 .ea-joy-cat {
-    background-image: url("emojiawesome-extra1-stack.svg#1f639");
+    background-image: url("emoji-extra1-stack.svg#1f639");
 }
 .ea-pouting-cat {
-    background-image: url("emojiawesome-extra1-stack.svg#1f63e");
+    background-image: url("emoji-extra1-stack.svg#1f63e");
 }
 .ea-japanese-ogre {
-    background-image: url("emojiawesome-extra1-stack.svg#1f479");
+    background-image: url("emoji-extra1-stack.svg#1f479");
 }
 .ea-japanese-goblin {
-    background-image: url("emojiawesome-extra1-stack.svg#1f47a");
+    background-image: url("emoji-extra1-stack.svg#1f47a");
 }
 .ea-see-no-evil {
-    background-image: url("emojiawesome-extra1-stack.svg#1f648");
+    background-image: url("emoji-extra1-stack.svg#1f648");
 }
 .ea-hear-no-evil {
-    background-image: url("emojiawesome-extra1-stack.svg#1f649");
+    background-image: url("emoji-extra1-stack.svg#1f649");
 }
 .ea-speak-no-evil {
-    background-image: url("emojiawesome-extra1-stack.svg#1f64a");
+    background-image: url("emoji-extra1-stack.svg#1f64a");
 }
 .ea-guardsman {
-    background-image: url("emojiawesome-extra2-stack.svg#1f482");
+    background-image: url("emoji-extra2-stack.svg#1f482");
 }
 .ea-skull {
-    background-image: url("emojiawesome-extra2-stack.svg#1f480");
+    background-image: url("emoji-extra2-stack.svg#1f480");
 }
 .ea-feet {
-    background-image: url("emojiawesome-extra2-stack.svg#1f463");
+    background-image: url("emoji-extra2-stack.svg#1f463");
 }
 .ea-lips {
-    background-image: url("emojiawesome-extra2-stack.svg#1f444");
+    background-image: url("emoji-extra2-stack.svg#1f444");
 }
 .ea-kiss {
-    background-image: url("emojiawesome-extra2-stack.svg#1f48b");
+    background-image: url("emoji-extra2-stack.svg#1f48b");
 }
 .ea-droplet {
-    background-image: url("emojiawesome-extra2-stack.svg#1f4a7");
+    background-image: url("emoji-extra2-stack.svg#1f4a7");
 }
 .ea-ear {
-    background-image: url("emojiawesome-extra2-stack.svg#1f442");
+    background-image: url("emoji-extra2-stack.svg#1f442");
 }
 .ea-eyes {
-    background-image: url("emojiawesome-extra2-stack.svg#1f440");
+    background-image: url("emoji-extra2-stack.svg#1f440");
 }
 .ea-nose {
-    background-image: url("emojiawesome-extra2-stack.svg#1f443");
+    background-image: url("emoji-extra2-stack.svg#1f443");
 }
 .ea-tongue {
-    background-image: url("emojiawesome-extra2-stack.svg#1f445");
+    background-image: url("emoji-extra2-stack.svg#1f445");
 }
 .ea-love-letter {
-    background-image: url("emojiawesome-extra2-stack.svg#1f48c");
+    background-image: url("emoji-extra2-stack.svg#1f48c");
 }
 .ea-bust-in-silhouette {
-    background-image: url("emojiawesome-extra2-stack.svg#1f464");
+    background-image: url("emoji-extra2-stack.svg#1f464");
 }
 .ea-busts-in-silhouette {
-    background-image: url("emojiawesome-extra2-stack.svg#1f465");
+    background-image: url("emoji-extra2-stack.svg#1f465");
 }
 .ea-speech-balloon {
-    background-image: url("emojiawesome-extra2-stack.svg#1f4ac");
+    background-image: url("emoji-extra2-stack.svg#1f4ac");
 }
 .ea-thought-balloon {
-    background-image: url("emojiawesome-extra2-stack.svg#1f4ad");
+    background-image: url("emoji-extra2-stack.svg#1f4ad");
 }
 .ea-sunny {
-    background-image: url("emojiawesome-extra2-stack.svg#2600");
+    background-image: url("emoji-extra2-stack.svg#2600");
 }
 .ea-umbrella {
-    background-image: url("emojiawesome-extra2-stack.svg#2614");
+    background-image: url("emoji-extra2-stack.svg#2614");
 }
 .ea-cloud {
-    background-image: url("emojiawesome-extra2-stack.svg#2601");
+    background-image: url("emoji-extra2-stack.svg#2601");
 }
 .ea-snowflake {
-    background-image: url("emojiawesome-extra2-stack.svg#2744");
+    background-image: url("emoji-extra2-stack.svg#2744");
 }
 .ea-snowman {
-    background-image: url("emojiawesome-extra2-stack.svg#26c4");
+    background-image: url("emoji-extra2-stack.svg#26c4");
 }
 .ea-zap {
-    background-image: url("emojiawesome-extra2-stack.svg#26a1");
+    background-image: url("emoji-extra2-stack.svg#26a1");
 }
 .ea-cyclone {
-    background-image: url("emojiawesome-extra2-stack.svg#1f300");
+    background-image: url("emoji-extra2-stack.svg#1f300");
 }
 .ea-foggy {
-    background-image: url("emojiawesome-extra2-stack.svg#1f301");
+    background-image: url("emoji-extra2-stack.svg#1f301");
 }
 .ea-ocean {
-    background-image: url("emojiawesome-extra2-stack.svg#1f30a");
+    background-image: url("emoji-extra2-stack.svg#1f30a");
 }
 .ea-cat {
-    background-image: url("emojiawesome-extra2-stack.svg#1f431");
+    background-image: url("emoji-extra2-stack.svg#1f431");
 }
 .ea-dog {
-    background-image: url("emojiawesome-extra2-stack.svg#1f436");
+    background-image: url("emoji-extra2-stack.svg#1f436");
 }
 .ea-mouse {
-    background-image: url("emojiawesome-extra2-stack.svg#1f42d");
+    background-image: url("emoji-extra2-stack.svg#1f42d");
 }
 .ea-hamster {
-    background-image: url("emojiawesome-extra2-stack.svg#1f439");
+    background-image: url("emoji-extra2-stack.svg#1f439");
 }
 .ea-rabbit {
-    background-image: url("emojiawesome-extra2-stack.svg#1f430");
+    background-image: url("emoji-extra2-stack.svg#1f430");
 }
 .ea-wolf {
-    background-image: url("emojiawesome-extra2-stack.svg#1f43a");
+    background-image: url("emoji-extra2-stack.svg#1f43a");
 }
 .ea-frog {
-    background-image: url("emojiawesome-extra2-stack.svg#1f438");
+    background-image: url("emoji-extra2-stack.svg#1f438");
 }
 .ea-tiger {
-    background-image: url("emojiawesome-extra2-stack.svg#1f42f");
+    background-image: url("emoji-extra2-stack.svg#1f42f");
 }
 .ea-koala {
-    background-image: url("emojiawesome-extra2-stack.svg#1f428");
+    background-image: url("emoji-extra2-stack.svg#1f428");
 }
 .ea-bear {
-    background-image: url("emojiawesome-extra2-stack.svg#1f43b");
+    background-image: url("emoji-extra2-stack.svg#1f43b");
 }
 .ea-pig {
-    background-image: url("emojiawesome-extra2-stack.svg#1f437");
+    background-image: url("emoji-extra2-stack.svg#1f437");
 }
 .ea-pig-nose {
-    background-image: url("emojiawesome-extra2-stack.svg#1f43d");
+    background-image: url("emoji-extra2-stack.svg#1f43d");
 }
 .ea-cow {
-    background-image: url("emojiawesome-extra2-stack.svg#1f42e");
+    background-image: url("emoji-extra2-stack.svg#1f42e");
 }
 .ea-boar {
-    background-image: url("emojiawesome-extra2-stack.svg#1f417");
+    background-image: url("emoji-extra2-stack.svg#1f417");
 }
 .ea-monkey-face {
-    background-image: url("emojiawesome-extra2-stack.svg#1f435");
+    background-image: url("emoji-extra2-stack.svg#1f435");
 }
 .ea-monkey {
-    background-image: url("emojiawesome-extra2-stack.svg#1f412");
+    background-image: url("emoji-extra2-stack.svg#1f412");
 }
 .ea-horse {
-    background-image: url("emojiawesome-extra2-stack.svg#1f434");
+    background-image: url("emoji-extra2-stack.svg#1f434");
 }
 .ea-racehorse {
-    background-image: url("emojiawesome-extra2-stack.svg#1f40e");
+    background-image: url("emoji-extra2-stack.svg#1f40e");
 }
 .ea-camel {
-    background-image: url("emojiawesome-extra2-stack.svg#1f42b");
+    background-image: url("emoji-extra2-stack.svg#1f42b");
 }
 .ea-sheep {
-    background-image: url("emojiawesome-extra2-stack.svg#1f411");
+    background-image: url("emoji-extra2-stack.svg#1f411");
 }
 .ea-elephant {
-    background-image: url("emojiawesome-extra2-stack.svg#1f418");
+    background-image: url("emoji-extra2-stack.svg#1f418");
 }
 .ea-panda-face {
-    background-image: url("emojiawesome-extra2-stack.svg#1f43c");
+    background-image: url("emoji-extra2-stack.svg#1f43c");
 }
 .ea-snake {
-    background-image: url("emojiawesome-extra2-stack.svg#1f40d");
+    background-image: url("emoji-extra2-stack.svg#1f40d");
 }
 .ea-bird {
-    background-image: url("emojiawesome-extra2-stack.svg#1f426");
+    background-image: url("emoji-extra2-stack.svg#1f426");
 }
 .ea-baby-chick {
-    background-image: url("emojiawesome-extra2-stack.svg#1f424");
+    background-image: url("emoji-extra2-stack.svg#1f424");
 }
 .ea-hatched-chick {
-    background-image: url("emojiawesome-extra2-stack.svg#1f425");
+    background-image: url("emoji-extra2-stack.svg#1f425");
 }
 .ea-hatching-chick {
-    background-image: url("emojiawesome-extra2-stack.svg#1f423");
+    background-image: url("emoji-extra2-stack.svg#1f423");
 }
 .ea-chicken {
-    background-image: url("emojiawesome-extra2-stack.svg#1f414");
+    background-image: url("emoji-extra2-stack.svg#1f414");
 }
 .ea-penguin {
-    background-image: url("emojiawesome-extra2-stack.svg#1f427");
+    background-image: url("emoji-extra2-stack.svg#1f427");
 }
 .ea-turtle {
-    background-image: url("emojiawesome-extra2-stack.svg#1f422");
+    background-image: url("emoji-extra2-stack.svg#1f422");
 }
 .ea-bug {
-    background-image: url("emojiawesome-extra2-stack.svg#1f41b");
+    background-image: url("emoji-extra2-stack.svg#1f41b");
 }
 .ea-honeybee {
-    background-image: url("emojiawesome-extra2-stack.svg#1f41d");
+    background-image: url("emoji-extra2-stack.svg#1f41d");
 }
 .ea-ant {
-    background-image: url("emojiawesome-extra2-stack.svg#1f41c");
+    background-image: url("emoji-extra2-stack.svg#1f41c");
 }
 .ea-beetle {
-    background-image: url("emojiawesome-extra2-stack.svg#1f41e");
+    background-image: url("emoji-extra2-stack.svg#1f41e");
 }
 .ea-snail {
-    background-image: url("emojiawesome-extra2-stack.svg#1f40c");
+    background-image: url("emoji-extra2-stack.svg#1f40c");
 }
 .ea-octopus {
-    background-image: url("emojiawesome-extra2-stack.svg#1f419");
+    background-image: url("emoji-extra2-stack.svg#1f419");
 }
 .ea-tropical-fish {
-    background-image: url("emojiawesome-extra2-stack.svg#1f420");
+    background-image: url("emoji-extra2-stack.svg#1f420");
 }
 .ea-fish {
-    background-image: url("emojiawesome-extra2-stack.svg#1f41f");
+    background-image: url("emoji-extra2-stack.svg#1f41f");
 }
 .ea-whale {
-    background-image: url("emojiawesome-extra2-stack.svg#1f433");
+    background-image: url("emoji-extra2-stack.svg#1f433");
 }
 .ea-whale2 {
-    background-image: url("emojiawesome-extra2-stack.svg#1f40b");
+    background-image: url("emoji-extra2-stack.svg#1f40b");
 }
 .ea-dolphin {
-    background-image: url("emojiawesome-extra2-stack.svg#1f42c");
+    background-image: url("emoji-extra2-stack.svg#1f42c");
 }
 .ea-cow2 {
-    background-image: url("emojiawesome-extra2-stack.svg#1f404");
+    background-image: url("emoji-extra2-stack.svg#1f404");
 }
 .ea-ram {
-    background-image: url("emojiawesome-extra2-stack.svg#1f40f");
+    background-image: url("emoji-extra2-stack.svg#1f40f");
 }
 .ea-rat {
-    background-image: url("emojiawesome-extra2-stack.svg#1f400");
+    background-image: url("emoji-extra2-stack.svg#1f400");
 }
 .ea-water-buffalo {
-    background-image: url("emojiawesome-extra2-stack.svg#1f403");
+    background-image: url("emoji-extra2-stack.svg#1f403");
 }
 .ea-tiger2 {
-    background-image: url("emojiawesome-extra2-stack.svg#1f405");
+    background-image: url("emoji-extra2-stack.svg#1f405");
 }
 .ea-rabbit2 {
-    background-image: url("emojiawesome-extra2-stack.svg#1f407");
+    background-image: url("emoji-extra2-stack.svg#1f407");
 }
 .ea-dragon {
-    background-image: url("emojiawesome-extra2-stack.svg#1f409");
+    background-image: url("emoji-extra2-stack.svg#1f409");
 }
 .ea-goat {
-    background-image: url("emojiawesome-extra2-stack.svg#1f410");
+    background-image: url("emoji-extra2-stack.svg#1f410");
 }
 .ea-rooster {
-    background-image: url("emojiawesome-extra2-stack.svg#1f413");
+    background-image: url("emoji-extra2-stack.svg#1f413");
 }
 .ea-dog2 {
-    background-image: url("emojiawesome-extra2-stack.svg#1f415");
+    background-image: url("emoji-extra2-stack.svg#1f415");
 }
 .ea-pig2 {
-    background-image: url("emojiawesome-extra2-stack.svg#1f416");
+    background-image: url("emoji-extra2-stack.svg#1f416");
 }
 .ea-mouse2 {
-    background-image: url("emojiawesome-extra2-stack.svg#1f401");
+    background-image: url("emoji-extra2-stack.svg#1f401");
 }
 .ea-ox {
-    background-image: url("emojiawesome-extra2-stack.svg#1f402");
+    background-image: url("emoji-extra2-stack.svg#1f402");
 }
 .ea-dragon-face {
-    background-image: url("emojiawesome-extra2-stack.svg#1f432");
+    background-image: url("emoji-extra2-stack.svg#1f432");
 }
 .ea-blowfish {
-    background-image: url("emojiawesome-extra2-stack.svg#1f421");
+    background-image: url("emoji-extra2-stack.svg#1f421");
 }
 .ea-crocodile {
-    background-image: url("emojiawesome-extra2-stack.svg#1f40a");
+    background-image: url("emoji-extra2-stack.svg#1f40a");
 }
 .ea-dromedary-camel {
-    background-image: url("emojiawesome-extra2-stack.svg#1f42a");
+    background-image: url("emoji-extra2-stack.svg#1f42a");
 }
 .ea-leopard {
-    background-image: url("emojiawesome-extra2-stack.svg#1f406");
+    background-image: url("emoji-extra2-stack.svg#1f406");
 }
 .ea-cat2 {
-    background-image: url("emojiawesome-extra2-stack.svg#1f408");
+    background-image: url("emoji-extra2-stack.svg#1f408");
 }
 .ea-poodle {
-    background-image: url("emojiawesome-extra2-stack.svg#1f429");
+    background-image: url("emoji-extra2-stack.svg#1f429");
 }
 .ea-paw-prints {
-    background-image: url("emojiawesome-extra2-stack.svg#1f43e");
+    background-image: url("emoji-extra2-stack.svg#1f43e");
 }
 .ea-bouquet {
-    background-image: url("emojiawesome-extra2-stack.svg#1f490");
+    background-image: url("emoji-extra2-stack.svg#1f490");
 }
 .ea-cherry-blossom {
-    background-image: url("emojiawesome-extra2-stack.svg#1f338");
+    background-image: url("emoji-extra2-stack.svg#1f338");
 }
 .ea-tulip {
-    background-image: url("emojiawesome-extra3-stack.svg#1f337");
+    background-image: url("emoji-extra3-stack.svg#1f337");
 }
 .ea-four-leaf-clover {
-    background-image: url("emojiawesome-extra3-stack.svg#1f340");
+    background-image: url("emoji-extra3-stack.svg#1f340");
 }
 .ea-rose {
-    background-image: url("emojiawesome-extra3-stack.svg#1f339");
+    background-image: url("emoji-extra3-stack.svg#1f339");
 }
 .ea-sunflower {
-    background-image: url("emojiawesome-extra3-stack.svg#1f33b");
+    background-image: url("emoji-extra3-stack.svg#1f33b");
 }
 .ea-hibiscus {
-    background-image: url("emojiawesome-extra3-stack.svg#1f33a");
+    background-image: url("emoji-extra3-stack.svg#1f33a");
 }
 .ea-maple-leaf {
-    background-image: url("emojiawesome-extra3-stack.svg#1f341");
+    background-image: url("emoji-extra3-stack.svg#1f341");
 }
 .ea-leaves {
-    background-image: url("emojiawesome-extra3-stack.svg#1f343");
+    background-image: url("emoji-extra3-stack.svg#1f343");
 }
 .ea-fallen-leaf {
-    background-image: url("emojiawesome-extra3-stack.svg#1f342");
+    background-image: url("emoji-extra3-stack.svg#1f342");
 }
 .ea-herb {
-    background-image: url("emojiawesome-extra3-stack.svg#1f33f");
+    background-image: url("emoji-extra3-stack.svg#1f33f");
 }
 .ea-mushroom {
-    background-image: url("emojiawesome-extra3-stack.svg#1f344");
+    background-image: url("emoji-extra3-stack.svg#1f344");
 }
 .ea-cactus {
-    background-image: url("emojiawesome-extra3-stack.svg#1f335");
+    background-image: url("emoji-extra3-stack.svg#1f335");
 }
 .ea-palm-tree {
-    background-image: url("emojiawesome-extra3-stack.svg#1f334");
+    background-image: url("emoji-extra3-stack.svg#1f334");
 }
 .ea-evergreen-tree {
-    background-image: url("emojiawesome-extra3-stack.svg#1f332");
+    background-image: url("emoji-extra3-stack.svg#1f332");
 }
 .ea-deciduous-tree {
-    background-image: url("emojiawesome-extra3-stack.svg#1f333");
+    background-image: url("emoji-extra3-stack.svg#1f333");
 }
 .ea-chestnut {
-    background-image: url("emojiawesome-extra3-stack.svg#1f330");
+    background-image: url("emoji-extra3-stack.svg#1f330");
 }
 .ea-seedling {
-    background-image: url("emojiawesome-extra3-stack.svg#1f331");
+    background-image: url("emoji-extra3-stack.svg#1f331");
 }
 .ea-blossom {
-    background-image: url("emojiawesome-extra3-stack.svg#1f33c");
+    background-image: url("emoji-extra3-stack.svg#1f33c");
 }
 .ea-ear-of-rice {
-    background-image: url("emojiawesome-extra3-stack.svg#1f33e");
+    background-image: url("emoji-extra3-stack.svg#1f33e");
 }
 .ea-shell {
-    background-image: url("emojiawesome-extra3-stack.svg#1f41a");
+    background-image: url("emoji-extra3-stack.svg#1f41a");
 }
 .ea-globe-with-meridians {
-    background-image: url("emojiawesome-extra3-stack.svg#1f310");
+    background-image: url("emoji-extra3-stack.svg#1f310");
 }
 .ea-sun-with-face {
-    background-image: url("emojiawesome-extra3-stack.svg#1f31e");
+    background-image: url("emoji-extra3-stack.svg#1f31e");
 }
 .ea-full-moon-with-face {
-    background-image: url("emojiawesome-extra3-stack.svg#1f31d");
+    background-image: url("emoji-extra3-stack.svg#1f31d");
 }
 .ea-new-moon-with-face {
-    background-image: url("emojiawesome-extra3-stack.svg#1f31a");
+    background-image: url("emoji-extra3-stack.svg#1f31a");
 }
 .ea-new-moon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f311");
+    background-image: url("emoji-extra3-stack.svg#1f311");
 }
 .ea-waxing-crescent-moon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f312");
+    background-image: url("emoji-extra3-stack.svg#1f312");
 }
 .ea-first-quarter-moon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f313");
+    background-image: url("emoji-extra3-stack.svg#1f313");
 }
 .ea-waxing-gibbous-moon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f314");
+    background-image: url("emoji-extra3-stack.svg#1f314");
 }
 .ea-full-moon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f315");
+    background-image: url("emoji-extra3-stack.svg#1f315");
 }
 .ea-waning-gibbous-moon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f316");
+    background-image: url("emoji-extra3-stack.svg#1f316");
 }
 .ea-last-quarter-moon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f317");
+    background-image: url("emoji-extra3-stack.svg#1f317");
 }
 .ea-waning-crescent-moon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f318");
+    background-image: url("emoji-extra3-stack.svg#1f318");
 }
 .ea-last-quarter-moon-with-face {
-    background-image: url("emojiawesome-extra3-stack.svg#1f31c");
+    background-image: url("emoji-extra3-stack.svg#1f31c");
 }
 .ea-first-quarter-moon-with-face {
-    background-image: url("emojiawesome-extra3-stack.svg#1f31b");
+    background-image: url("emoji-extra3-stack.svg#1f31b");
 }
 .ea-moon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f319");
+    background-image: url("emoji-extra3-stack.svg#1f319");
 }
 .ea-earth-africa {
-    background-image: url("emojiawesome-extra3-stack.svg#1f30d");
+    background-image: url("emoji-extra3-stack.svg#1f30d");
 }
 .ea-earth-americas {
-    background-image: url("emojiawesome-extra3-stack.svg#1f30e");
+    background-image: url("emoji-extra3-stack.svg#1f30e");
 }
 .ea-earth-asia {
-    background-image: url("emojiawesome-extra3-stack.svg#1f30f");
+    background-image: url("emoji-extra3-stack.svg#1f30f");
 }
 .ea-volcano {
-    background-image: url("emojiawesome-extra3-stack.svg#1f30b");
+    background-image: url("emoji-extra3-stack.svg#1f30b");
 }
 .ea-milky-way {
-    background-image: url("emojiawesome-extra3-stack.svg#1f30c");
+    background-image: url("emoji-extra3-stack.svg#1f30c");
 }
 .ea-partly-sunny {
-    background-image: url("emojiawesome-extra3-stack.svg#26c5");
+    background-image: url("emoji-extra3-stack.svg#26c5");
 }
 .ea-bamboo {
-    background-image: url("emojiawesome-extra3-stack.svg#1f38d");
+    background-image: url("emoji-extra3-stack.svg#1f38d");
 }
 .ea-gift-heart {
-    background-image: url("emojiawesome-extra3-stack.svg#1f49d");
+    background-image: url("emoji-extra3-stack.svg#1f49d");
 }
 .ea-dolls {
-    background-image: url("emojiawesome-extra3-stack.svg#1f38e");
+    background-image: url("emoji-extra3-stack.svg#1f38e");
 }
 .ea-school-satchel {
-    background-image: url("emojiawesome-extra3-stack.svg#1f392");
+    background-image: url("emoji-extra3-stack.svg#1f392");
 }
 .ea-mortar-board {
-    background-image: url("emojiawesome-extra3-stack.svg#1f393");
+    background-image: url("emoji-extra3-stack.svg#1f393");
 }
 .ea-flags {
-    background-image: url("emojiawesome-extra3-stack.svg#1f38f");
+    background-image: url("emoji-extra3-stack.svg#1f38f");
 }
 .ea-fireworks {
-    background-image: url("emojiawesome-extra3-stack.svg#1f386");
+    background-image: url("emoji-extra3-stack.svg#1f386");
 }
 .ea-sparkler {
-    background-image: url("emojiawesome-extra3-stack.svg#1f387");
+    background-image: url("emoji-extra3-stack.svg#1f387");
 }
 .ea-wind-chime {
-    background-image: url("emojiawesome-extra3-stack.svg#1f390");
+    background-image: url("emoji-extra3-stack.svg#1f390");
 }
 .ea-rice-scene {
-    background-image: url("emojiawesome-extra3-stack.svg#1f391");
+    background-image: url("emoji-extra3-stack.svg#1f391");
 }
 .ea-jack-o-lantern {
-    background-image: url("emojiawesome-extra3-stack.svg#1f383");
+    background-image: url("emoji-extra3-stack.svg#1f383");
 }
 .ea-ghost {
-    background-image: url("emojiawesome-extra3-stack.svg#1f47b");
+    background-image: url("emoji-extra3-stack.svg#1f47b");
 }
 .ea-santa {
-    background-image: url("emojiawesome-extra3-stack.svg#1f385");
+    background-image: url("emoji-extra3-stack.svg#1f385");
 }
 .ea-8ball {
-    background-image: url("emojiawesome-extra3-stack.svg#1f3b1");
+    background-image: url("emoji-extra3-stack.svg#1f3b1");
 }
 .ea-alarm-clock {
-    background-image: url("emojiawesome-extra3-stack.svg#23f0");
+    background-image: url("emoji-extra3-stack.svg#23f0");
 }
 .ea-apple {
-    background-image: url("emojiawesome-extra3-stack.svg#1f34e");
+    background-image: url("emoji-extra3-stack.svg#1f34e");
 }
 .ea-art {
-    background-image: url("emojiawesome-extra3-stack.svg#1f3a8");
+    background-image: url("emoji-extra3-stack.svg#1f3a8");
 }
 .ea-baby-bottle {
-    background-image: url("emojiawesome-extra3-stack.svg#1f37c");
+    background-image: url("emoji-extra3-stack.svg#1f37c");
 }
 .ea-balloon {
-    background-image: url("emojiawesome-extra3-stack.svg#1f388");
+    background-image: url("emoji-extra3-stack.svg#1f388");
 }
 .ea-banana {
-    background-image: url("emojiawesome-extra3-stack.svg#1f34c");
+    background-image: url("emoji-extra3-stack.svg#1f34c");
 }
 .ea-bar-chart {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4ca");
+    background-image: url("emoji-extra3-stack.svg#1f4ca");
 }
 .ea-baseball {
-    background-image: url("emojiawesome-extra3-stack.svg#26be");
+    background-image: url("emoji-extra3-stack.svg#26be");
 }
 .ea-basketball {
-    background-image: url("emojiawesome-extra3-stack.svg#1f3c0");
+    background-image: url("emoji-extra3-stack.svg#1f3c0");
 }
 .ea-bath {
-    background-image: url("emojiawesome-extra3-stack.svg#1f6c0");
+    background-image: url("emoji-extra3-stack.svg#1f6c0");
 }
 .ea-bathtub {
-    background-image: url("emojiawesome-extra3-stack.svg#1f6c1");
+    background-image: url("emoji-extra3-stack.svg#1f6c1");
 }
 .ea-battery {
-    background-image: url("emojiawesome-extra3-stack.svg#1f50b");
+    background-image: url("emoji-extra3-stack.svg#1f50b");
 }
 .ea-beer {
-    background-image: url("emojiawesome-extra3-stack.svg#1f37a");
+    background-image: url("emoji-extra3-stack.svg#1f37a");
 }
 .ea-beers {
-    background-image: url("emojiawesome-extra3-stack.svg#1f37b");
+    background-image: url("emoji-extra3-stack.svg#1f37b");
 }
 .ea-bell {
-    background-image: url("emojiawesome-extra3-stack.svg#1f514");
+    background-image: url("emoji-extra3-stack.svg#1f514");
 }
 .ea-bento {
-    background-image: url("emojiawesome-extra3-stack.svg#1f371");
+    background-image: url("emoji-extra3-stack.svg#1f371");
 }
 .ea-bicyclist {
-    background-image: url("emojiawesome-extra3-stack.svg#1f6b4");
+    background-image: url("emoji-extra3-stack.svg#1f6b4");
 }
 .ea-bikini {
-    background-image: url("emojiawesome-extra3-stack.svg#1f459");
+    background-image: url("emoji-extra3-stack.svg#1f459");
 }
 .ea-birthday {
-    background-image: url("emojiawesome-extra3-stack.svg#1f382");
+    background-image: url("emoji-extra3-stack.svg#1f382");
 }
 .ea-black-joker {
-    background-image: url("emojiawesome-extra3-stack.svg#1f0cf");
+    background-image: url("emoji-extra3-stack.svg#1f0cf");
 }
 .ea-black-nib {
-    background-image: url("emojiawesome-extra3-stack.svg#2712");
+    background-image: url("emoji-extra3-stack.svg#2712");
 }
 .ea-blue-book {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4d8");
+    background-image: url("emoji-extra3-stack.svg#1f4d8");
 }
 .ea-bomb {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4a3");
+    background-image: url("emoji-extra3-stack.svg#1f4a3");
 }
 .ea-bookmark {
-    background-image: url("emojiawesome-extra3-stack.svg#1f516");
+    background-image: url("emoji-extra3-stack.svg#1f516");
 }
 .ea-bookmark-tabs {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4d1");
+    background-image: url("emoji-extra3-stack.svg#1f4d1");
 }
 .ea-book {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4d6");
+    background-image: url("emoji-extra3-stack.svg#1f4d6");
 }
 .ea-books {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4da");
+    background-image: url("emoji-extra3-stack.svg#1f4da");
 }
 .ea-boot {
-    background-image: url("emojiawesome-extra3-stack.svg#1f462");
+    background-image: url("emoji-extra3-stack.svg#1f462");
 }
 .ea-bowling {
-    background-image: url("emojiawesome-extra3-stack.svg#1f3b3");
+    background-image: url("emoji-extra3-stack.svg#1f3b3");
 }
 .ea-bread {
-    background-image: url("emojiawesome-extra3-stack.svg#1f35e");
+    background-image: url("emoji-extra3-stack.svg#1f35e");
 }
 .ea-briefcase {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4bc");
+    background-image: url("emoji-extra3-stack.svg#1f4bc");
 }
 .ea-bulb {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4a1");
+    background-image: url("emoji-extra3-stack.svg#1f4a1");
 }
 .ea-cake {
-    background-image: url("emojiawesome-extra3-stack.svg#1f370");
+    background-image: url("emoji-extra3-stack.svg#1f370");
 }
 .ea-calendar {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4c6");
+    background-image: url("emoji-extra3-stack.svg#1f4c6");
 }
 .ea-calling {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4f2");
+    background-image: url("emoji-extra3-stack.svg#1f4f2");
 }
 .ea-camera {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4f7");
+    background-image: url("emoji-extra3-stack.svg#1f4f7");
 }
 .ea-candy {
-    background-image: url("emojiawesome-extra3-stack.svg#1f36c");
+    background-image: url("emoji-extra3-stack.svg#1f36c");
 }
 .ea-card-index {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4c7");
+    background-image: url("emoji-extra3-stack.svg#1f4c7");
 }
 .ea-cd {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4bf");
+    background-image: url("emoji-extra3-stack.svg#1f4bf");
 }
 .ea-chart-with-downwards-trend {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4c9");
+    background-image: url("emoji-extra3-stack.svg#1f4c9");
 }
 .ea-chart-with-upwards-trend {
-    background-image: url("emojiawesome-extra3-stack.svg#1f4c8");
+    background-image: url("emoji-extra3-stack.svg#1f4c8");
 }
 .ea-cherries {
-    background-image: url("emojiawesome-extra3-stack.svg#1f352");
+    background-image: url("emoji-extra3-stack.svg#1f352");
 }
 .ea-chocolate-bar {
-    background-image: url("emojiawesome-extra3-stack.svg#1f36b");
+    background-image: url("emoji-extra3-stack.svg#1f36b");
 }
 .ea-christmas-tree {
-    background-image: url("emojiawesome-extra4-stack.svg#1f384");
+    background-image: url("emoji-extra4-stack.svg#1f384");
 }
 .ea-clapper {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3ac");
+    background-image: url("emoji-extra4-stack.svg#1f3ac");
 }
 .ea-clipboard {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4cb");
+    background-image: url("emoji-extra4-stack.svg#1f4cb");
 }
 .ea-closed-book {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4d5");
+    background-image: url("emoji-extra4-stack.svg#1f4d5");
 }
 .ea-closed-lock-with-key {
-    background-image: url("emojiawesome-extra4-stack.svg#1f510");
+    background-image: url("emoji-extra4-stack.svg#1f510");
 }
 .ea-closed-umbrella {
-    background-image: url("emojiawesome-extra4-stack.svg#1f302");
+    background-image: url("emoji-extra4-stack.svg#1f302");
 }
 .ea-clubs {
-    background-image: url("emojiawesome-extra4-stack.svg#2663");
+    background-image: url("emoji-extra4-stack.svg#2663");
 }
 .ea-cocktail {
-    background-image: url("emojiawesome-extra4-stack.svg#1f378");
+    background-image: url("emoji-extra4-stack.svg#1f378");
 }
 .ea-coffee {
-    background-image: url("emojiawesome-extra4-stack.svg#2615");
+    background-image: url("emoji-extra4-stack.svg#2615");
 }
 .ea-computer {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4bb");
+    background-image: url("emoji-extra4-stack.svg#1f4bb");
 }
 .ea-confetti-ball {
-    background-image: url("emojiawesome-extra4-stack.svg#1f38a");
+    background-image: url("emoji-extra4-stack.svg#1f38a");
 }
 .ea-cookie {
-    background-image: url("emojiawesome-extra4-stack.svg#1f36a");
+    background-image: url("emoji-extra4-stack.svg#1f36a");
 }
 .ea-corn {
-    background-image: url("emojiawesome-extra4-stack.svg#1f33d");
+    background-image: url("emoji-extra4-stack.svg#1f33d");
 }
 .ea-credit-card {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4b3");
+    background-image: url("emoji-extra4-stack.svg#1f4b3");
 }
 .ea-crown {
-    background-image: url("emojiawesome-extra4-stack.svg#1f451");
+    background-image: url("emoji-extra4-stack.svg#1f451");
 }
 .ea-crystal-ball {
-    background-image: url("emojiawesome-extra4-stack.svg#1f52e");
+    background-image: url("emoji-extra4-stack.svg#1f52e");
 }
 .ea-curry {
-    background-image: url("emojiawesome-extra4-stack.svg#1f35b");
+    background-image: url("emoji-extra4-stack.svg#1f35b");
 }
 .ea-custard {
-    background-image: url("emojiawesome-extra4-stack.svg#1f36e");
+    background-image: url("emoji-extra4-stack.svg#1f36e");
 }
 .ea-dango {
-    background-image: url("emojiawesome-extra4-stack.svg#1f361");
+    background-image: url("emoji-extra4-stack.svg#1f361");
 }
 .ea-dart {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3af");
+    background-image: url("emoji-extra4-stack.svg#1f3af");
 }
 .ea-date {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4c5");
+    background-image: url("emoji-extra4-stack.svg#1f4c5");
 }
 .ea-diamonds {
-    background-image: url("emojiawesome-extra4-stack.svg#2666");
+    background-image: url("emoji-extra4-stack.svg#2666");
 }
 .ea-dollar {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4b5");
+    background-image: url("emoji-extra4-stack.svg#1f4b5");
 }
 .ea-door {
-    background-image: url("emojiawesome-extra4-stack.svg#1f6aa");
+    background-image: url("emoji-extra4-stack.svg#1f6aa");
 }
 .ea-doughnut {
-    background-image: url("emojiawesome-extra4-stack.svg#1f369");
+    background-image: url("emoji-extra4-stack.svg#1f369");
 }
 .ea-dress {
-    background-image: url("emojiawesome-extra4-stack.svg#1f457");
+    background-image: url("emoji-extra4-stack.svg#1f457");
 }
 .ea-dvd {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4c0");
+    background-image: url("emoji-extra4-stack.svg#1f4c0");
 }
 .ea-e-mail {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4e7");
+    background-image: url("emoji-extra4-stack.svg#1f4e7");
 }
 .ea-egg {
-    background-image: url("emojiawesome-extra4-stack.svg#1f373");
+    background-image: url("emoji-extra4-stack.svg#1f373");
 }
 .ea-eggplant {
-    background-image: url("emojiawesome-extra4-stack.svg#1f346");
+    background-image: url("emoji-extra4-stack.svg#1f346");
 }
 .ea-electric-plug {
-    background-image: url("emojiawesome-extra4-stack.svg#1f50c");
+    background-image: url("emoji-extra4-stack.svg#1f50c");
 }
 .ea-email {
-    background-image: url("emojiawesome-extra4-stack.svg#2709");
+    background-image: url("emoji-extra4-stack.svg#2709");
 }
 .ea-euro {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4b6");
+    background-image: url("emoji-extra4-stack.svg#1f4b6");
 }
 .ea-eyeglasses {
-    background-image: url("emojiawesome-extra4-stack.svg#1f453");
+    background-image: url("emoji-extra4-stack.svg#1f453");
 }
 .ea-fax {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4e0");
+    background-image: url("emoji-extra4-stack.svg#1f4e0");
 }
 .ea-file-folder {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4c1");
+    background-image: url("emoji-extra4-stack.svg#1f4c1");
 }
 .ea-fish-cake {
-    background-image: url("emojiawesome-extra4-stack.svg#1f365");
+    background-image: url("emoji-extra4-stack.svg#1f365");
 }
 .ea-fishing-pole-and-fish {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3a3");
+    background-image: url("emoji-extra4-stack.svg#1f3a3");
 }
 .ea-flashlight {
-    background-image: url("emojiawesome-extra4-stack.svg#1f526");
+    background-image: url("emoji-extra4-stack.svg#1f526");
 }
 .ea-floppy-disk {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4be");
+    background-image: url("emoji-extra4-stack.svg#1f4be");
 }
 .ea-flower-playing-cards {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3b4");
+    background-image: url("emoji-extra4-stack.svg#1f3b4");
 }
 .ea-football {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3c8");
+    background-image: url("emoji-extra4-stack.svg#1f3c8");
 }
 .ea-fork-and-knife {
-    background-image: url("emojiawesome-extra4-stack.svg#1f374");
+    background-image: url("emoji-extra4-stack.svg#1f374");
 }
 .ea-fried-shrimp {
-    background-image: url("emojiawesome-extra4-stack.svg#1f364");
+    background-image: url("emoji-extra4-stack.svg#1f364");
 }
 .ea-fries {
-    background-image: url("emojiawesome-extra4-stack.svg#1f35f");
+    background-image: url("emoji-extra4-stack.svg#1f35f");
 }
 .ea-game-die {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3b2");
+    background-image: url("emoji-extra4-stack.svg#1f3b2");
 }
 .ea-gem {
-    background-image: url("emojiawesome-extra4-stack.svg#1f48e");
+    background-image: url("emoji-extra4-stack.svg#1f48e");
 }
 .ea-gift {
-    background-image: url("emojiawesome-extra4-stack.svg#1f381");
+    background-image: url("emoji-extra4-stack.svg#1f381");
 }
 .ea-golf {
-    background-image: url("emojiawesome-extra4-stack.svg#26f3");
+    background-image: url("emoji-extra4-stack.svg#26f3");
 }
 .ea-grapes {
-    background-image: url("emojiawesome-extra4-stack.svg#1f347");
+    background-image: url("emoji-extra4-stack.svg#1f347");
 }
 .ea-green-apple {
-    background-image: url("emojiawesome-extra4-stack.svg#1f34f");
+    background-image: url("emoji-extra4-stack.svg#1f34f");
 }
 .ea-green-book {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4d7");
+    background-image: url("emoji-extra4-stack.svg#1f4d7");
 }
 .ea-guitar {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3b8");
+    background-image: url("emoji-extra4-stack.svg#1f3b8");
 }
 .ea-gun {
-    background-image: url("emojiawesome-extra4-stack.svg#1f52b");
+    background-image: url("emoji-extra4-stack.svg#1f52b");
 }
 .ea-hamburger {
-    background-image: url("emojiawesome-extra4-stack.svg#1f354");
+    background-image: url("emoji-extra4-stack.svg#1f354");
 }
 .ea-hammer {
-    background-image: url("emojiawesome-extra4-stack.svg#1f528");
+    background-image: url("emoji-extra4-stack.svg#1f528");
 }
 .ea-handbag {
-    background-image: url("emojiawesome-extra4-stack.svg#1f45c");
+    background-image: url("emoji-extra4-stack.svg#1f45c");
 }
 .ea-headphones {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3a7");
+    background-image: url("emoji-extra4-stack.svg#1f3a7");
 }
 .ea-hearts {
-    background-image: url("emojiawesome-extra4-stack.svg#2665");
+    background-image: url("emoji-extra4-stack.svg#2665");
 }
 .ea-high-brightness {
-    background-image: url("emojiawesome-extra4-stack.svg#1f506");
+    background-image: url("emoji-extra4-stack.svg#1f506");
 }
 .ea-high-heel {
-    background-image: url("emojiawesome-extra4-stack.svg#1f460");
+    background-image: url("emoji-extra4-stack.svg#1f460");
 }
 .ea-hocho {
-    background-image: url("emojiawesome-extra4-stack.svg#1f52a");
+    background-image: url("emoji-extra4-stack.svg#1f52a");
 }
 .ea-honey-pot {
-    background-image: url("emojiawesome-extra4-stack.svg#1f36f");
+    background-image: url("emoji-extra4-stack.svg#1f36f");
 }
 .ea-horse-racing {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3c7");
+    background-image: url("emoji-extra4-stack.svg#1f3c7");
 }
 .ea-hourglass {
-    background-image: url("emojiawesome-extra4-stack.svg#231b");
+    background-image: url("emoji-extra4-stack.svg#231b");
 }
 .ea-hourglass-flowing-sand {
-    background-image: url("emojiawesome-extra4-stack.svg#23f3");
+    background-image: url("emoji-extra4-stack.svg#23f3");
 }
 .ea-ice-cream {
-    background-image: url("emojiawesome-extra4-stack.svg#1f368");
+    background-image: url("emoji-extra4-stack.svg#1f368");
 }
 .ea-icecream {
-    background-image: url("emojiawesome-extra4-stack.svg#1f366");
+    background-image: url("emoji-extra4-stack.svg#1f366");
 }
 .ea-inbox-tray {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4e5");
+    background-image: url("emoji-extra4-stack.svg#1f4e5");
 }
 .ea-incoming-envelope {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4e8");
+    background-image: url("emoji-extra4-stack.svg#1f4e8");
 }
 .ea-iphone {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4f1");
+    background-image: url("emoji-extra4-stack.svg#1f4f1");
 }
 .ea-jeans {
-    background-image: url("emojiawesome-extra4-stack.svg#1f456");
+    background-image: url("emoji-extra4-stack.svg#1f456");
 }
 .ea-key {
-    background-image: url("emojiawesome-extra4-stack.svg#1f511");
+    background-image: url("emoji-extra4-stack.svg#1f511");
 }
 .ea-kimono {
-    background-image: url("emojiawesome-extra4-stack.svg#1f458");
+    background-image: url("emoji-extra4-stack.svg#1f458");
 }
 .ea-ledger {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4d2");
+    background-image: url("emoji-extra4-stack.svg#1f4d2");
 }
 .ea-lemon {
-    background-image: url("emojiawesome-extra4-stack.svg#1f34b");
+    background-image: url("emoji-extra4-stack.svg#1f34b");
 }
 .ea-lipstick {
-    background-image: url("emojiawesome-extra4-stack.svg#1f484");
+    background-image: url("emoji-extra4-stack.svg#1f484");
 }
 .ea-lock {
-    background-image: url("emojiawesome-extra4-stack.svg#1f512");
+    background-image: url("emoji-extra4-stack.svg#1f512");
 }
 .ea-lock-with-ink-pen {
-    background-image: url("emojiawesome-extra4-stack.svg#1f50f");
+    background-image: url("emoji-extra4-stack.svg#1f50f");
 }
 .ea-lollipop {
-    background-image: url("emojiawesome-extra4-stack.svg#1f36d");
+    background-image: url("emoji-extra4-stack.svg#1f36d");
 }
 .ea-loop {
-    background-image: url("emojiawesome-extra4-stack.svg#27bf");
+    background-image: url("emoji-extra4-stack.svg#27bf");
 }
 .ea-loudspeaker {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4e2");
+    background-image: url("emoji-extra4-stack.svg#1f4e2");
 }
 .ea-low-brightness {
-    background-image: url("emojiawesome-extra4-stack.svg#1f505");
+    background-image: url("emoji-extra4-stack.svg#1f505");
 }
 .ea-mag {
-    background-image: url("emojiawesome-extra4-stack.svg#1f50d");
+    background-image: url("emoji-extra4-stack.svg#1f50d");
 }
 .ea-mag-right {
-    background-image: url("emojiawesome-extra4-stack.svg#1f50e");
+    background-image: url("emoji-extra4-stack.svg#1f50e");
 }
 .ea-mahjong {
-    background-image: url("emojiawesome-extra4-stack.svg#1f004");
+    background-image: url("emoji-extra4-stack.svg#1f004");
 }
 .ea-mailbox {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4eb");
+    background-image: url("emoji-extra4-stack.svg#1f4eb");
 }
 .ea-mailbox-closed {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4ea");
+    background-image: url("emoji-extra4-stack.svg#1f4ea");
 }
 .ea-mailbox-with-mail {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4ec");
+    background-image: url("emoji-extra4-stack.svg#1f4ec");
 }
 .ea-mailbox-with-no-mail {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4ed");
+    background-image: url("emoji-extra4-stack.svg#1f4ed");
 }
 .ea-mans-shoe {
-    background-image: url("emojiawesome-extra4-stack.svg#1f45e");
+    background-image: url("emoji-extra4-stack.svg#1f45e");
 }
 .ea-meat-on-bone {
-    background-image: url("emojiawesome-extra4-stack.svg#1f356");
+    background-image: url("emoji-extra4-stack.svg#1f356");
 }
 .ea-mega {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4e3");
+    background-image: url("emoji-extra4-stack.svg#1f4e3");
 }
 .ea-melon {
-    background-image: url("emojiawesome-extra4-stack.svg#1f348");
+    background-image: url("emoji-extra4-stack.svg#1f348");
 }
 .ea-memo {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4dd");
+    background-image: url("emoji-extra4-stack.svg#1f4dd");
 }
 .ea-microphone {
-    background-image: url("emojiawesome-extra4-stack.svg#1f3a4");
+    background-image: url("emoji-extra4-stack.svg#1f3a4");
 }
 .ea-microscope {
-    background-image: url("emojiawesome-extra4-stack.svg#1f52c");
+    background-image: url("emoji-extra4-stack.svg#1f52c");
 }
 .ea-minidisc {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4bd");
+    background-image: url("emoji-extra4-stack.svg#1f4bd");
 }
 .ea-money-with-wings {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4b8");
+    background-image: url("emoji-extra4-stack.svg#1f4b8");
 }
 .ea-moneybag {
-    background-image: url("emojiawesome-extra4-stack.svg#1f4b0");
+    background-image: url("emoji-extra4-stack.svg#1f4b0");
 }
 .ea-mountain-bicyclist {
-    background-image: url("emojiawesome-extra4-stack.svg#1f6b5");
+    background-image: url("emoji-extra4-stack.svg#1f6b5");
 }
 .ea-movie-camera {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3a5");
+    background-image: url("emoji-extra5-stack.svg#1f3a5");
 }
 .ea-musical-keyboard {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3b9");
+    background-image: url("emoji-extra5-stack.svg#1f3b9");
 }
 .ea-musical-score {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3bc");
+    background-image: url("emoji-extra5-stack.svg#1f3bc");
 }
 .ea-mute {
-    background-image: url("emojiawesome-extra5-stack.svg#1f507");
+    background-image: url("emoji-extra5-stack.svg#1f507");
 }
 .ea-name-badge {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4db");
+    background-image: url("emoji-extra5-stack.svg#1f4db");
 }
 .ea-necktie {
-    background-image: url("emojiawesome-extra5-stack.svg#1f454");
+    background-image: url("emoji-extra5-stack.svg#1f454");
 }
 .ea-newspaper {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4f0");
+    background-image: url("emoji-extra5-stack.svg#1f4f0");
 }
 .ea-no-bell {
-    background-image: url("emojiawesome-extra5-stack.svg#1f515");
+    background-image: url("emoji-extra5-stack.svg#1f515");
 }
 .ea-notebook {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4d3");
+    background-image: url("emoji-extra5-stack.svg#1f4d3");
 }
 .ea-notebook-with-decorative-cover {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4d4");
+    background-image: url("emoji-extra5-stack.svg#1f4d4");
 }
 .ea-nut-and-bolt {
-    background-image: url("emojiawesome-extra5-stack.svg#1f529");
+    background-image: url("emoji-extra5-stack.svg#1f529");
 }
 .ea-oden {
-    background-image: url("emojiawesome-extra5-stack.svg#1f362");
+    background-image: url("emoji-extra5-stack.svg#1f362");
 }
 .ea-open-file-folder {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4c2");
+    background-image: url("emoji-extra5-stack.svg#1f4c2");
 }
 .ea-orange-book {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4d9");
+    background-image: url("emoji-extra5-stack.svg#1f4d9");
 }
 .ea-outbox-tray {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4e4");
+    background-image: url("emoji-extra5-stack.svg#1f4e4");
 }
 .ea-page-facing-up {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4c4");
+    background-image: url("emoji-extra5-stack.svg#1f4c4");
 }
 .ea-page-with-curl {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4c3");
+    background-image: url("emoji-extra5-stack.svg#1f4c3");
 }
 .ea-pager {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4df");
+    background-image: url("emoji-extra5-stack.svg#1f4df");
 }
 .ea-paperclip {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4ce");
+    background-image: url("emoji-extra5-stack.svg#1f4ce");
 }
 .ea-peach {
-    background-image: url("emojiawesome-extra5-stack.svg#1f351");
+    background-image: url("emoji-extra5-stack.svg#1f351");
 }
 .ea-pear {
-    background-image: url("emojiawesome-extra5-stack.svg#1f350");
+    background-image: url("emoji-extra5-stack.svg#1f350");
 }
 .ea-pencil2 {
-    background-image: url("emojiawesome-extra5-stack.svg#270f");
+    background-image: url("emoji-extra5-stack.svg#270f");
 }
 .ea-phone {
-    background-image: url("emojiawesome-extra5-stack.svg#260e");
+    background-image: url("emoji-extra5-stack.svg#260e");
 }
 .ea-pill {
-    background-image: url("emojiawesome-extra5-stack.svg#1f48a");
+    background-image: url("emoji-extra5-stack.svg#1f48a");
 }
 .ea-pineapple {
-    background-image: url("emojiawesome-extra5-stack.svg#1f34d");
+    background-image: url("emoji-extra5-stack.svg#1f34d");
 }
 .ea-pizza {
-    background-image: url("emojiawesome-extra5-stack.svg#1f355");
+    background-image: url("emoji-extra5-stack.svg#1f355");
 }
 .ea-postal-horn {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4ef");
+    background-image: url("emoji-extra5-stack.svg#1f4ef");
 }
 .ea-postbox {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4ee");
+    background-image: url("emoji-extra5-stack.svg#1f4ee");
 }
 .ea-pouch {
-    background-image: url("emojiawesome-extra5-stack.svg#1f45d");
+    background-image: url("emoji-extra5-stack.svg#1f45d");
 }
 .ea-poultry-leg {
-    background-image: url("emojiawesome-extra5-stack.svg#1f357");
+    background-image: url("emoji-extra5-stack.svg#1f357");
 }
 .ea-pound {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4b7");
+    background-image: url("emoji-extra5-stack.svg#1f4b7");
 }
 .ea-purse {
-    background-image: url("emojiawesome-extra5-stack.svg#1f45b");
+    background-image: url("emoji-extra5-stack.svg#1f45b");
 }
 .ea-pushpin {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4cc");
+    background-image: url("emoji-extra5-stack.svg#1f4cc");
 }
 .ea-radio {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4fb");
+    background-image: url("emoji-extra5-stack.svg#1f4fb");
 }
 .ea-ramen {
-    background-image: url("emojiawesome-extra5-stack.svg#1f35c");
+    background-image: url("emoji-extra5-stack.svg#1f35c");
 }
 .ea-ribbon {
-    background-image: url("emojiawesome-extra5-stack.svg#1f380");
+    background-image: url("emoji-extra5-stack.svg#1f380");
 }
 .ea-rice {
-    background-image: url("emojiawesome-extra5-stack.svg#1f35a");
+    background-image: url("emoji-extra5-stack.svg#1f35a");
 }
 .ea-rice-ball {
-    background-image: url("emojiawesome-extra5-stack.svg#1f359");
+    background-image: url("emoji-extra5-stack.svg#1f359");
 }
 .ea-rice-cracker {
-    background-image: url("emojiawesome-extra5-stack.svg#1f358");
+    background-image: url("emoji-extra5-stack.svg#1f358");
 }
 .ea-ring {
-    background-image: url("emojiawesome-extra5-stack.svg#1f48d");
+    background-image: url("emoji-extra5-stack.svg#1f48d");
 }
 .ea-rugby-football {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3c9");
+    background-image: url("emoji-extra5-stack.svg#1f3c9");
 }
 .ea-running-shirt-with-sash {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3bd");
+    background-image: url("emoji-extra5-stack.svg#1f3bd");
 }
 .ea-sake {
-    background-image: url("emojiawesome-extra5-stack.svg#1f376");
+    background-image: url("emoji-extra5-stack.svg#1f376");
 }
 .ea-sandal {
-    background-image: url("emojiawesome-extra5-stack.svg#1f461");
+    background-image: url("emoji-extra5-stack.svg#1f461");
 }
 .ea-satellite {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4e1");
+    background-image: url("emoji-extra5-stack.svg#1f4e1");
 }
 .ea-saxophone {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3b7");
+    background-image: url("emoji-extra5-stack.svg#1f3b7");
 }
 .ea-scissors {
-    background-image: url("emojiawesome-extra5-stack.svg#2702");
+    background-image: url("emoji-extra5-stack.svg#2702");
 }
 .ea-scroll {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4dc");
+    background-image: url("emoji-extra5-stack.svg#1f4dc");
 }
 .ea-seat {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4ba");
+    background-image: url("emoji-extra5-stack.svg#1f4ba");
 }
 .ea-shaved-ice {
-    background-image: url("emojiawesome-extra5-stack.svg#1f367");
+    background-image: url("emoji-extra5-stack.svg#1f367");
 }
 .ea-shirt {
-    background-image: url("emojiawesome-extra5-stack.svg#1f455");
+    background-image: url("emoji-extra5-stack.svg#1f455");
 }
 .ea-shower {
-    background-image: url("emojiawesome-extra5-stack.svg#1f6bf");
+    background-image: url("emoji-extra5-stack.svg#1f6bf");
 }
 .ea-ski {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3bf");
+    background-image: url("emoji-extra5-stack.svg#1f3bf");
 }
 .ea-smoking {
-    background-image: url("emojiawesome-extra5-stack.svg#1f6ac");
+    background-image: url("emoji-extra5-stack.svg#1f6ac");
 }
 .ea-snowboarder {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3c2");
+    background-image: url("emoji-extra5-stack.svg#1f3c2");
 }
 .ea-soccer {
-    background-image: url("emojiawesome-extra5-stack.svg#26bd");
+    background-image: url("emoji-extra5-stack.svg#26bd");
 }
 .ea-sound {
-    background-image: url("emojiawesome-extra5-stack.svg#1f509");
+    background-image: url("emoji-extra5-stack.svg#1f509");
 }
 .ea-space-invader {
-    background-image: url("emojiawesome-extra5-stack.svg#1f47e");
+    background-image: url("emoji-extra5-stack.svg#1f47e");
 }
 .ea-spades {
-    background-image: url("emojiawesome-extra5-stack.svg#2660");
+    background-image: url("emoji-extra5-stack.svg#2660");
 }
 .ea-spaghetti {
-    background-image: url("emojiawesome-extra5-stack.svg#1f35d");
+    background-image: url("emoji-extra5-stack.svg#1f35d");
 }
 .ea-speaker {
-    background-image: url("emojiawesome-extra5-stack.svg#1f50a");
+    background-image: url("emoji-extra5-stack.svg#1f50a");
 }
 .ea-stew {
-    background-image: url("emojiawesome-extra5-stack.svg#1f372");
+    background-image: url("emoji-extra5-stack.svg#1f372");
 }
 .ea-straight-ruler {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4cf");
+    background-image: url("emoji-extra5-stack.svg#1f4cf");
 }
 .ea-strawberry {
-    background-image: url("emojiawesome-extra5-stack.svg#1f353");
+    background-image: url("emoji-extra5-stack.svg#1f353");
 }
 .ea-surfer {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3c4");
+    background-image: url("emoji-extra5-stack.svg#1f3c4");
 }
 .ea-sushi {
-    background-image: url("emojiawesome-extra5-stack.svg#1f363");
+    background-image: url("emoji-extra5-stack.svg#1f363");
 }
 .ea-sweet-potato {
-    background-image: url("emojiawesome-extra5-stack.svg#1f360");
+    background-image: url("emoji-extra5-stack.svg#1f360");
 }
 .ea-swimmer {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3ca");
+    background-image: url("emoji-extra5-stack.svg#1f3ca");
 }
 .ea-syringe {
-    background-image: url("emojiawesome-extra5-stack.svg#1f489");
+    background-image: url("emoji-extra5-stack.svg#1f489");
 }
 .ea-tada {
-    background-image: url("emojiawesome-extra5-stack.svg#1f389");
+    background-image: url("emoji-extra5-stack.svg#1f389");
 }
 .ea-tanabata-tree {
-    background-image: url("emojiawesome-extra5-stack.svg#1f38b");
+    background-image: url("emoji-extra5-stack.svg#1f38b");
 }
 .ea-tangerine {
-    background-image: url("emojiawesome-extra5-stack.svg#1f34a");
+    background-image: url("emoji-extra5-stack.svg#1f34a");
 }
 .ea-tea {
-    background-image: url("emojiawesome-extra5-stack.svg#1f375");
+    background-image: url("emoji-extra5-stack.svg#1f375");
 }
 .ea-telephone-receiver {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4de");
+    background-image: url("emoji-extra5-stack.svg#1f4de");
 }
 .ea-telescope {
-    background-image: url("emojiawesome-extra5-stack.svg#1f52d");
+    background-image: url("emoji-extra5-stack.svg#1f52d");
 }
 .ea-tennis {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3be");
+    background-image: url("emoji-extra5-stack.svg#1f3be");
 }
 .ea-toilet {
-    background-image: url("emojiawesome-extra5-stack.svg#1f6bd");
+    background-image: url("emoji-extra5-stack.svg#1f6bd");
 }
 .ea-tomato {
-    background-image: url("emojiawesome-extra5-stack.svg#1f345");
+    background-image: url("emoji-extra5-stack.svg#1f345");
 }
 .ea-tophat {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3a9");
+    background-image: url("emoji-extra5-stack.svg#1f3a9");
 }
 .ea-triangular-ruler {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4d0");
+    background-image: url("emoji-extra5-stack.svg#1f4d0");
 }
 .ea-trophy {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3c6");
+    background-image: url("emoji-extra5-stack.svg#1f3c6");
 }
 .ea-tropical-drink {
-    background-image: url("emojiawesome-extra5-stack.svg#1f379");
+    background-image: url("emoji-extra5-stack.svg#1f379");
 }
 .ea-trumpet {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3ba");
+    background-image: url("emoji-extra5-stack.svg#1f3ba");
 }
 .ea-tv {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4fa");
+    background-image: url("emoji-extra5-stack.svg#1f4fa");
 }
 .ea-unlock {
-    background-image: url("emojiawesome-extra5-stack.svg#1f513");
+    background-image: url("emoji-extra5-stack.svg#1f513");
 }
 .ea-vhs {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4fc");
+    background-image: url("emoji-extra5-stack.svg#1f4fc");
 }
 .ea-video-camera {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4f9");
+    background-image: url("emoji-extra5-stack.svg#1f4f9");
 }
 .ea-video-game {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3ae");
+    background-image: url("emoji-extra5-stack.svg#1f3ae");
 }
 .ea-violin {
-    background-image: url("emojiawesome-extra5-stack.svg#1f3bb");
+    background-image: url("emoji-extra5-stack.svg#1f3bb");
 }
 .ea-watch {
-    background-image: url("emojiawesome-extra5-stack.svg#231a");
+    background-image: url("emoji-extra5-stack.svg#231a");
 }
 .ea-watermelon {
-    background-image: url("emojiawesome-extra5-stack.svg#1f349");
+    background-image: url("emoji-extra5-stack.svg#1f349");
 }
 .ea-wine-glass {
-    background-image: url("emojiawesome-extra5-stack.svg#1f377");
+    background-image: url("emoji-extra5-stack.svg#1f377");
 }
 .ea-womans-clothes {
-    background-image: url("emojiawesome-extra5-stack.svg#1f45a");
+    background-image: url("emoji-extra5-stack.svg#1f45a");
 }
 .ea-womans-hat {
-    background-image: url("emojiawesome-extra5-stack.svg#1f452");
+    background-image: url("emoji-extra5-stack.svg#1f452");
 }
 .ea-wrench {
-    background-image: url("emojiawesome-extra5-stack.svg#1f527");
+    background-image: url("emoji-extra5-stack.svg#1f527");
 }
 .ea-yen {
-    background-image: url("emojiawesome-extra5-stack.svg#1f4b4");
+    background-image: url("emoji-extra5-stack.svg#1f4b4");
 }
 .ea-aerial-tramway {
-    background-image: url("emojiawesome-extra5-stack.svg#1f6a1");
+    background-image: url("emoji-extra5-stack.svg#1f6a1");
 }
 .ea-airplane {
-    background-image: url("emojiawesome-extra5-stack.svg#2708");
+    background-image: url("emoji-extra5-stack.svg#2708");
 }
 .ea-ambulance {
-    background-image: url("emojiawesome-extra6-stack.svg#1f691");
+    background-image: url("emoji-extra6-stack.svg#1f691");
 }
 .ea-anchor {
-    background-image: url("emojiawesome-extra6-stack.svg#2693");
+    background-image: url("emoji-extra6-stack.svg#2693");
 }
 .ea-articulated-lorry {
-    background-image: url("emojiawesome-extra6-stack.svg#1f69b");
+    background-image: url("emoji-extra6-stack.svg#1f69b");
 }
 .ea-atm {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e7");
+    background-image: url("emoji-extra6-stack.svg#1f3e7");
 }
 .ea-bank {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e6");
+    background-image: url("emoji-extra6-stack.svg#1f3e6");
 }
 .ea-barber {
-    background-image: url("emojiawesome-extra6-stack.svg#1f488");
+    background-image: url("emoji-extra6-stack.svg#1f488");
 }
 .ea-beginner {
-    background-image: url("emojiawesome-extra6-stack.svg#1f530");
+    background-image: url("emoji-extra6-stack.svg#1f530");
 }
 .ea-bike {
-    background-image: url("emojiawesome-extra6-stack.svg#1f6b2");
+    background-image: url("emoji-extra6-stack.svg#1f6b2");
 }
 .ea-blue-car {
-    background-image: url("emojiawesome-extra6-stack.svg#1f699");
+    background-image: url("emoji-extra6-stack.svg#1f699");
 }
 .ea-boat {
-    background-image: url("emojiawesome-extra6-stack.svg#26f5");
+    background-image: url("emoji-extra6-stack.svg#26f5");
 }
 .ea-bridge-at-night {
-    background-image: url("emojiawesome-extra6-stack.svg#1f309");
+    background-image: url("emoji-extra6-stack.svg#1f309");
 }
 .ea-bullettrain-front {
-    background-image: url("emojiawesome-extra6-stack.svg#1f685");
+    background-image: url("emoji-extra6-stack.svg#1f685");
 }
 .ea-bullettrain-side {
-    background-image: url("emojiawesome-extra6-stack.svg#1f684");
+    background-image: url("emoji-extra6-stack.svg#1f684");
 }
 .ea-bus {
-    background-image: url("emojiawesome-extra6-stack.svg#1f68c");
+    background-image: url("emoji-extra6-stack.svg#1f68c");
 }
 .ea-busstop {
-    background-image: url("emojiawesome-extra6-stack.svg#1f68f");
+    background-image: url("emoji-extra6-stack.svg#1f68f");
 }
 .ea-car {
-    background-image: url("emojiawesome-extra6-stack.svg#1f697");
+    background-image: url("emoji-extra6-stack.svg#1f697");
 }
 .ea-carousel-horse {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3a0");
+    background-image: url("emoji-extra6-stack.svg#1f3a0");
 }
 .ea-church {
-    background-image: url("emojiawesome-extra6-stack.svg#26ea");
+    background-image: url("emoji-extra6-stack.svg#26ea");
 }
 .ea-circus-tent {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3aa");
+    background-image: url("emoji-extra6-stack.svg#1f3aa");
 }
 .ea-city-sunrise {
-    background-image: url("emojiawesome-extra6-stack.svg#1f307");
+    background-image: url("emoji-extra6-stack.svg#1f307");
 }
 .ea-city-sunset {
-    background-image: url("emojiawesome-extra6-stack.svg#1f306");
+    background-image: url("emoji-extra6-stack.svg#1f306");
 }
 .ea-construction {
-    background-image: url("emojiawesome-extra6-stack.svg#1f6a7");
+    background-image: url("emoji-extra6-stack.svg#1f6a7");
 }
 .ea-convenience-store {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3ea");
+    background-image: url("emoji-extra6-stack.svg#1f3ea");
 }
 .ea-department-store {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3ec");
+    background-image: url("emoji-extra6-stack.svg#1f3ec");
 }
 .ea-european-castle {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3f0");
+    background-image: url("emoji-extra6-stack.svg#1f3f0");
 }
 .ea-european-post-office {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e4");
+    background-image: url("emoji-extra6-stack.svg#1f3e4");
 }
 .ea-factory {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3ed");
+    background-image: url("emoji-extra6-stack.svg#1f3ed");
 }
 .ea-ferris-wheel {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3a1");
+    background-image: url("emoji-extra6-stack.svg#1f3a1");
 }
 .ea-fire-engine {
-    background-image: url("emojiawesome-extra6-stack.svg#1f692");
+    background-image: url("emoji-extra6-stack.svg#1f692");
 }
 .ea-fountain {
-    background-image: url("emojiawesome-extra6-stack.svg#26f2");
+    background-image: url("emoji-extra6-stack.svg#26f2");
 }
 .ea-fuelpump {
-    background-image: url("emojiawesome-extra6-stack.svg#26fd");
+    background-image: url("emoji-extra6-stack.svg#26fd");
 }
 .ea-helicopter {
-    background-image: url("emojiawesome-extra6-stack.svg#1f681");
+    background-image: url("emoji-extra6-stack.svg#1f681");
 }
 .ea-hospital {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e5");
+    background-image: url("emoji-extra6-stack.svg#1f3e5");
 }
 .ea-hotel {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e8");
+    background-image: url("emoji-extra6-stack.svg#1f3e8");
 }
 .ea-hotsprings {
-    background-image: url("emojiawesome-extra6-stack.svg#2668");
+    background-image: url("emoji-extra6-stack.svg#2668");
 }
 .ea-house {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e0");
+    background-image: url("emoji-extra6-stack.svg#1f3e0");
 }
 .ea-house-with-garden {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e1");
+    background-image: url("emoji-extra6-stack.svg#1f3e1");
 }
 .ea-japan {
-    background-image: url("emojiawesome-extra6-stack.svg#1f5fe");
+    background-image: url("emoji-extra6-stack.svg#1f5fe");
 }
 .ea-japanese-castle {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3ef");
+    background-image: url("emoji-extra6-stack.svg#1f3ef");
 }
 .ea-light-rail {
-    background-image: url("emojiawesome-extra6-stack.svg#1f688");
+    background-image: url("emoji-extra6-stack.svg#1f688");
 }
 .ea-love-hotel {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e9");
+    background-image: url("emoji-extra6-stack.svg#1f3e9");
 }
 .ea-minibus {
-    background-image: url("emojiawesome-extra6-stack.svg#1f690");
+    background-image: url("emoji-extra6-stack.svg#1f690");
 }
 .ea-monorail {
-    background-image: url("emojiawesome-extra6-stack.svg#1f69d");
+    background-image: url("emoji-extra6-stack.svg#1f69d");
 }
 .ea-mount-fuji {
-    background-image: url("emojiawesome-extra6-stack.svg#1f5fb");
+    background-image: url("emoji-extra6-stack.svg#1f5fb");
 }
 .ea-mountain-cableway {
-    background-image: url("emojiawesome-extra6-stack.svg#1f6a0");
+    background-image: url("emoji-extra6-stack.svg#1f6a0");
 }
 .ea-mountain-railway {
-    background-image: url("emojiawesome-extra6-stack.svg#1f69e");
+    background-image: url("emoji-extra6-stack.svg#1f69e");
 }
 .ea-moyai {
-    background-image: url("emojiawesome-extra6-stack.svg#1f5ff");
+    background-image: url("emoji-extra6-stack.svg#1f5ff");
 }
 .ea-office {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e2");
+    background-image: url("emoji-extra6-stack.svg#1f3e2");
 }
 .ea-oncoming-automobile {
-    background-image: url("emojiawesome-extra6-stack.svg#1f698");
+    background-image: url("emoji-extra6-stack.svg#1f698");
 }
 .ea-oncoming-bus {
-    background-image: url("emojiawesome-extra6-stack.svg#1f68d");
+    background-image: url("emoji-extra6-stack.svg#1f68d");
 }
 .ea-oncoming-police-car {
-    background-image: url("emojiawesome-extra6-stack.svg#1f694");
+    background-image: url("emoji-extra6-stack.svg#1f694");
 }
 .ea-oncoming-taxi {
-    background-image: url("emojiawesome-extra6-stack.svg#1f696");
+    background-image: url("emoji-extra6-stack.svg#1f696");
 }
 .ea-performing-arts {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3ad");
+    background-image: url("emoji-extra6-stack.svg#1f3ad");
 }
 .ea-police-car {
-    background-image: url("emojiawesome-extra6-stack.svg#1f693");
+    background-image: url("emoji-extra6-stack.svg#1f693");
 }
 .ea-post-office {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3e3");
+    background-image: url("emoji-extra6-stack.svg#1f3e3");
 }
 .ea-railway-car {
-    background-image: url("emojiawesome-extra6-stack.svg#1f683");
+    background-image: url("emoji-extra6-stack.svg#1f683");
 }
 .ea-rainbow {
-    background-image: url("emojiawesome-extra6-stack.svg#1f308");
+    background-image: url("emoji-extra6-stack.svg#1f308");
 }
 .ea-rocket {
-    background-image: url("emojiawesome-extra6-stack.svg#1f680");
+    background-image: url("emoji-extra6-stack.svg#1f680");
 }
 .ea-roller-coaster {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3a2");
+    background-image: url("emoji-extra6-stack.svg#1f3a2");
 }
 .ea-rotating-light {
-    background-image: url("emojiawesome-extra6-stack.svg#1f6a8");
+    background-image: url("emoji-extra6-stack.svg#1f6a8");
 }
 .ea-round-pushpin {
-    background-image: url("emojiawesome-extra6-stack.svg#1f4cd");
+    background-image: url("emoji-extra6-stack.svg#1f4cd");
 }
 .ea-rowboat {
-    background-image: url("emojiawesome-extra6-stack.svg#1f6a3");
+    background-image: url("emoji-extra6-stack.svg#1f6a3");
 }
 .ea-school {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3eb");
+    background-image: url("emoji-extra6-stack.svg#1f3eb");
 }
 .ea-ship {
-    background-image: url("emojiawesome-extra6-stack.svg#1f6a2");
+    background-image: url("emoji-extra6-stack.svg#1f6a2");
 }
 .ea-slot-machine {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3b0");
+    background-image: url("emoji-extra6-stack.svg#1f3b0");
 }
 .ea-speedboat {
-    background-image: url("emojiawesome-extra6-stack.svg#1f6a4");
+    background-image: url("emoji-extra6-stack.svg#1f6a4");
 }
 .ea-stars {
-    background-image: url("emojiawesome-extra6-stack.svg#1f303");
+    background-image: url("emoji-extra6-stack.svg#1f303");
 }
 .ea-station {
-    background-image: url("emojiawesome-extra6-stack.svg#1f689");
+    background-image: url("emoji-extra6-stack.svg#1f689");
 }
 .ea-statue-of-liberty {
-    background-image: url("emojiawesome-extra6-stack.svg#1f5fd");
+    background-image: url("emoji-extra6-stack.svg#1f5fd");
 }
 .ea-steam-locomotive {
-    background-image: url("emojiawesome-extra6-stack.svg#1f682");
+    background-image: url("emoji-extra6-stack.svg#1f682");
 }
 .ea-sunrise {
-    background-image: url("emojiawesome-extra6-stack.svg#1f305");
+    background-image: url("emoji-extra6-stack.svg#1f305");
 }
 .ea-sunrise-over-mountains {
-    background-image: url("emojiawesome-extra6-stack.svg#1f304");
+    background-image: url("emoji-extra6-stack.svg#1f304");
 }
 .ea-suspension-railway {
-    background-image: url("emojiawesome-extra6-stack.svg#1f69f");
+    background-image: url("emoji-extra6-stack.svg#1f69f");
 }
 .ea-taxi {
-    background-image: url("emojiawesome-extra6-stack.svg#1f695");
+    background-image: url("emoji-extra6-stack.svg#1f695");
 }
 .ea-tent {
-    background-image: url("emojiawesome-extra6-stack.svg#26fa");
+    background-image: url("emoji-extra6-stack.svg#26fa");
 }
 .ea-ticket {
-    background-image: url("emojiawesome-extra6-stack.svg#1f3ab");
+    background-image: url("emoji-extra6-stack.svg#1f3ab");
 }
 .ea-tokyo-tower {
-    background-image: url("emojiawesome-extra6-stack.svg#1f5fc");
+    background-image: url("emoji-extra6-stack.svg#1f5fc");
 }
 .ea-tractor {
-    background-image: url("emojiawesome-extra6-stack.svg#1f69c");
+    background-image: url("emoji-extra6-stack.svg#1f69c");
 }
 .ea-traffic-light {
-    background-image: url("emojiawesome-extra6-stack.svg#1f6a5");
+    background-image: url("emoji-extra6-stack.svg#1f6a5");
 }
 .ea-train2 {
-    background-image: url("emojiawesome-extra6-stack.svg#1f686");
+    background-image: url("emoji-extra6-stack.svg#1f686");
 }
 .ea-tram {
-    background-image: url("emojiawesome-extra6-stack.svg#1f68a");
+    background-image: url("emoji-extra6-stack.svg#1f68a");
 }
 .ea-trolleybus {
-    background-image: url("emojiawesome-extra6-stack.svg#1f68e");
+    background-image: url("emoji-extra6-stack.svg#1f68e");
 }
 .ea-truck {
-    background-image: url("emojiawesome-extra6-stack.svg#1f69a");
+    background-image: url("emoji-extra6-stack.svg#1f69a");
 }
 .ea-vertical-traffic-light {
-    background-image: url("emojiawesome-extra6-stack.svg#1f6a6");
+    background-image: url("emoji-extra6-stack.svg#1f6a6");
 }
 .ea-warning {
-    background-image: url("emojiawesome-extra6-stack.svg#26a0");
+    background-image: url("emoji-extra6-stack.svg#26a0");
 }
 .ea-wedding {
-    background-image: url("emojiawesome-extra6-stack.svg#1f492");
+    background-image: url("emoji-extra6-stack.svg#1f492");
 }
 .eaminus100 {
-    background-image: url("emojiawesome-extra6-stack.svg#1f4af");
+    background-image: url("emoji-extra6-stack.svg#1f4af");
 }
 .eaminus1234 {
-    background-image: url("emojiawesome-extra6-stack.svg#1f522");
+    background-image: url("emoji-extra6-stack.svg#1f522");
 }
 .ea-a {
-    background-image: url("emojiawesome-extra7-stack.svg#1f170");
+    background-image: url("emoji-extra7-stack.svg#1f170");
 }
 .ea-ab {
-    background-image: url("emojiawesome-extra7-stack.svg#1f18e");
+    background-image: url("emoji-extra7-stack.svg#1f18e");
 }
 .ea-abc {
-    background-image: url("emojiawesome-extra7-stack.svg#1f524");
+    background-image: url("emoji-extra7-stack.svg#1f524");
 }
 .ea-abcd {
-    background-image: url("emojiawesome-extra7-stack.svg#1f521");
+    background-image: url("emoji-extra7-stack.svg#1f521");
 }
 .ea-accept {
-    background-image: url("emojiawesome-extra7-stack.svg#1f251");
+    background-image: url("emoji-extra7-stack.svg#1f251");
 }
 .ea-aquarius {
-    background-image: url("emojiawesome-extra7-stack.svg#2652");
+    background-image: url("emoji-extra7-stack.svg#2652");
 }
 .ea-aries {
-    background-image: url("emojiawesome-extra7-stack.svg#2648");
+    background-image: url("emoji-extra7-stack.svg#2648");
 }
 .ea-arrow-backward {
-    background-image: url("emojiawesome-extra7-stack.svg#25c0");
+    background-image: url("emoji-extra7-stack.svg#25c0");
 }
 .ea-arrow-double-down {
-    background-image: url("emojiawesome-extra7-stack.svg#23ec");
+    background-image: url("emoji-extra7-stack.svg#23ec");
 }
 .ea-arrow-double-up {
-    background-image: url("emojiawesome-extra7-stack.svg#23eb");
+    background-image: url("emoji-extra7-stack.svg#23eb");
 }
 .ea-arrow-down {
-    background-image: url("emojiawesome-extra7-stack.svg#2b07");
+    background-image: url("emoji-extra7-stack.svg#2b07");
 }
 .ea-arrow-down-small {
-    background-image: url("emojiawesome-extra7-stack.svg#1f53d");
+    background-image: url("emoji-extra7-stack.svg#1f53d");
 }
 .ea-arrow-forward {
-    background-image: url("emojiawesome-extra7-stack.svg#25b6");
+    background-image: url("emoji-extra7-stack.svg#25b6");
 }
 .ea-arrow-heading-down {
-    background-image: url("emojiawesome-extra7-stack.svg#2935");
+    background-image: url("emoji-extra7-stack.svg#2935");
 }
 .ea-arrow-heading-up {
-    background-image: url("emojiawesome-extra7-stack.svg#2934");
+    background-image: url("emoji-extra7-stack.svg#2934");
 }
 .ea-arrow-left {
-    background-image: url("emojiawesome-extra7-stack.svg#2b05");
+    background-image: url("emoji-extra7-stack.svg#2b05");
 }
 .ea-arrow-lower-left {
-    background-image: url("emojiawesome-extra7-stack.svg#2199");
+    background-image: url("emoji-extra7-stack.svg#2199");
 }
 .ea-arrow-lower-right {
-    background-image: url("emojiawesome-extra7-stack.svg#2198");
+    background-image: url("emoji-extra7-stack.svg#2198");
 }
 .ea-arrow-right {
-    background-image: url("emojiawesome-extra7-stack.svg#27a1");
+    background-image: url("emoji-extra7-stack.svg#27a1");
 }
 .ea-arrow-right-hook {
-    background-image: url("emojiawesome-extra7-stack.svg#21aa");
+    background-image: url("emoji-extra7-stack.svg#21aa");
 }
 .ea-arrow-up {
-    background-image: url("emojiawesome-extra7-stack.svg#2b06");
+    background-image: url("emoji-extra7-stack.svg#2b06");
 }
 .ea-arrow-up-down {
-    background-image: url("emojiawesome-extra7-stack.svg#2195");
+    background-image: url("emoji-extra7-stack.svg#2195");
 }
 .ea-arrow-up-small {
-    background-image: url("emojiawesome-extra7-stack.svg#1f53c");
+    background-image: url("emoji-extra7-stack.svg#1f53c");
 }
 .ea-arrow-upper-left {
-    background-image: url("emojiawesome-extra7-stack.svg#2196");
+    background-image: url("emoji-extra7-stack.svg#2196");
 }
 .ea-arrow-upper-right {
-    background-image: url("emojiawesome-extra7-stack.svg#2197");
+    background-image: url("emoji-extra7-stack.svg#2197");
 }
 .ea-arrows-clockwise {
-    background-image: url("emojiawesome-extra7-stack.svg#1f503");
+    background-image: url("emoji-extra7-stack.svg#1f503");
 }
 .ea-arrows-counterclockwise {
-    background-image: url("emojiawesome-extra7-stack.svg#1f504");
+    background-image: url("emoji-extra7-stack.svg#1f504");
 }
 .ea-b {
-    background-image: url("emojiawesome-extra7-stack.svg#1f171");
+    background-image: url("emoji-extra7-stack.svg#1f171");
 }
 .ea-baby-symbol {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6bc");
+    background-image: url("emoji-extra7-stack.svg#1f6bc");
 }
 .ea-baggage-claim {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6c4");
+    background-image: url("emoji-extra7-stack.svg#1f6c4");
 }
 .ea-ballot-box-with-check {
-    background-image: url("emojiawesome-extra7-stack.svg#2611");
+    background-image: url("emoji-extra7-stack.svg#2611");
 }
 .ea-bangbang {
-    background-image: url("emojiawesome-extra7-stack.svg#203c");
+    background-image: url("emoji-extra7-stack.svg#203c");
 }
 .ea-black-circle {
-    background-image: url("emojiawesome-extra7-stack.svg#26ab");
+    background-image: url("emoji-extra7-stack.svg#26ab");
 }
 .ea-black-square-button {
-    background-image: url("emojiawesome-extra7-stack.svg#1f532");
+    background-image: url("emoji-extra7-stack.svg#1f532");
 }
 .ea-cancer {
-    background-image: url("emojiawesome-extra7-stack.svg#264b");
+    background-image: url("emoji-extra7-stack.svg#264b");
 }
 .ea-capital-abcd {
-    background-image: url("emojiawesome-extra7-stack.svg#1f520");
+    background-image: url("emoji-extra7-stack.svg#1f520");
 }
 .ea-capricorn {
-    background-image: url("emojiawesome-extra7-stack.svg#2651");
+    background-image: url("emoji-extra7-stack.svg#2651");
 }
 .ea-chart {
-    background-image: url("emojiawesome-extra7-stack.svg#1f4b9");
+    background-image: url("emoji-extra7-stack.svg#1f4b9");
 }
 .ea-children-crossing {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6b8");
+    background-image: url("emoji-extra7-stack.svg#1f6b8");
 }
 .ea-cinema {
-    background-image: url("emojiawesome-extra7-stack.svg#1f3a6");
+    background-image: url("emoji-extra7-stack.svg#1f3a6");
 }
 .ea-cl {
-    background-image: url("emojiawesome-extra7-stack.svg#1f191");
+    background-image: url("emoji-extra7-stack.svg#1f191");
 }
 .ea-clock1 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f550");
+    background-image: url("emoji-extra7-stack.svg#1f550");
 }
 .ea-clock10 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f559");
+    background-image: url("emoji-extra7-stack.svg#1f559");
 }
 .ea-clock1030 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f565");
+    background-image: url("emoji-extra7-stack.svg#1f565");
 }
 .ea-clock11 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f55a");
+    background-image: url("emoji-extra7-stack.svg#1f55a");
 }
 .ea-clock1130 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f566");
+    background-image: url("emoji-extra7-stack.svg#1f566");
 }
 .ea-clock12 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f55b");
+    background-image: url("emoji-extra7-stack.svg#1f55b");
 }
 .ea-clock1230 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f567");
+    background-image: url("emoji-extra7-stack.svg#1f567");
 }
 .ea-clock130 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f55c");
+    background-image: url("emoji-extra7-stack.svg#1f55c");
 }
 .ea-clock2 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f551");
+    background-image: url("emoji-extra7-stack.svg#1f551");
 }
 .ea-clock230 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f55d");
+    background-image: url("emoji-extra7-stack.svg#1f55d");
 }
 .ea-clock3 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f552");
+    background-image: url("emoji-extra7-stack.svg#1f552");
 }
 .ea-clock330 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f55e");
+    background-image: url("emoji-extra7-stack.svg#1f55e");
 }
 .ea-clock4 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f553");
+    background-image: url("emoji-extra7-stack.svg#1f553");
 }
 .ea-clock430 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f55f");
+    background-image: url("emoji-extra7-stack.svg#1f55f");
 }
 .ea-clock5 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f554");
+    background-image: url("emoji-extra7-stack.svg#1f554");
 }
 .ea-clock530 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f560");
+    background-image: url("emoji-extra7-stack.svg#1f560");
 }
 .ea-clock6 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f555");
+    background-image: url("emoji-extra7-stack.svg#1f555");
 }
 .ea-clock630 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f561");
+    background-image: url("emoji-extra7-stack.svg#1f561");
 }
 .ea-clock7 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f556");
+    background-image: url("emoji-extra7-stack.svg#1f556");
 }
 .ea-clock730 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f562");
+    background-image: url("emoji-extra7-stack.svg#1f562");
 }
 .ea-clock8 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f557");
+    background-image: url("emoji-extra7-stack.svg#1f557");
 }
 .ea-clock830 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f563");
+    background-image: url("emoji-extra7-stack.svg#1f563");
 }
 .ea-clock9 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f558");
+    background-image: url("emoji-extra7-stack.svg#1f558");
 }
 .ea-clock930 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f564");
+    background-image: url("emoji-extra7-stack.svg#1f564");
 }
 .ea-congratulations {
-    background-image: url("emojiawesome-extra7-stack.svg#3297");
+    background-image: url("emoji-extra7-stack.svg#3297");
 }
 .ea-cool {
-    background-image: url("emojiawesome-extra7-stack.svg#1f192");
+    background-image: url("emoji-extra7-stack.svg#1f192");
 }
 .ea-copyright {
-    background-image: url("emojiawesome-extra7-stack.svg#a9");
+    background-image: url("emoji-extra7-stack.svg#a9");
 }
 .ea-curly-loop {
-    background-image: url("emojiawesome-extra7-stack.svg#27b0");
+    background-image: url("emoji-extra7-stack.svg#27b0");
 }
 .ea-currency-exchange {
-    background-image: url("emojiawesome-extra7-stack.svg#1f4b1");
+    background-image: url("emoji-extra7-stack.svg#1f4b1");
 }
 .ea-customs {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6c3");
+    background-image: url("emoji-extra7-stack.svg#1f6c3");
 }
 .ea-diamond-shape-with-a-dot-inside {
-    background-image: url("emojiawesome-extra7-stack.svg#1f4a0");
+    background-image: url("emoji-extra7-stack.svg#1f4a0");
 }
 .ea-do-not-litter {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6af");
+    background-image: url("emoji-extra7-stack.svg#1f6af");
 }
 .ea-eight {
-    background-image: url("emojiawesome-extra7-stack.svg#38-20e3");
+    background-image: url("emoji-extra7-stack.svg#38-20e3");
 }
 .ea-eight-pointed-black-star {
-    background-image: url("emojiawesome-extra7-stack.svg#2734");
+    background-image: url("emoji-extra7-stack.svg#2734");
 }
 .ea-eight-spoked-asterisk {
-    background-image: url("emojiawesome-extra7-stack.svg#2733");
+    background-image: url("emoji-extra7-stack.svg#2733");
 }
 .ea-end {
-    background-image: url("emojiawesome-extra7-stack.svg#1f51a");
+    background-image: url("emoji-extra7-stack.svg#1f51a");
 }
 .ea-fast-forward {
-    background-image: url("emojiawesome-extra7-stack.svg#23e9");
+    background-image: url("emoji-extra7-stack.svg#23e9");
 }
 .ea-five {
-    background-image: url("emojiawesome-extra7-stack.svg#35-20e3");
+    background-image: url("emoji-extra7-stack.svg#35-20e3");
 }
 .ea-four {
-    background-image: url("emojiawesome-extra7-stack.svg#34-20e3");
+    background-image: url("emoji-extra7-stack.svg#34-20e3");
 }
 .ea-free {
-    background-image: url("emojiawesome-extra7-stack.svg#1f193");
+    background-image: url("emoji-extra7-stack.svg#1f193");
 }
 .ea-gemini {
-    background-image: url("emojiawesome-extra7-stack.svg#264a");
+    background-image: url("emoji-extra7-stack.svg#264a");
 }
 .ea-hash {
-    background-image: url("emojiawesome-extra7-stack.svg#23-20e3");
+    background-image: url("emoji-extra7-stack.svg#23-20e3");
 }
 .ea-heart-decoration {
-    background-image: url("emojiawesome-extra7-stack.svg#1f49f");
+    background-image: url("emoji-extra7-stack.svg#1f49f");
 }
 .ea-heavy-check-mark {
-    background-image: url("emojiawesome-extra7-stack.svg#2714");
+    background-image: url("emoji-extra7-stack.svg#2714");
 }
 .ea-heavy-division-sign {
-    background-image: url("emojiawesome-extra7-stack.svg#2797");
+    background-image: url("emoji-extra7-stack.svg#2797");
 }
 .ea-heavy-dollar-sign {
-    background-image: url("emojiawesome-extra7-stack.svg#1f4b2");
+    background-image: url("emoji-extra7-stack.svg#1f4b2");
 }
 .ea-heavy-minus-sign {
-    background-image: url("emojiawesome-extra7-stack.svg#2796");
+    background-image: url("emoji-extra7-stack.svg#2796");
 }
 .ea-heavy-multiplication-x {
-    background-image: url("emojiawesome-extra7-stack.svg#2716");
+    background-image: url("emoji-extra7-stack.svg#2716");
 }
 .ea-heavy-plus-sign {
-    background-image: url("emojiawesome-extra7-stack.svg#2795");
+    background-image: url("emoji-extra7-stack.svg#2795");
 }
 .ea-id {
-    background-image: url("emojiawesome-extra7-stack.svg#1f194");
+    background-image: url("emoji-extra7-stack.svg#1f194");
 }
 .ea-ideograph-advantage {
-    background-image: url("emojiawesome-extra7-stack.svg#1f250");
+    background-image: url("emoji-extra7-stack.svg#1f250");
 }
 .ea-information-source {
-    background-image: url("emojiawesome-extra7-stack.svg#2139");
+    background-image: url("emoji-extra7-stack.svg#2139");
 }
 .ea-interrobang {
-    background-image: url("emojiawesome-extra7-stack.svg#2049");
+    background-image: url("emoji-extra7-stack.svg#2049");
 }
 .ea-keycap-ten {
-    background-image: url("emojiawesome-extra7-stack.svg#1f51f");
+    background-image: url("emoji-extra7-stack.svg#1f51f");
 }
 .ea-koko {
-    background-image: url("emojiawesome-extra7-stack.svg#1f201");
+    background-image: url("emoji-extra7-stack.svg#1f201");
 }
 .ea-large-blue-circle {
-    background-image: url("emojiawesome-extra7-stack.svg#1f535");
+    background-image: url("emoji-extra7-stack.svg#1f535");
 }
 .ea-large-blue-diamond {
-    background-image: url("emojiawesome-extra7-stack.svg#1f537");
+    background-image: url("emoji-extra7-stack.svg#1f537");
 }
 .ea-large-orange-diamond {
-    background-image: url("emojiawesome-extra7-stack.svg#1f536");
+    background-image: url("emoji-extra7-stack.svg#1f536");
 }
 .ea-left-luggage {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6c5");
+    background-image: url("emoji-extra7-stack.svg#1f6c5");
 }
 .ea-left-right-arrow {
-    background-image: url("emojiawesome-extra7-stack.svg#2194");
+    background-image: url("emoji-extra7-stack.svg#2194");
 }
 .ea-leftwards-arrow-with-hook {
-    background-image: url("emojiawesome-extra7-stack.svg#21a9");
+    background-image: url("emoji-extra7-stack.svg#21a9");
 }
 .ea-leo {
-    background-image: url("emojiawesome-extra7-stack.svg#264c");
+    background-image: url("emoji-extra7-stack.svg#264c");
 }
 .ea-libra {
-    background-image: url("emojiawesome-extra7-stack.svg#264e");
+    background-image: url("emoji-extra7-stack.svg#264e");
 }
 .ea-link {
-    background-image: url("emojiawesome-extra7-stack.svg#1f517");
+    background-image: url("emoji-extra7-stack.svg#1f517");
 }
 .ea-m {
-    background-image: url("emojiawesome-extra7-stack.svg#24c2");
+    background-image: url("emoji-extra7-stack.svg#24c2");
 }
 .ea-mens {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6b9");
+    background-image: url("emoji-extra7-stack.svg#1f6b9");
 }
 .ea-metro {
-    background-image: url("emojiawesome-extra7-stack.svg#1f687");
+    background-image: url("emoji-extra7-stack.svg#1f687");
 }
 .ea-mobile-phone-off {
-    background-image: url("emojiawesome-extra7-stack.svg#1f4f4");
+    background-image: url("emoji-extra7-stack.svg#1f4f4");
 }
 .ea-negative-squared-cross-mark {
-    background-image: url("emojiawesome-extra7-stack.svg#274e");
+    background-image: url("emoji-extra7-stack.svg#274e");
 }
 .ea-new {
-    background-image: url("emojiawesome-extra7-stack.svg#1f195");
+    background-image: url("emoji-extra7-stack.svg#1f195");
 }
 .ea-ng {
-    background-image: url("emojiawesome-extra7-stack.svg#1f196");
+    background-image: url("emoji-extra7-stack.svg#1f196");
 }
 .ea-nine {
-    background-image: url("emojiawesome-extra7-stack.svg#39-20e3");
+    background-image: url("emoji-extra7-stack.svg#39-20e3");
 }
 .ea-no-bicycles {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6b3");
+    background-image: url("emoji-extra7-stack.svg#1f6b3");
 }
 .ea-no-entry {
-    background-image: url("emojiawesome-extra7-stack.svg#26d4");
+    background-image: url("emoji-extra7-stack.svg#26d4");
 }
 .ea-no-entry-sign {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6ab");
+    background-image: url("emoji-extra7-stack.svg#1f6ab");
 }
 .ea-no-mobile-phones {
-    background-image: url("emojiawesome-extra7-stack.svg#1f4f5");
+    background-image: url("emoji-extra7-stack.svg#1f4f5");
 }
 .ea-no-pedestrians {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6b7");
+    background-image: url("emoji-extra7-stack.svg#1f6b7");
 }
 .ea-no-smoking {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6ad");
+    background-image: url("emoji-extra7-stack.svg#1f6ad");
 }
 .ea-non-potable-water {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6b1");
+    background-image: url("emoji-extra7-stack.svg#1f6b1");
 }
 .ea-o {
-    background-image: url("emojiawesome-extra7-stack.svg#2b55");
+    background-image: url("emoji-extra7-stack.svg#2b55");
 }
 .ea-o2 {
-    background-image: url("emojiawesome-extra7-stack.svg#1f17e");
+    background-image: url("emoji-extra7-stack.svg#1f17e");
 }
 .ea-ok {
-    background-image: url("emojiawesome-extra7-stack.svg#1f197");
+    background-image: url("emoji-extra7-stack.svg#1f197");
 }
 .ea-on {
-    background-image: url("emojiawesome-extra7-stack.svg#1f51b");
+    background-image: url("emoji-extra7-stack.svg#1f51b");
 }
 .ea-one {
-    background-image: url("emojiawesome-extra7-stack.svg#31-20e3");
+    background-image: url("emoji-extra7-stack.svg#31-20e3");
 }
 .ea-ophiuchus {
-    background-image: url("emojiawesome-extra7-stack.svg#26ce");
+    background-image: url("emoji-extra7-stack.svg#26ce");
 }
 .ea-parking {
-    background-image: url("emojiawesome-extra7-stack.svg#1f17f");
+    background-image: url("emoji-extra7-stack.svg#1f17f");
 }
 .ea-part-alternation-mark {
-    background-image: url("emojiawesome-extra7-stack.svg#303d");
+    background-image: url("emoji-extra7-stack.svg#303d");
 }
 .ea-passport-control {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6c2");
+    background-image: url("emoji-extra7-stack.svg#1f6c2");
 }
 .ea-pisces {
-    background-image: url("emojiawesome-extra7-stack.svg#2653");
+    background-image: url("emoji-extra7-stack.svg#2653");
 }
 .ea-potable-water {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6b0");
+    background-image: url("emoji-extra7-stack.svg#1f6b0");
 }
 .ea-put-litter-in-its-place {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6ae");
+    background-image: url("emoji-extra7-stack.svg#1f6ae");
 }
 .ea-radio-button {
-    background-image: url("emojiawesome-extra7-stack.svg#1f518");
+    background-image: url("emoji-extra7-stack.svg#1f518");
 }
 .ea-recycle {
-    background-image: url("emojiawesome-extra7-stack.svg#267b");
+    background-image: url("emoji-extra7-stack.svg#267b");
 }
 .ea-red-circle {
-    background-image: url("emojiawesome-extra7-stack.svg#1f534");
+    background-image: url("emoji-extra7-stack.svg#1f534");
 }
 .ea-registered {
-    background-image: url("emojiawesome-extra7-stack.svg#ae");
+    background-image: url("emoji-extra7-stack.svg#ae");
 }
 .ea-repeat {
-    background-image: url("emojiawesome-extra7-stack.svg#1f501");
+    background-image: url("emoji-extra7-stack.svg#1f501");
 }
 .ea-repeat-one {
-    background-image: url("emojiawesome-extra7-stack.svg#1f502");
+    background-image: url("emoji-extra7-stack.svg#1f502");
 }
 .ea-restroom {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6bb");
+    background-image: url("emoji-extra7-stack.svg#1f6bb");
 }
 .ea-rewind {
-    background-image: url("emojiawesome-extra7-stack.svg#23ea");
+    background-image: url("emoji-extra7-stack.svg#23ea");
 }
 .ea-sa {
-    background-image: url("emojiawesome-extra7-stack.svg#1f202");
+    background-image: url("emoji-extra7-stack.svg#1f202");
 }
 .ea-sagittarius {
-    background-image: url("emojiawesome-extra7-stack.svg#2650");
+    background-image: url("emoji-extra7-stack.svg#2650");
 }
 .ea-scorpius {
-    background-image: url("emojiawesome-extra7-stack.svg#264f");
+    background-image: url("emoji-extra7-stack.svg#264f");
 }
 .ea-secret {
-    background-image: url("emojiawesome-extra7-stack.svg#3299");
+    background-image: url("emoji-extra7-stack.svg#3299");
 }
 .ea-seven {
-    background-image: url("emojiawesome-extra7-stack.svg#37-20e3");
+    background-image: url("emoji-extra7-stack.svg#37-20e3");
 }
 .ea-signal-strength {
-    background-image: url("emojiawesome-extra7-stack.svg#1f4f6");
+    background-image: url("emoji-extra7-stack.svg#1f4f6");
 }
 .ea-six {
-    background-image: url("emojiawesome-extra7-stack.svg#36-20e3");
+    background-image: url("emoji-extra7-stack.svg#36-20e3");
 }
 .ea-six-pointed-star {
-    background-image: url("emojiawesome-extra7-stack.svg#1f52f");
+    background-image: url("emoji-extra7-stack.svg#1f52f");
 }
 .ea-small-blue-diamond {
-    background-image: url("emojiawesome-extra7-stack.svg#1f539");
+    background-image: url("emoji-extra7-stack.svg#1f539");
 }
 .ea-small-orange-diamond {
-    background-image: url("emojiawesome-extra7-stack.svg#1f538");
+    background-image: url("emoji-extra7-stack.svg#1f538");
 }
 .ea-small-red-triangle {
-    background-image: url("emojiawesome-extra7-stack.svg#1f53a");
+    background-image: url("emoji-extra7-stack.svg#1f53a");
 }
 .ea-small-red-triangle-down {
-    background-image: url("emojiawesome-extra7-stack.svg#1f53b");
+    background-image: url("emoji-extra7-stack.svg#1f53b");
 }
 .ea-soon {
-    background-image: url("emojiawesome-extra7-stack.svg#1f51c");
+    background-image: url("emoji-extra7-stack.svg#1f51c");
 }
 .ea-sos {
-    background-image: url("emojiawesome-extra7-stack.svg#1f198");
+    background-image: url("emoji-extra7-stack.svg#1f198");
 }
 .ea-symbols {
-    background-image: url("emojiawesome-extra7-stack.svg#1f523");
+    background-image: url("emoji-extra7-stack.svg#1f523");
 }
 .ea-taurus {
-    background-image: url("emojiawesome-extra7-stack.svg#2649");
+    background-image: url("emoji-extra7-stack.svg#2649");
 }
 .ea-three {
-    background-image: url("emojiawesome-extra7-stack.svg#33-20e3");
+    background-image: url("emoji-extra7-stack.svg#33-20e3");
 }
 .ea-tm {
-    background-image: url("emojiawesome-extra7-stack.svg#2122");
+    background-image: url("emoji-extra7-stack.svg#2122");
 }
 .ea-top {
-    background-image: url("emojiawesome-extra7-stack.svg#1f51d");
+    background-image: url("emoji-extra7-stack.svg#1f51d");
 }
 .ea-trident {
-    background-image: url("emojiawesome-extra7-stack.svg#1f531");
+    background-image: url("emoji-extra7-stack.svg#1f531");
 }
 .ea-twisted-rightwards-arrows {
-    background-image: url("emojiawesome-extra7-stack.svg#1f500");
+    background-image: url("emoji-extra7-stack.svg#1f500");
 }
 .ea-two {
-    background-image: url("emojiawesome-extra7-stack.svg#32-20e3");
+    background-image: url("emoji-extra7-stack.svg#32-20e3");
 }
 .ea-underage {
-    background-image: url("emojiawesome-extra7-stack.svg#1f51e");
+    background-image: url("emoji-extra7-stack.svg#1f51e");
 }
 .ea-up {
-    background-image: url("emojiawesome-extra7-stack.svg#1f199");
+    background-image: url("emoji-extra7-stack.svg#1f199");
 }
 .ea-vibration-mode {
-    background-image: url("emojiawesome-extra7-stack.svg#1f4f3");
+    background-image: url("emoji-extra7-stack.svg#1f4f3");
 }
 .ea-virgo {
-    background-image: url("emojiawesome-extra7-stack.svg#264d");
+    background-image: url("emoji-extra7-stack.svg#264d");
 }
 .ea-vs {
-    background-image: url("emojiawesome-extra7-stack.svg#1f19a");
+    background-image: url("emoji-extra7-stack.svg#1f19a");
 }
 .ea-wavy-dash {
-    background-image: url("emojiawesome-extra7-stack.svg#3030");
+    background-image: url("emoji-extra7-stack.svg#3030");
 }
 .ea-wc {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6be");
+    background-image: url("emoji-extra7-stack.svg#1f6be");
 }
 .ea-wheelchair {
-    background-image: url("emojiawesome-extra7-stack.svg#267f");
+    background-image: url("emoji-extra7-stack.svg#267f");
 }
 .ea-white-check-mark {
-    background-image: url("emojiawesome-extra7-stack.svg#2705");
+    background-image: url("emoji-extra7-stack.svg#2705");
 }
 .ea-white-circle {
-    background-image: url("emojiawesome-extra7-stack.svg#26aa");
+    background-image: url("emoji-extra7-stack.svg#26aa");
 }
 .ea-white-flower {
-    background-image: url("emojiawesome-extra7-stack.svg#1f4ae");
+    background-image: url("emoji-extra7-stack.svg#1f4ae");
 }
 .ea-white-square-button {
-    background-image: url("emojiawesome-extra7-stack.svg#1f533");
+    background-image: url("emoji-extra7-stack.svg#1f533");
 }
 .ea-womens {
-    background-image: url("emojiawesome-extra7-stack.svg#1f6ba");
+    background-image: url("emoji-extra7-stack.svg#1f6ba");
 }
 .ea-x {
-    background-image: url("emojiawesome-extra7-stack.svg#274c");
+    background-image: url("emoji-extra7-stack.svg#274c");
 }
 .ea-zero {
-    background-image: url("emojiawesome-extra7-stack.svg#30-20e3");
+    background-image: url("emoji-extra7-stack.svg#30-20e3");
 }
 .ea-checkered-flag {
-    background-image: url("emojiawesome-flags-stack.svg#1f3c1");
+    background-image: url("emoji-flags-stack.svg#1f3c1");
 }
 .ea-triangular-flag-on-post {
-    background-image: url("emojiawesome-flags-stack.svg#1f6a9");
+    background-image: url("emoji-flags-stack.svg#1f6a9");
 }
 .ea-crossed-flags {
-    background-image: url("emojiawesome-flags-stack.svg#1f38c");
+    background-image: url("emoji-flags-stack.svg#1f38c");
 }
 .ea-pirate-flag {
-    background-image: url("emojiawesome-flags-stack.svg#1f3f4-200d-2620-fe0f");
+    background-image: url("emoji-flags-stack.svg#1f3f4-200d-2620-fe0f");
 }
 .ea-rainbow-flag {
-    background-image: url("emojiawesome-flags-stack.svg#1f3f3-fe0f-200d-1f308");
+    background-image: url("emoji-flags-stack.svg#1f3f3-fe0f-200d-1f308");
 }
 .ea-european-union {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ea-1f1fa");
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1fa");
 }
 .ea-jp {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ef-1f1f5");
+    background-image: url("emoji-flags-stack.svg#1f1ef-1f1f5");
 }
 .ea-kr {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f0-1f1f7");
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1f7");
 }
 .ea-cn {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e8-1f1f3");
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1f3");
 }
 .ea-us {
-    background-image: url("emojiawesome-flags-stack.svg#1f1fa-1f1f8");
+    background-image: url("emoji-flags-stack.svg#1f1fa-1f1f8");
 }
 .ea-ru {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f7-1f1fa");
+    background-image: url("emoji-flags-stack.svg#1f1f7-1f1fa");
 }
 .ea-gb {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ec-1f1e7");
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1e7");
 }
 .ea-austria {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e6-1f1f9");
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1f9");
 }
 .ea-belgium {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e7-1f1ea");
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1ea");
 }
 .ea-bulgaria {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e7-1f1ec");
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1ec");
 }
 .ea-canada {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e8-1f1e6");
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1e6");
 }
 .ea-croatia {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ed-1f1f7");
+    background-image: url("emoji-flags-stack.svg#1f1ed-1f1f7");
 }
 .ea-cyprus {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e8-1f1fe");
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1fe");
 }
 .ea-czechia {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e8-1f1ff");
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1ff");
 }
 .ea-denmark {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e9-1f1f0");
+    background-image: url("emoji-flags-stack.svg#1f1e9-1f1f0");
 }
 .ea-estonia {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ea-1f1ea");
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1ea");
 }
 .ea-finland {
-    background-image: url("emojiawesome-flags-stack.svg#1f1eb-1f1ee");
+    background-image: url("emoji-flags-stack.svg#1f1eb-1f1ee");
 }
 .ea-france {
-    background-image: url("emojiawesome-flags-stack.svg#1f1eb-1f1f7");
+    background-image: url("emoji-flags-stack.svg#1f1eb-1f1f7");
 }
 .ea-germany {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e9-1f1ea");
+    background-image: url("emoji-flags-stack.svg#1f1e9-1f1ea");
 }
 .ea-greece {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ec-1f1f7");
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1f7");
 }
 .ea-hungary {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ed-1f1fa");
+    background-image: url("emoji-flags-stack.svg#1f1ed-1f1fa");
 }
 .ea-iceland {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ee-1f1f8");
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f8");
 }
 .ea-ireland {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ee-1f1ea");
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1ea");
 }
 .ea-italy {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ee-1f1f9");
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f9");
 }
 .ea-latvia {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f1-1f1fb");
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1fb");
 }
 .ea-lithuania {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f1-1f1f9");
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1f9");
 }
 .ea-luxembourg {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f1-1f1fa");
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1fa");
 }
 .ea-malta {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f2-1f1f9");
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f9");
 }
 .ea-netherlands {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f3-1f1f1");
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1f1");
 }
 .ea-norway {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f3-1f1f4");
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1f4");
 }
 .ea-poland {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f5-1f1f1");
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1f1");
 }
 .ea-portugal {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f5-1f1f9");
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1f9");
 }
 .ea-romania {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f7-1f1f4");
+    background-image: url("emoji-flags-stack.svg#1f1f7-1f1f4");
 }
 .ea-slovakia {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f8-1f1f0");
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f0");
 }
 .ea-slovenia {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f8-1f1ee");
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1ee");
 }
 .ea-spain {
-    background-image: url("emojiawesome-flags-stack.svg#1f1ea-1f1f8");
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1f8");
 }
 .ea-sweden {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f8-1f1ea");
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1ea");
 }
 .ea-switzerland {
-    background-image: url("emojiawesome-flags-stack.svg#1f1e8-1f1ed");
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1ed");
 }
 .ea-turkey {
-    background-image: url("emojiawesome-flags-stack.svg#1f1f9-1f1f7");
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1f7");
 }
 .ea-ukraine {
-    background-image: url("emojiawesome-flags-stack.svg#1f1fa-1f1e6");
+    background-image: url("emoji-flags-stack.svg#1f1fa-1f1e6");
 }
