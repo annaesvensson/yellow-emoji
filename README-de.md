@@ -1,10 +1,10 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Emojiawesome 0.8.12
+# Emoji 0.8.12
 
 Jede Menge Emoji.
 
-![Bildschirmfoto](emojiawesome-screenshot.png?raw=true)
+![Bildschirmfoto](emoji-screenshot.png?raw=true)
 
 ## Wie man ein Emoji hinzufügt
 
@@ -48,11 +48,11 @@ Emoji mit HTML hinzufügen, doppelte Größe:
 
 Die folgenden Einstellungen können in der Datei `system/extensions/yellow-system.ini` vorgenommen werden:
 
-`EmojiawesomeToolbarButtons` = Symbolleistenschaltflächen für die [Edit-Erweiterung](https://github.com/annaesvensson/yellow-edit/tree/main/README-de.md)  
+`EmojiToolbarButtons` = Symbolleistenschaltflächen für die [Edit-Erweiterung](https://github.com/annaesvensson/yellow-edit/tree/main/README-de.md)  
 
 ## Installation
 
-[Erweiterung herunterladen](https://github.com/annaesvensson/yellow-emojiawesome/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
+[Erweiterung herunterladen](https://github.com/annaesvensson/yellow-emoji/archive/main.zip) und die ZIP-Datei in dein `system/extensions`-Verzeichnis kopieren. [Weitere Informationen zu Erweiterungen](https://github.com/annaesvensson/yellow-update/tree/main/README-de.md).
 
 Diese Erweiterung enthält [Twemoji 13.0.0](https://github.com/twitter/twemoji) von Twitter.
 
