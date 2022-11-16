@@ -2,7 +2,7 @@
 // Emoji extension, https://github.com/annaesvensson/yellow-emoji
 
 class YellowEmoji {
-    const VERSION = "0.8.12";
+    const VERSION = "0.8.14";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -14,11 +14,11 @@ class YellowEmoji {
     // Handle page content of shortcut
     public function onParseContentShortcut($page, $name, $text, $type) {
         $output = null;
-        if (($name=="ea" && $type=="inline") || $type=="symbol") {
+        if (($name=="emoji" && $type=="inline") || $type=="symbol") {
             list($shortname, $style) = $this->yellow->toolbox->getTextArguments($text);
-            if (preg_match("/^ea-(.+)/", $shortname, $matches)) $shortname = str_replace("-", "_", $matches[1]);
+            if (preg_match("/^emoji-(.+)/", $shortname, $matches)) $shortname = str_replace("-", "_", $matches[1]);
             if ($this->isShortname($shortname)) {
-                $class = $this->normaliseClass(trim("ea ea-$shortname $style"));
+                $class = $this->normaliseClass(trim("emoji emoji-$shortname $style"));
                 $output = "<i class=\"".htmlspecialchars($class)."\"";
                 $output .= " aria-label=\"".htmlspecialchars("$shortname")."\"";
                 $output .= "></i>";

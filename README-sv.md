@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Emoji 0.8.12
+# Emoji 0.8.14
 
 Massor och massor av emoji.
 
@@ -10,7 +10,7 @@ Massor och massor av emoji.
 
 Lägg till `:shortcode:` till texten på en sida. Här är en [emoji-fusklapp](https://github.com/ikatyang/emoji-cheat-sheet).
 
-Det är också möjligt att skapa en `[ea]` förkortning eller använda HTML `<i class="ea ea-name" aria-label="name"></i>`. Du kan lägga till en extra stil till namnet, till exempel `ea-lg`, `ea-2x`, `ea-3x`, `ea-4x` och `ea-5x`.
+Det är också möjligt att skapa en `[emoji]` förkortning eller använda HTML. Du kan valfritt lägga till en stil, till exempel `emoji-2x`, `emoji-3x`, `emoji-4x` och `emoji-5x`.
 
 ## Exempel
 
@@ -20,29 +20,25 @@ Lägga till emoji:
     :heart: 
     :coffee:
 
-Lägga till emoji med förkortning, normal storlek:
+Lägga till emoji med förkortning, olika storlek:
 
-    [ea ea-smile]
-    [ea ea-heart]
-    [ea ea-coffee]
+    [emoji emoji-smile]
+    [emoji emoji-heart emoji-2x]
+    [emoji emoji-coffee emoji-3x]
 
-Lägga till emoji med förkortning, dubbel storlek:
-    
-    [ea ea-smile ea-2x]
-    [ea ea-heart ea-2x]
-    [ea ea-coffee ea-2x]
+Lägga till emoji med HTML, olika storlek:
 
-Lägga till emoji med HTML, normal storlek:
+    <i class="emoji emoji-smile" aria-label="leende"></i>
+    <i class="emoji emoji-heart emoji-2x" aria-label="hjärta"></i>
+    <i class="emoji emoji-coffee emoji-3x" aria-label="kaffe"></i>
 
-    <i class="ea ea-smile" aria-label="smile"></i>
-    <i class="ea ea-heart" aria-label="heart"></i>
-    <i class="ea ea-coffee" aria-label="coffee"></i>
+Smileys & känslor:
 
-Lägga till emoji med HTML, dubbel storlek:
-
-    <i class="ea ea-smile ea-2x" aria-label="smile"></i>
-    <i class="ea ea-heart ea-2x" aria-label="heart"></i>
-    <i class="ea ea-coffee ea-2x" aria-label="coffee"></i>
+    :grinning:           :smile:              :angry:
+    :frowning:           :wink:               :heart_eyes:
+    :kissing_heart:      :stuck_out_tongue_winking_eye:
+    :joy:                :mask:               :blush:
+    :sleeping:
 
 ## Inställningar
 

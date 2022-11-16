@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Emoji 0.8.12
+# Emoji 0.8.14
 
 Lots and lots of emoji.
 
@@ -10,7 +10,7 @@ Lots and lots of emoji.
 
 Add `:shortcode:` to the text of a page. Here's an [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet). 
 
-It's also possible to create an `[ea]` shortcut or use HTML `<i class="ea ea-name" aria-label="name"></i>`. You can add an additional style to the name, for example `ea-lg`, `ea-2x`, `ea-3x`, `ea-4x` and `ea-5x`.
+It's also possible to create an `[emoji]` shortcut or use HTML. You can add an optional style, for example `emoji-2x`, `emoji-3x`, `emoji-4x` and `emoji-5x`.
 
 ## Examples
 
@@ -20,29 +20,25 @@ Adding an emoji:
     :heart: 
     :coffee:
 
-Adding an emoji with shortcut, normal size:
+Adding an emoji with shortcut, different sizes:
 
-    [ea ea-smile]
-    [ea ea-heart]
-    [ea ea-coffee]
+    [emoji emoji-smile]
+    [emoji emoji-heart emoji-2x]
+    [emoji emoji-coffee emoji-3x]
 
-Adding an emoji with shortcut, double size:
-    
-    [ea ea-smile ea-2x]
-    [ea ea-heart ea-2x]
-    [ea ea-coffee ea-2x]
+Adding an emoji with HTML, different sizes:
 
-Adding an emoji with HTML, normal size:
+    <i class="emoji emoji-smile" aria-label="smile"></i>
+    <i class="emoji emoji-heart emoji-2x" aria-label="heart"></i>
+    <i class="emoji emoji-coffee emoji-3x" aria-label="coffee"></i>
 
-    <i class="ea ea-smile" aria-label="smile"></i>
-    <i class="ea ea-heart" aria-label="heart"></i>
-    <i class="ea ea-coffee" aria-label="coffee"></i>
+Smileys & emotion:
 
-Adding an emoji with HTML, double size:
-
-    <i class="ea ea-smile ea-2x" aria-label="smile"></i>
-    <i class="ea ea-heart ea-2x" aria-label="heart"></i>
-    <i class="ea ea-coffee ea-2x" aria-label="coffee"></i>
+    :grinning:           :smile:              :angry:
+    :frowning:           :wink:               :heart_eyes:
+    :kissing_heart:      :stuck_out_tongue_winking_eye:
+    :joy:                :mask:               :blush:
+    :sleeping:
 
 ## Settings
 

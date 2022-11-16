@@ -1,6 +1,6 @@
 /* Emoji extension, https://github.com/annaesvensson/yellow-emoji */
 
-.ea {
+.emoji {
     display: inline-block;
     height: 1.33em;
     width: 1.33em;
@@ -9,1918 +9,1918 @@
     background-repeat: no-repeat;
     background-position: center center;
 }
-.ea-lg {
+.emoji-lg {
     height: 1.66em;
     width: 1.66em;
     vertical-align: -0.33em;
     background-size: 1.66em 1.66em;
 }
-.ea-2x {
+.emoji-2x {
     height: 2em;
     width: 2em;
     vertical-align: -0.5em;
     background-size: 2em 2em;
 }
-.ea-3x {
+.emoji-3x {
     height: 3em;
     width: 3em;
     vertical-align: -1em;
     background-size: 3em 3em;
 }
-.ea-4x {
+.emoji-4x {
     height: 4em;
     width: 4em;
     vertical-align: -1.5em;
     background-size: 4em 4em;
 }
-.ea-5x {
+.emoji-5x {
     height: 5em;
     width: 5em;
     vertical-align: -2em;
     background-size: 5em 5em;
 }
 
-/* Emoji uses images from Twemoji */
+/* Emoji extension uses SVG images from Twemoji */
 
-.ea-smile {
+.emoji-smile {
     background-image: url("emoji-default-stack.svg#1f604");
 }
-.ea-laughing {
+.emoji-laughing {
     background-image: url("emoji-default-stack.svg#1f606");
 }
-.ea-blush {
+.emoji-blush {
     background-image: url("emoji-default-stack.svg#1f60a");
 }
-.ea-smiley {
+.emoji-smiley {
     background-image: url("emoji-default-stack.svg#1f603");
 }
-.ea-relaxed {
+.emoji-relaxed {
     background-image: url("emoji-default-stack.svg#263a");
 }
-.ea-smirk {
+.emoji-smirk {
     background-image: url("emoji-default-stack.svg#1f60f");
 }
-.ea-heart-eyes {
+.emoji-heart-eyes {
     background-image: url("emoji-default-stack.svg#1f60d");
 }
-.ea-kissing-heart {
+.emoji-kissing-heart {
     background-image: url("emoji-default-stack.svg#1f618");
 }
-.ea-kissing-closed-eyes {
+.emoji-kissing-closed-eyes {
     background-image: url("emoji-default-stack.svg#1f61a");
 }
-.ea-flushed {
+.emoji-flushed {
     background-image: url("emoji-default-stack.svg#1f633");
 }
-.ea-relieved {
+.emoji-relieved {
     background-image: url("emoji-default-stack.svg#1f625");
 }
-.ea-satisfied {
+.emoji-satisfied {
     background-image: url("emoji-default-stack.svg#1f60c");
 }
-.ea-grin {
+.emoji-grin {
     background-image: url("emoji-default-stack.svg#1f601");
 }
-.ea-wink {
+.emoji-wink {
     background-image: url("emoji-default-stack.svg#1f609");
 }
-.ea-stuck-out-tongue-winking-eye {
+.emoji-stuck-out-tongue-winking-eye {
     background-image: url("emoji-default-stack.svg#1f61c");
 }
-.ea-stuck-out-tongue-closed-eyes {
+.emoji-stuck-out-tongue-closed-eyes {
     background-image: url("emoji-default-stack.svg#1f61d");
 }
-.ea-grinning {
+.emoji-grinning {
     background-image: url("emoji-default-stack.svg#1f600");
 }
-.ea-kissing {
+.emoji-kissing {
     background-image: url("emoji-default-stack.svg#1f617");
 }
-.ea-kissing-smiling-eyes {
+.emoji-kissing-smiling-eyes {
     background-image: url("emoji-default-stack.svg#1f619");
 }
-.ea-stuck-out-tongue {
+.emoji-stuck-out-tongue {
     background-image: url("emoji-default-stack.svg#1f61b");
 }
-.ea-sleeping {
+.emoji-sleeping {
     background-image: url("emoji-default-stack.svg#1f634");
 }
-.ea-worried {
+.emoji-worried {
     background-image: url("emoji-default-stack.svg#1f61f");
 }
-.ea-frowning {
+.emoji-frowning {
     background-image: url("emoji-default-stack.svg#1f626");
 }
-.ea-anguished {
+.emoji-anguished {
     background-image: url("emoji-default-stack.svg#1f627");
 }
-.ea-open-mouth {
+.emoji-open-mouth {
     background-image: url("emoji-default-stack.svg#1f62e");
 }
-.ea-grimacing {
+.emoji-grimacing {
     background-image: url("emoji-default-stack.svg#1f62c");
 }
-.ea-confused {
+.emoji-confused {
     background-image: url("emoji-default-stack.svg#1f615");
 }
-.ea-hushed {
+.emoji-hushed {
     background-image: url("emoji-default-stack.svg#1f62f");
 }
-.ea-expressionless {
+.emoji-expressionless {
     background-image: url("emoji-default-stack.svg#1f611");
 }
-.ea-unamused {
+.emoji-unamused {
     background-image: url("emoji-default-stack.svg#1f612");
 }
-.ea-sweat-smile {
+.emoji-sweat-smile {
     background-image: url("emoji-default-stack.svg#1f605");
 }
-.ea-sweat {
+.emoji-sweat {
     background-image: url("emoji-default-stack.svg#1f613");
 }
-.ea-weary {
+.emoji-weary {
     background-image: url("emoji-default-stack.svg#1f629");
 }
-.ea-pensive {
+.emoji-pensive {
     background-image: url("emoji-default-stack.svg#1f614");
 }
-.ea-disappointed {
+.emoji-disappointed {
     background-image: url("emoji-default-stack.svg#1f61e");
 }
-.ea-confounded {
+.emoji-confounded {
     background-image: url("emoji-default-stack.svg#1f616");
 }
-.ea-fearful {
+.emoji-fearful {
     background-image: url("emoji-default-stack.svg#1f628");
 }
-.ea-cold-sweat {
+.emoji-cold-sweat {
     background-image: url("emoji-default-stack.svg#1f630");
 }
-.ea-persevere {
+.emoji-persevere {
     background-image: url("emoji-default-stack.svg#1f623");
 }
-.ea-cry {
+.emoji-cry {
     background-image: url("emoji-default-stack.svg#1f622");
 }
-.ea-sob {
+.emoji-sob {
     background-image: url("emoji-default-stack.svg#1f62d");
 }
-.ea-joy {
+.emoji-joy {
     background-image: url("emoji-default-stack.svg#1f602");
 }
-.ea-astonished {
+.emoji-astonished {
     background-image: url("emoji-default-stack.svg#1f632");
 }
-.ea-scream {
+.emoji-scream {
     background-image: url("emoji-default-stack.svg#1f631");
 }
-.ea-tired-face {
+.emoji-tired-face {
     background-image: url("emoji-default-stack.svg#1f62b");
 }
-.ea-angry {
+.emoji-angry {
     background-image: url("emoji-default-stack.svg#1f620");
 }
-.ea-rage {
+.emoji-rage {
     background-image: url("emoji-default-stack.svg#1f621");
 }
-.ea-triumph {
+.emoji-triumph {
     background-image: url("emoji-default-stack.svg#1f624");
 }
-.ea-sleepy {
+.emoji-sleepy {
     background-image: url("emoji-default-stack.svg#1f62a");
 }
-.ea-yum {
+.emoji-yum {
     background-image: url("emoji-default-stack.svg#1f60b");
 }
-.ea-mask {
+.emoji-mask {
     background-image: url("emoji-default-stack.svg#1f637");
 }
-.ea-sunglasses {
+.emoji-sunglasses {
     background-image: url("emoji-default-stack.svg#1f60e");
 }
-.ea-dizzy-face {
+.emoji-dizzy-face {
     background-image: url("emoji-default-stack.svg#1f635");
 }
-.ea-imp {
+.emoji-imp {
     background-image: url("emoji-default-stack.svg#1f47f");
 }
-.ea-smiling-imp {
+.emoji-smiling-imp {
     background-image: url("emoji-default-stack.svg#1f608");
 }
-.ea-neutral-face {
+.emoji-neutral-face {
     background-image: url("emoji-default-stack.svg#1f610");
 }
-.ea-no-mouth {
+.emoji-no-mouth {
     background-image: url("emoji-default-stack.svg#1f636");
 }
-.ea-innocent {
+.emoji-innocent {
     background-image: url("emoji-default-stack.svg#1f607");
 }
-.ea-alien {
+.emoji-alien {
     background-image: url("emoji-default-stack.svg#1f47d");
 }
-.ea-yellow-heart {
+.emoji-yellow-heart {
     background-image: url("emoji-default-stack.svg#1f49b");
 }
-.ea-blue-heart {
+.emoji-blue-heart {
     background-image: url("emoji-default-stack.svg#1f499");
 }
-.ea-purple-heart {
+.emoji-purple-heart {
     background-image: url("emoji-default-stack.svg#1f49c");
 }
-.ea-heart {
+.emoji-heart {
     background-image: url("emoji-default-stack.svg#2764");
 }
-.ea-green-heart {
+.emoji-green-heart {
     background-image: url("emoji-default-stack.svg#1f49a");
 }
-.ea-broken-heart {
+.emoji-broken-heart {
     background-image: url("emoji-default-stack.svg#1f494");
 }
-.ea-heartbeat {
+.emoji-heartbeat {
     background-image: url("emoji-default-stack.svg#1f493");
 }
-.ea-heartpulse {
+.emoji-heartpulse {
     background-image: url("emoji-default-stack.svg#1f497");
 }
-.ea-two-hearts {
+.emoji-two-hearts {
     background-image: url("emoji-default-stack.svg#1f495");
 }
-.ea-revolving-hearts {
+.emoji-revolving-hearts {
     background-image: url("emoji-default-stack.svg#1f49e");
 }
-.ea-cupid {
+.emoji-cupid {
     background-image: url("emoji-default-stack.svg#1f498");
 }
-.ea-sparkling-heart {
+.emoji-sparkling-heart {
     background-image: url("emoji-default-stack.svg#1f496");
 }
-.ea-sparkles {
+.emoji-sparkles {
     background-image: url("emoji-default-stack.svg#2728");
 }
-.ea-star {
+.emoji-star {
     background-image: url("emoji-default-stack.svg#2b50");
 }
-.ea-star2 {
+.emoji-star2 {
     background-image: url("emoji-default-stack.svg#1f31f");
 }
-.ea-dizzy {
+.emoji-dizzy {
     background-image: url("emoji-default-stack.svg#1f4ab");
 }
-.ea-boom {
+.emoji-boom {
     background-image: url("emoji-default-stack.svg#1f4a5");
 }
-.ea-anger {
+.emoji-anger {
     background-image: url("emoji-default-stack.svg#1f4a2");
 }
-.ea-exclamation {
+.emoji-exclamation {
     background-image: url("emoji-default-stack.svg#2757");
 }
-.ea-question {
+.emoji-question {
     background-image: url("emoji-default-stack.svg#2753");
 }
-.ea-grey-exclamation {
+.emoji-grey-exclamation {
     background-image: url("emoji-default-stack.svg#2755");
 }
-.ea-grey-question {
+.emoji-grey-question {
     background-image: url("emoji-default-stack.svg#2754");
 }
-.ea-zzz {
+.emoji-zzz {
     background-image: url("emoji-default-stack.svg#1f4a4");
 }
-.ea-dash {
+.emoji-dash {
     background-image: url("emoji-default-stack.svg#1f4a8");
 }
-.ea-sweat-drops {
+.emoji-sweat-drops {
     background-image: url("emoji-default-stack.svg#1f4a6");
 }
-.ea-notes {
+.emoji-notes {
     background-image: url("emoji-default-stack.svg#1f3b6");
 }
-.ea-musical-note {
+.emoji-musical-note {
     background-image: url("emoji-default-stack.svg#1f3b5");
 }
-.ea-fire {
+.emoji-fire {
     background-image: url("emoji-default-stack.svg#1f525");
 }
-.ea-poop {
+.emoji-poop {
     background-image: url("emoji-default-stack.svg#1f4a9");
 }
-.ea-thumbsup {
+.emoji-thumbsup {
     background-image: url("emoji-default-stack.svg#1f44d");
 }
-.ea-plus1 {
+.emoji-plus1 {
     background-image: url("emoji-default-stack.svg#1f44d");
 }
-.ea-thumbsdown {
+.emoji-thumbsdown {
     background-image: url("emoji-default-stack.svg#1f44e");
 }
-.ea-minus1 {
+.emoji-minus1 {
     background-image: url("emoji-default-stack.svg#1f44e");
 }
-.ea-ok-hand {
+.emoji-ok-hand {
     background-image: url("emoji-extra1-stack.svg#1f44c");
 }
-.ea-punch {
+.emoji-punch {
     background-image: url("emoji-extra1-stack.svg#1f44a");
 }
-.ea-fist {
+.emoji-fist {
     background-image: url("emoji-extra1-stack.svg#270a");
 }
-.ea-v {
+.emoji-v {
     background-image: url("emoji-extra1-stack.svg#270c");
 }
-.ea-wave {
+.emoji-wave {
     background-image: url("emoji-extra1-stack.svg#1f44b");
 }
-.ea-hand {
+.emoji-hand {
     background-image: url("emoji-extra1-stack.svg#270b");
 }
-.ea-open-hands {
+.emoji-open-hands {
     background-image: url("emoji-extra1-stack.svg#1f450");
 }
-.ea-point-up {
+.emoji-point-up {
     background-image: url("emoji-extra1-stack.svg#261d");
 }
-.ea-point-down {
+.emoji-point-down {
     background-image: url("emoji-extra1-stack.svg#1f447");
 }
-.ea-point-left {
+.emoji-point-left {
     background-image: url("emoji-extra1-stack.svg#1f448");
 }
-.ea-point-right {
+.emoji-point-right {
     background-image: url("emoji-extra1-stack.svg#1f449");
 }
-.ea-raised-hands {
+.emoji-raised-hands {
     background-image: url("emoji-extra1-stack.svg#1f64c");
 }
-.ea-pray {
+.emoji-pray {
     background-image: url("emoji-extra1-stack.svg#1f64f");
 }
-.ea-point-up-2 {
+.emoji-point-up-2 {
     background-image: url("emoji-extra1-stack.svg#1f446");
 }
-.ea-clap {
+.emoji-clap {
     background-image: url("emoji-extra1-stack.svg#1f44f");
 }
-.ea-muscle {
+.emoji-muscle {
     background-image: url("emoji-extra1-stack.svg#1f4aa");
 }
-.ea-walking {
+.emoji-walking {
     background-image: url("emoji-extra1-stack.svg#1f6b6");
 }
-.ea-runner {
+.emoji-runner {
     background-image: url("emoji-extra1-stack.svg#1f3c3");
 }
-.ea-couple {
+.emoji-couple {
     background-image: url("emoji-extra1-stack.svg#1f46b");
 }
-.ea-family {
+.emoji-family {
     background-image: url("emoji-extra1-stack.svg#1f46a");
 }
-.ea-two-men-holding-hands {
+.emoji-two-men-holding-hands {
     background-image: url("emoji-extra1-stack.svg#1f46c");
 }
-.ea-two-women-holding-hands {
+.emoji-two-women-holding-hands {
     background-image: url("emoji-extra1-stack.svg#1f46d");
 }
-.ea-dancer {
+.emoji-dancer {
     background-image: url("emoji-extra1-stack.svg#1f483");
 }
-.ea-dancers {
+.emoji-dancers {
     background-image: url("emoji-extra1-stack.svg#1f46f");
 }
-.ea-ok-woman {
+.emoji-ok-woman {
     background-image: url("emoji-extra1-stack.svg#1f646");
 }
-.ea-no-good {
+.emoji-no-good {
     background-image: url("emoji-extra1-stack.svg#1f645");
 }
-.ea-information-desk-person {
+.emoji-information-desk-person {
     background-image: url("emoji-extra1-stack.svg#1f481");
 }
-.ea-raised-hand {
+.emoji-raised-hand {
     background-image: url("emoji-extra1-stack.svg#1f64b");
 }
-.ea-bride-with-veil {
+.emoji-bride-with-veil {
     background-image: url("emoji-extra1-stack.svg#1f470");
 }
-.ea-person-with-pouting-face {
+.emoji-person-with-pouting-face {
     background-image: url("emoji-extra1-stack.svg#1f64e");
 }
-.ea-person-frowning {
+.emoji-person-frowning {
     background-image: url("emoji-extra1-stack.svg#1f64d");
 }
-.ea-bow {
+.emoji-bow {
     background-image: url("emoji-extra1-stack.svg#1f647");
 }
-.ea-couplekiss {
+.emoji-couplekiss {
     background-image: url("emoji-extra1-stack.svg#1f48f");
 }
-.ea-couple-with-heart {
+.emoji-couple-with-heart {
     background-image: url("emoji-extra1-stack.svg#1f491");
 }
-.ea-massage {
+.emoji-massage {
     background-image: url("emoji-extra1-stack.svg#1f486");
 }
-.ea-haircut {
+.emoji-haircut {
     background-image: url("emoji-extra1-stack.svg#1f487");
 }
-.ea-nail-care {
+.emoji-nail-care {
     background-image: url("emoji-extra1-stack.svg#1f485");
 }
-.ea-boy {
+.emoji-boy {
     background-image: url("emoji-extra1-stack.svg#1f466");
 }
-.ea-girl {
+.emoji-girl {
     background-image: url("emoji-extra1-stack.svg#1f467");
 }
-.ea-woman {
+.emoji-woman {
     background-image: url("emoji-extra1-stack.svg#1f469");
 }
-.ea-man {
+.emoji-man {
     background-image: url("emoji-extra1-stack.svg#1f468");
 }
-.ea-baby {
+.emoji-baby {
     background-image: url("emoji-extra1-stack.svg#1f476");
 }
-.ea-older-woman {
+.emoji-older-woman {
     background-image: url("emoji-extra1-stack.svg#1f475");
 }
-.ea-older-man {
+.emoji-older-man {
     background-image: url("emoji-extra1-stack.svg#1f474");
 }
-.ea-person-with-blond-hair {
+.emoji-person-with-blond-hair {
     background-image: url("emoji-extra1-stack.svg#1f471");
 }
-.ea-man-with-gua-pi-mao {
+.emoji-man-with-gua-pi-mao {
     background-image: url("emoji-extra1-stack.svg#1f472");
 }
-.ea-man-with-turban {
+.emoji-man-with-turban {
     background-image: url("emoji-extra1-stack.svg#1f473");
 }
-.ea-construction-worker {
+.emoji-construction-worker {
     background-image: url("emoji-extra1-stack.svg#1f477");
 }
-.ea-cop {
+.emoji-cop {
     background-image: url("emoji-extra1-stack.svg#1f46e");
 }
-.ea-angel {
+.emoji-angel {
     background-image: url("emoji-extra1-stack.svg#1f47c");
 }
-.ea-princess {
+.emoji-princess {
     background-image: url("emoji-extra1-stack.svg#1f478");
 }
-.ea-smiley-cat {
+.emoji-smiley-cat {
     background-image: url("emoji-extra1-stack.svg#1f63a");
 }
-.ea-smile-cat {
+.emoji-smile-cat {
     background-image: url("emoji-extra1-stack.svg#1f638");
 }
-.ea-heart-eyes-cat {
+.emoji-heart-eyes-cat {
     background-image: url("emoji-extra1-stack.svg#1f63b");
 }
-.ea-kissing-cat {
+.emoji-kissing-cat {
     background-image: url("emoji-extra1-stack.svg#1f63d");
 }
-.ea-smirk-cat {
+.emoji-smirk-cat {
     background-image: url("emoji-extra1-stack.svg#1f63c");
 }
-.ea-scream-cat {
+.emoji-scream-cat {
     background-image: url("emoji-extra1-stack.svg#1f640");
 }
-.ea-crying-cat-face {
+.emoji-crying-cat-face {
     background-image: url("emoji-extra1-stack.svg#1f63f");
 }
-.ea-joy-cat {
+.emoji-joy-cat {
     background-image: url("emoji-extra1-stack.svg#1f639");
 }
-.ea-pouting-cat {
+.emoji-pouting-cat {
     background-image: url("emoji-extra1-stack.svg#1f63e");
 }
-.ea-japanese-ogre {
+.emoji-japanese-ogre {
     background-image: url("emoji-extra1-stack.svg#1f479");
 }
-.ea-japanese-goblin {
+.emoji-japanese-goblin {
     background-image: url("emoji-extra1-stack.svg#1f47a");
 }
-.ea-see-no-evil {
+.emoji-see-no-evil {
     background-image: url("emoji-extra1-stack.svg#1f648");
 }
-.ea-hear-no-evil {
+.emoji-hear-no-evil {
     background-image: url("emoji-extra1-stack.svg#1f649");
 }
-.ea-speak-no-evil {
+.emoji-speak-no-evil {
     background-image: url("emoji-extra1-stack.svg#1f64a");
 }
-.ea-guardsman {
+.emoji-guardsman {
     background-image: url("emoji-extra2-stack.svg#1f482");
 }
-.ea-skull {
+.emoji-skull {
     background-image: url("emoji-extra2-stack.svg#1f480");
 }
-.ea-feet {
+.emoji-feet {
     background-image: url("emoji-extra2-stack.svg#1f463");
 }
-.ea-lips {
+.emoji-lips {
     background-image: url("emoji-extra2-stack.svg#1f444");
 }
-.ea-kiss {
+.emoji-kiss {
     background-image: url("emoji-extra2-stack.svg#1f48b");
 }
-.ea-droplet {
+.emoji-droplet {
     background-image: url("emoji-extra2-stack.svg#1f4a7");
 }
-.ea-ear {
+.emoji-ear {
     background-image: url("emoji-extra2-stack.svg#1f442");
 }
-.ea-eyes {
+.emoji-eyes {
     background-image: url("emoji-extra2-stack.svg#1f440");
 }
-.ea-nose {
+.emoji-nose {
     background-image: url("emoji-extra2-stack.svg#1f443");
 }
-.ea-tongue {
+.emoji-tongue {
     background-image: url("emoji-extra2-stack.svg#1f445");
 }
-.ea-love-letter {
+.emoji-love-letter {
     background-image: url("emoji-extra2-stack.svg#1f48c");
 }
-.ea-bust-in-silhouette {
+.emoji-bust-in-silhouette {
     background-image: url("emoji-extra2-stack.svg#1f464");
 }
-.ea-busts-in-silhouette {
+.emoji-busts-in-silhouette {
     background-image: url("emoji-extra2-stack.svg#1f465");
 }
-.ea-speech-balloon {
+.emoji-speech-balloon {
     background-image: url("emoji-extra2-stack.svg#1f4ac");
 }
-.ea-thought-balloon {
+.emoji-thought-balloon {
     background-image: url("emoji-extra2-stack.svg#1f4ad");
 }
-.ea-sunny {
+.emoji-sunny {
     background-image: url("emoji-extra2-stack.svg#2600");
 }
-.ea-umbrella {
+.emoji-umbrella {
     background-image: url("emoji-extra2-stack.svg#2614");
 }
-.ea-cloud {
+.emoji-cloud {
     background-image: url("emoji-extra2-stack.svg#2601");
 }
-.ea-snowflake {
+.emoji-snowflake {
     background-image: url("emoji-extra2-stack.svg#2744");
 }
-.ea-snowman {
+.emoji-snowman {
     background-image: url("emoji-extra2-stack.svg#26c4");
 }
-.ea-zap {
+.emoji-zap {
     background-image: url("emoji-extra2-stack.svg#26a1");
 }
-.ea-cyclone {
+.emoji-cyclone {
     background-image: url("emoji-extra2-stack.svg#1f300");
 }
-.ea-foggy {
+.emoji-foggy {
     background-image: url("emoji-extra2-stack.svg#1f301");
 }
-.ea-ocean {
+.emoji-ocean {
     background-image: url("emoji-extra2-stack.svg#1f30a");
 }
-.ea-cat {
+.emoji-cat {
     background-image: url("emoji-extra2-stack.svg#1f431");
 }
-.ea-dog {
+.emoji-dog {
     background-image: url("emoji-extra2-stack.svg#1f436");
 }
-.ea-mouse {
+.emoji-mouse {
     background-image: url("emoji-extra2-stack.svg#1f42d");
 }
-.ea-hamster {
+.emoji-hamster {
     background-image: url("emoji-extra2-stack.svg#1f439");
 }
-.ea-rabbit {
+.emoji-rabbit {
     background-image: url("emoji-extra2-stack.svg#1f430");
 }
-.ea-wolf {
+.emoji-wolf {
     background-image: url("emoji-extra2-stack.svg#1f43a");
 }
-.ea-frog {
+.emoji-frog {
     background-image: url("emoji-extra2-stack.svg#1f438");
 }
-.ea-tiger {
+.emoji-tiger {
     background-image: url("emoji-extra2-stack.svg#1f42f");
 }
-.ea-koala {
+.emoji-koala {
     background-image: url("emoji-extra2-stack.svg#1f428");
 }
-.ea-bear {
+.emoji-bear {
     background-image: url("emoji-extra2-stack.svg#1f43b");
 }
-.ea-pig {
+.emoji-pig {
     background-image: url("emoji-extra2-stack.svg#1f437");
 }
-.ea-pig-nose {
+.emoji-pig-nose {
     background-image: url("emoji-extra2-stack.svg#1f43d");
 }
-.ea-cow {
+.emoji-cow {
     background-image: url("emoji-extra2-stack.svg#1f42e");
 }
-.ea-boar {
+.emoji-boar {
     background-image: url("emoji-extra2-stack.svg#1f417");
 }
-.ea-monkey-face {
+.emoji-monkey-face {
     background-image: url("emoji-extra2-stack.svg#1f435");
 }
-.ea-monkey {
+.emoji-monkey {
     background-image: url("emoji-extra2-stack.svg#1f412");
 }
-.ea-horse {
+.emoji-horse {
     background-image: url("emoji-extra2-stack.svg#1f434");
 }
-.ea-racehorse {
+.emoji-racehorse {
     background-image: url("emoji-extra2-stack.svg#1f40e");
 }
-.ea-camel {
+.emoji-camel {
     background-image: url("emoji-extra2-stack.svg#1f42b");
 }
-.ea-sheep {
+.emoji-sheep {
     background-image: url("emoji-extra2-stack.svg#1f411");
 }
-.ea-elephant {
+.emoji-elephant {
     background-image: url("emoji-extra2-stack.svg#1f418");
 }
-.ea-panda-face {
+.emoji-panda-face {
     background-image: url("emoji-extra2-stack.svg#1f43c");
 }
-.ea-snake {
+.emoji-snake {
     background-image: url("emoji-extra2-stack.svg#1f40d");
 }
-.ea-bird {
+.emoji-bird {
     background-image: url("emoji-extra2-stack.svg#1f426");
 }
-.ea-baby-chick {
+.emoji-baby-chick {
     background-image: url("emoji-extra2-stack.svg#1f424");
 }
-.ea-hatched-chick {
+.emoji-hatched-chick {
     background-image: url("emoji-extra2-stack.svg#1f425");
 }
-.ea-hatching-chick {
+.emoji-hatching-chick {
     background-image: url("emoji-extra2-stack.svg#1f423");
 }
-.ea-chicken {
+.emoji-chicken {
     background-image: url("emoji-extra2-stack.svg#1f414");
 }
-.ea-penguin {
+.emoji-penguin {
     background-image: url("emoji-extra2-stack.svg#1f427");
 }
-.ea-turtle {
+.emoji-turtle {
     background-image: url("emoji-extra2-stack.svg#1f422");
 }
-.ea-bug {
+.emoji-bug {
     background-image: url("emoji-extra2-stack.svg#1f41b");
 }
-.ea-honeybee {
+.emoji-honeybee {
     background-image: url("emoji-extra2-stack.svg#1f41d");
 }
-.ea-ant {
+.emoji-ant {
     background-image: url("emoji-extra2-stack.svg#1f41c");
 }
-.ea-beetle {
+.emoji-beetle {
     background-image: url("emoji-extra2-stack.svg#1f41e");
 }
-.ea-snail {
+.emoji-snail {
     background-image: url("emoji-extra2-stack.svg#1f40c");
 }
-.ea-octopus {
+.emoji-octopus {
     background-image: url("emoji-extra2-stack.svg#1f419");
 }
-.ea-tropical-fish {
+.emoji-tropical-fish {
     background-image: url("emoji-extra2-stack.svg#1f420");
 }
-.ea-fish {
+.emoji-fish {
     background-image: url("emoji-extra2-stack.svg#1f41f");
 }
-.ea-whale {
+.emoji-whale {
     background-image: url("emoji-extra2-stack.svg#1f433");
 }
-.ea-whale2 {
+.emoji-whale2 {
     background-image: url("emoji-extra2-stack.svg#1f40b");
 }
-.ea-dolphin {
+.emoji-dolphin {
     background-image: url("emoji-extra2-stack.svg#1f42c");
 }
-.ea-cow2 {
+.emoji-cow2 {
     background-image: url("emoji-extra2-stack.svg#1f404");
 }
-.ea-ram {
+.emoji-ram {
     background-image: url("emoji-extra2-stack.svg#1f40f");
 }
-.ea-rat {
+.emoji-rat {
     background-image: url("emoji-extra2-stack.svg#1f400");
 }
-.ea-water-buffalo {
+.emoji-water-buffalo {
     background-image: url("emoji-extra2-stack.svg#1f403");
 }
-.ea-tiger2 {
+.emoji-tiger2 {
     background-image: url("emoji-extra2-stack.svg#1f405");
 }
-.ea-rabbit2 {
+.emoji-rabbit2 {
     background-image: url("emoji-extra2-stack.svg#1f407");
 }
-.ea-dragon {
+.emoji-dragon {
     background-image: url("emoji-extra2-stack.svg#1f409");
 }
-.ea-goat {
+.emoji-goat {
     background-image: url("emoji-extra2-stack.svg#1f410");
 }
-.ea-rooster {
+.emoji-rooster {
     background-image: url("emoji-extra2-stack.svg#1f413");
 }
-.ea-dog2 {
+.emoji-dog2 {
     background-image: url("emoji-extra2-stack.svg#1f415");
 }
-.ea-pig2 {
+.emoji-pig2 {
     background-image: url("emoji-extra2-stack.svg#1f416");
 }
-.ea-mouse2 {
+.emoji-mouse2 {
     background-image: url("emoji-extra2-stack.svg#1f401");
 }
-.ea-ox {
+.emoji-ox {
     background-image: url("emoji-extra2-stack.svg#1f402");
 }
-.ea-dragon-face {
+.emoji-dragon-face {
     background-image: url("emoji-extra2-stack.svg#1f432");
 }
-.ea-blowfish {
+.emoji-blowfish {
     background-image: url("emoji-extra2-stack.svg#1f421");
 }
-.ea-crocodile {
+.emoji-crocodile {
     background-image: url("emoji-extra2-stack.svg#1f40a");
 }
-.ea-dromedary-camel {
+.emoji-dromedary-camel {
     background-image: url("emoji-extra2-stack.svg#1f42a");
 }
-.ea-leopard {
+.emoji-leopard {
     background-image: url("emoji-extra2-stack.svg#1f406");
 }
-.ea-cat2 {
+.emoji-cat2 {
     background-image: url("emoji-extra2-stack.svg#1f408");
 }
-.ea-poodle {
+.emoji-poodle {
     background-image: url("emoji-extra2-stack.svg#1f429");
 }
-.ea-paw-prints {
+.emoji-paw-prints {
     background-image: url("emoji-extra2-stack.svg#1f43e");
 }
-.ea-bouquet {
+.emoji-bouquet {
     background-image: url("emoji-extra2-stack.svg#1f490");
 }
-.ea-cherry-blossom {
+.emoji-cherry-blossom {
     background-image: url("emoji-extra2-stack.svg#1f338");
 }
-.ea-tulip {
+.emoji-tulip {
     background-image: url("emoji-extra3-stack.svg#1f337");
 }
-.ea-four-leaf-clover {
+.emoji-four-leaf-clover {
     background-image: url("emoji-extra3-stack.svg#1f340");
 }
-.ea-rose {
+.emoji-rose {
     background-image: url("emoji-extra3-stack.svg#1f339");
 }
-.ea-sunflower {
+.emoji-sunflower {
     background-image: url("emoji-extra3-stack.svg#1f33b");
 }
-.ea-hibiscus {
+.emoji-hibiscus {
     background-image: url("emoji-extra3-stack.svg#1f33a");
 }
-.ea-maple-leaf {
+.emoji-maple-leaf {
     background-image: url("emoji-extra3-stack.svg#1f341");
 }
-.ea-leaves {
+.emoji-leaves {
     background-image: url("emoji-extra3-stack.svg#1f343");
 }
-.ea-fallen-leaf {
+.emoji-fallen-leaf {
     background-image: url("emoji-extra3-stack.svg#1f342");
 }
-.ea-herb {
+.emoji-herb {
     background-image: url("emoji-extra3-stack.svg#1f33f");
 }
-.ea-mushroom {
+.emoji-mushroom {
     background-image: url("emoji-extra3-stack.svg#1f344");
 }
-.ea-cactus {
+.emoji-cactus {
     background-image: url("emoji-extra3-stack.svg#1f335");
 }
-.ea-palm-tree {
+.emoji-palm-tree {
     background-image: url("emoji-extra3-stack.svg#1f334");
 }
-.ea-evergreen-tree {
+.emoji-evergreen-tree {
     background-image: url("emoji-extra3-stack.svg#1f332");
 }
-.ea-deciduous-tree {
+.emoji-deciduous-tree {
     background-image: url("emoji-extra3-stack.svg#1f333");
 }
-.ea-chestnut {
+.emoji-chestnut {
     background-image: url("emoji-extra3-stack.svg#1f330");
 }
-.ea-seedling {
+.emoji-seedling {
     background-image: url("emoji-extra3-stack.svg#1f331");
 }
-.ea-blossom {
+.emoji-blossom {
     background-image: url("emoji-extra3-stack.svg#1f33c");
 }
-.ea-ear-of-rice {
+.emoji-ear-of-rice {
     background-image: url("emoji-extra3-stack.svg#1f33e");
 }
-.ea-shell {
+.emoji-shell {
     background-image: url("emoji-extra3-stack.svg#1f41a");
 }
-.ea-globe-with-meridians {
+.emoji-globe-with-meridians {
     background-image: url("emoji-extra3-stack.svg#1f310");
 }
-.ea-sun-with-face {
+.emoji-sun-with-face {
     background-image: url("emoji-extra3-stack.svg#1f31e");
 }
-.ea-full-moon-with-face {
+.emoji-full-moon-with-face {
     background-image: url("emoji-extra3-stack.svg#1f31d");
 }
-.ea-new-moon-with-face {
+.emoji-new-moon-with-face {
     background-image: url("emoji-extra3-stack.svg#1f31a");
 }
-.ea-new-moon {
+.emoji-new-moon {
     background-image: url("emoji-extra3-stack.svg#1f311");
 }
-.ea-waxing-crescent-moon {
+.emoji-waxing-crescent-moon {
     background-image: url("emoji-extra3-stack.svg#1f312");
 }
-.ea-first-quarter-moon {
+.emoji-first-quarter-moon {
     background-image: url("emoji-extra3-stack.svg#1f313");
 }
-.ea-waxing-gibbous-moon {
+.emoji-waxing-gibbous-moon {
     background-image: url("emoji-extra3-stack.svg#1f314");
 }
-.ea-full-moon {
+.emoji-full-moon {
     background-image: url("emoji-extra3-stack.svg#1f315");
 }
-.ea-waning-gibbous-moon {
+.emoji-waning-gibbous-moon {
     background-image: url("emoji-extra3-stack.svg#1f316");
 }
-.ea-last-quarter-moon {
+.emoji-last-quarter-moon {
     background-image: url("emoji-extra3-stack.svg#1f317");
 }
-.ea-waning-crescent-moon {
+.emoji-waning-crescent-moon {
     background-image: url("emoji-extra3-stack.svg#1f318");
 }
-.ea-last-quarter-moon-with-face {
+.emoji-last-quarter-moon-with-face {
     background-image: url("emoji-extra3-stack.svg#1f31c");
 }
-.ea-first-quarter-moon-with-face {
+.emoji-first-quarter-moon-with-face {
     background-image: url("emoji-extra3-stack.svg#1f31b");
 }
-.ea-moon {
+.emoji-moon {
     background-image: url("emoji-extra3-stack.svg#1f319");
 }
-.ea-earth-africa {
+.emoji-earth-africa {
     background-image: url("emoji-extra3-stack.svg#1f30d");
 }
-.ea-earth-americas {
+.emoji-earth-americas {
     background-image: url("emoji-extra3-stack.svg#1f30e");
 }
-.ea-earth-asia {
+.emoji-earth-asia {
     background-image: url("emoji-extra3-stack.svg#1f30f");
 }
-.ea-volcano {
+.emoji-volcano {
     background-image: url("emoji-extra3-stack.svg#1f30b");
 }
-.ea-milky-way {
+.emoji-milky-way {
     background-image: url("emoji-extra3-stack.svg#1f30c");
 }
-.ea-partly-sunny {
+.emoji-partly-sunny {
     background-image: url("emoji-extra3-stack.svg#26c5");
 }
-.ea-bamboo {
+.emoji-bamboo {
     background-image: url("emoji-extra3-stack.svg#1f38d");
 }
-.ea-gift-heart {
+.emoji-gift-heart {
     background-image: url("emoji-extra3-stack.svg#1f49d");
 }
-.ea-dolls {
+.emoji-dolls {
     background-image: url("emoji-extra3-stack.svg#1f38e");
 }
-.ea-school-satchel {
+.emoji-school-satchel {
     background-image: url("emoji-extra3-stack.svg#1f392");
 }
-.ea-mortar-board {
+.emoji-mortar-board {
     background-image: url("emoji-extra3-stack.svg#1f393");
 }
-.ea-flags {
+.emoji-flags {
     background-image: url("emoji-extra3-stack.svg#1f38f");
 }
-.ea-fireworks {
+.emoji-fireworks {
     background-image: url("emoji-extra3-stack.svg#1f386");
 }
-.ea-sparkler {
+.emoji-sparkler {
     background-image: url("emoji-extra3-stack.svg#1f387");
 }
-.ea-wind-chime {
+.emoji-wind-chime {
     background-image: url("emoji-extra3-stack.svg#1f390");
 }
-.ea-rice-scene {
+.emoji-rice-scene {
     background-image: url("emoji-extra3-stack.svg#1f391");
 }
-.ea-jack-o-lantern {
+.emoji-jack-o-lantern {
     background-image: url("emoji-extra3-stack.svg#1f383");
 }
-.ea-ghost {
+.emoji-ghost {
     background-image: url("emoji-extra3-stack.svg#1f47b");
 }
-.ea-santa {
+.emoji-santa {
     background-image: url("emoji-extra3-stack.svg#1f385");
 }
-.ea-8ball {
+.emoji-8ball {
     background-image: url("emoji-extra3-stack.svg#1f3b1");
 }
-.ea-alarm-clock {
+.emoji-alarm-clock {
     background-image: url("emoji-extra3-stack.svg#23f0");
 }
-.ea-apple {
+.emoji-apple {
     background-image: url("emoji-extra3-stack.svg#1f34e");
 }
-.ea-art {
+.emoji-art {
     background-image: url("emoji-extra3-stack.svg#1f3a8");
 }
-.ea-baby-bottle {
+.emoji-baby-bottle {
     background-image: url("emoji-extra3-stack.svg#1f37c");
 }
-.ea-balloon {
+.emoji-balloon {
     background-image: url("emoji-extra3-stack.svg#1f388");
 }
-.ea-banana {
+.emoji-banana {
     background-image: url("emoji-extra3-stack.svg#1f34c");
 }
-.ea-bar-chart {
+.emoji-bar-chart {
     background-image: url("emoji-extra3-stack.svg#1f4ca");
 }
-.ea-baseball {
+.emoji-baseball {
     background-image: url("emoji-extra3-stack.svg#26be");
 }
-.ea-basketball {
+.emoji-basketball {
     background-image: url("emoji-extra3-stack.svg#1f3c0");
 }
-.ea-bath {
+.emoji-bath {
     background-image: url("emoji-extra3-stack.svg#1f6c0");
 }
-.ea-bathtub {
+.emoji-bathtub {
     background-image: url("emoji-extra3-stack.svg#1f6c1");
 }
-.ea-battery {
+.emoji-battery {
     background-image: url("emoji-extra3-stack.svg#1f50b");
 }
-.ea-beer {
+.emoji-beer {
     background-image: url("emoji-extra3-stack.svg#1f37a");
 }
-.ea-beers {
+.emoji-beers {
     background-image: url("emoji-extra3-stack.svg#1f37b");
 }
-.ea-bell {
+.emoji-bell {
     background-image: url("emoji-extra3-stack.svg#1f514");
 }
-.ea-bento {
+.emoji-bento {
     background-image: url("emoji-extra3-stack.svg#1f371");
 }
-.ea-bicyclist {
+.emoji-bicyclist {
     background-image: url("emoji-extra3-stack.svg#1f6b4");
 }
-.ea-bikini {
+.emoji-bikini {
     background-image: url("emoji-extra3-stack.svg#1f459");
 }
-.ea-birthday {
+.emoji-birthday {
     background-image: url("emoji-extra3-stack.svg#1f382");
 }
-.ea-black-joker {
+.emoji-black-joker {
     background-image: url("emoji-extra3-stack.svg#1f0cf");
 }
-.ea-black-nib {
+.emoji-black-nib {
     background-image: url("emoji-extra3-stack.svg#2712");
 }
-.ea-blue-book {
+.emoji-blue-book {
     background-image: url("emoji-extra3-stack.svg#1f4d8");
 }
-.ea-bomb {
+.emoji-bomb {
     background-image: url("emoji-extra3-stack.svg#1f4a3");
 }
-.ea-bookmark {
+.emoji-bookmark {
     background-image: url("emoji-extra3-stack.svg#1f516");
 }
-.ea-bookmark-tabs {
+.emoji-bookmark-tabs {
     background-image: url("emoji-extra3-stack.svg#1f4d1");
 }
-.ea-book {
+.emoji-book {
     background-image: url("emoji-extra3-stack.svg#1f4d6");
 }
-.ea-books {
+.emoji-books {
     background-image: url("emoji-extra3-stack.svg#1f4da");
 }
-.ea-boot {
+.emoji-boot {
     background-image: url("emoji-extra3-stack.svg#1f462");
 }
-.ea-bowling {
+.emoji-bowling {
     background-image: url("emoji-extra3-stack.svg#1f3b3");
 }
-.ea-bread {
+.emoji-bread {
     background-image: url("emoji-extra3-stack.svg#1f35e");
 }
-.ea-briefcase {
+.emoji-briefcase {
     background-image: url("emoji-extra3-stack.svg#1f4bc");
 }
-.ea-bulb {
+.emoji-bulb {
     background-image: url("emoji-extra3-stack.svg#1f4a1");
 }
-.ea-cake {
+.emoji-cake {
     background-image: url("emoji-extra3-stack.svg#1f370");
 }
-.ea-calendar {
+.emoji-calendar {
     background-image: url("emoji-extra3-stack.svg#1f4c6");
 }
-.ea-calling {
+.emoji-calling {
     background-image: url("emoji-extra3-stack.svg#1f4f2");
 }
-.ea-camera {
+.emoji-camera {
     background-image: url("emoji-extra3-stack.svg#1f4f7");
 }
-.ea-candy {
+.emoji-candy {
     background-image: url("emoji-extra3-stack.svg#1f36c");
 }
-.ea-card-index {
+.emoji-card-index {
     background-image: url("emoji-extra3-stack.svg#1f4c7");
 }
-.ea-cd {
+.emoji-cd {
     background-image: url("emoji-extra3-stack.svg#1f4bf");
 }
-.ea-chart-with-downwards-trend {
+.emoji-chart-with-downwards-trend {
     background-image: url("emoji-extra3-stack.svg#1f4c9");
 }
-.ea-chart-with-upwards-trend {
+.emoji-chart-with-upwards-trend {
     background-image: url("emoji-extra3-stack.svg#1f4c8");
 }
-.ea-cherries {
+.emoji-cherries {
     background-image: url("emoji-extra3-stack.svg#1f352");
 }
-.ea-chocolate-bar {
+.emoji-chocolate-bar {
     background-image: url("emoji-extra3-stack.svg#1f36b");
 }
-.ea-christmas-tree {
+.emoji-christmas-tree {
     background-image: url("emoji-extra4-stack.svg#1f384");
 }
-.ea-clapper {
+.emoji-clapper {
     background-image: url("emoji-extra4-stack.svg#1f3ac");
 }
-.ea-clipboard {
+.emoji-clipboard {
     background-image: url("emoji-extra4-stack.svg#1f4cb");
 }
-.ea-closed-book {
+.emoji-closed-book {
     background-image: url("emoji-extra4-stack.svg#1f4d5");
 }
-.ea-closed-lock-with-key {
+.emoji-closed-lock-with-key {
     background-image: url("emoji-extra4-stack.svg#1f510");
 }
-.ea-closed-umbrella {
+.emoji-closed-umbrella {
     background-image: url("emoji-extra4-stack.svg#1f302");
 }
-.ea-clubs {
+.emoji-clubs {
     background-image: url("emoji-extra4-stack.svg#2663");
 }
-.ea-cocktail {
+.emoji-cocktail {
     background-image: url("emoji-extra4-stack.svg#1f378");
 }
-.ea-coffee {
+.emoji-coffee {
     background-image: url("emoji-extra4-stack.svg#2615");
 }
-.ea-computer {
+.emoji-computer {
     background-image: url("emoji-extra4-stack.svg#1f4bb");
 }
-.ea-confetti-ball {
+.emoji-confetti-ball {
     background-image: url("emoji-extra4-stack.svg#1f38a");
 }
-.ea-cookie {
+.emoji-cookie {
     background-image: url("emoji-extra4-stack.svg#1f36a");
 }
-.ea-corn {
+.emoji-corn {
     background-image: url("emoji-extra4-stack.svg#1f33d");
 }
-.ea-credit-card {
+.emoji-credit-card {
     background-image: url("emoji-extra4-stack.svg#1f4b3");
 }
-.ea-crown {
+.emoji-crown {
     background-image: url("emoji-extra4-stack.svg#1f451");
 }
-.ea-crystal-ball {
+.emoji-crystal-ball {
     background-image: url("emoji-extra4-stack.svg#1f52e");
 }
-.ea-curry {
+.emoji-curry {
     background-image: url("emoji-extra4-stack.svg#1f35b");
 }
-.ea-custard {
+.emoji-custard {
     background-image: url("emoji-extra4-stack.svg#1f36e");
 }
-.ea-dango {
+.emoji-dango {
     background-image: url("emoji-extra4-stack.svg#1f361");
 }
-.ea-dart {
+.emoji-dart {
     background-image: url("emoji-extra4-stack.svg#1f3af");
 }
-.ea-date {
+.emoji-date {
     background-image: url("emoji-extra4-stack.svg#1f4c5");
 }
-.ea-diamonds {
+.emoji-diamonds {
     background-image: url("emoji-extra4-stack.svg#2666");
 }
-.ea-dollar {
+.emoji-dollar {
     background-image: url("emoji-extra4-stack.svg#1f4b5");
 }
-.ea-door {
+.emoji-door {
     background-image: url("emoji-extra4-stack.svg#1f6aa");
 }
-.ea-doughnut {
+.emoji-doughnut {
     background-image: url("emoji-extra4-stack.svg#1f369");
 }
-.ea-dress {
+.emoji-dress {
     background-image: url("emoji-extra4-stack.svg#1f457");
 }
-.ea-dvd {
+.emoji-dvd {
     background-image: url("emoji-extra4-stack.svg#1f4c0");
 }
-.ea-e-mail {
+.emoji-e-mail {
     background-image: url("emoji-extra4-stack.svg#1f4e7");
 }
-.ea-egg {
+.emoji-egg {
     background-image: url("emoji-extra4-stack.svg#1f373");
 }
-.ea-eggplant {
+.emoji-eggplant {
     background-image: url("emoji-extra4-stack.svg#1f346");
 }
-.ea-electric-plug {
+.emoji-electric-plug {
     background-image: url("emoji-extra4-stack.svg#1f50c");
 }
-.ea-email {
+.emoji-email {
     background-image: url("emoji-extra4-stack.svg#2709");
 }
-.ea-euro {
+.emoji-euro {
     background-image: url("emoji-extra4-stack.svg#1f4b6");
 }
-.ea-eyeglasses {
+.emoji-eyeglasses {
     background-image: url("emoji-extra4-stack.svg#1f453");
 }
-.ea-fax {
+.emoji-fax {
     background-image: url("emoji-extra4-stack.svg#1f4e0");
 }
-.ea-file-folder {
+.emoji-file-folder {
     background-image: url("emoji-extra4-stack.svg#1f4c1");
 }
-.ea-fish-cake {
+.emoji-fish-cake {
     background-image: url("emoji-extra4-stack.svg#1f365");
 }
-.ea-fishing-pole-and-fish {
+.emoji-fishing-pole-and-fish {
     background-image: url("emoji-extra4-stack.svg#1f3a3");
 }
-.ea-flashlight {
+.emoji-flashlight {
     background-image: url("emoji-extra4-stack.svg#1f526");
 }
-.ea-floppy-disk {
+.emoji-floppy-disk {
     background-image: url("emoji-extra4-stack.svg#1f4be");
 }
-.ea-flower-playing-cards {
+.emoji-flower-playing-cards {
     background-image: url("emoji-extra4-stack.svg#1f3b4");
 }
-.ea-football {
+.emoji-football {
     background-image: url("emoji-extra4-stack.svg#1f3c8");
 }
-.ea-fork-and-knife {
+.emoji-fork-and-knife {
     background-image: url("emoji-extra4-stack.svg#1f374");
 }
-.ea-fried-shrimp {
+.emoji-fried-shrimp {
     background-image: url("emoji-extra4-stack.svg#1f364");
 }
-.ea-fries {
+.emoji-fries {
     background-image: url("emoji-extra4-stack.svg#1f35f");
 }
-.ea-game-die {
+.emoji-game-die {
     background-image: url("emoji-extra4-stack.svg#1f3b2");
 }
-.ea-gem {
+.emoji-gem {
     background-image: url("emoji-extra4-stack.svg#1f48e");
 }
-.ea-gift {
+.emoji-gift {
     background-image: url("emoji-extra4-stack.svg#1f381");
 }
-.ea-golf {
+.emoji-golf {
     background-image: url("emoji-extra4-stack.svg#26f3");
 }
-.ea-grapes {
+.emoji-grapes {
     background-image: url("emoji-extra4-stack.svg#1f347");
 }
-.ea-green-apple {
+.emoji-green-apple {
     background-image: url("emoji-extra4-stack.svg#1f34f");
 }
-.ea-green-book {
+.emoji-green-book {
     background-image: url("emoji-extra4-stack.svg#1f4d7");
 }
-.ea-guitar {
+.emoji-guitar {
     background-image: url("emoji-extra4-stack.svg#1f3b8");
 }
-.ea-gun {
+.emoji-gun {
     background-image: url("emoji-extra4-stack.svg#1f52b");
 }
-.ea-hamburger {
+.emoji-hamburger {
     background-image: url("emoji-extra4-stack.svg#1f354");
 }
-.ea-hammer {
+.emoji-hammer {
     background-image: url("emoji-extra4-stack.svg#1f528");
 }
-.ea-handbag {
+.emoji-handbag {
     background-image: url("emoji-extra4-stack.svg#1f45c");
 }
-.ea-headphones {
+.emoji-headphones {
     background-image: url("emoji-extra4-stack.svg#1f3a7");
 }
-.ea-hearts {
+.emoji-hearts {
     background-image: url("emoji-extra4-stack.svg#2665");
 }
-.ea-high-brightness {
+.emoji-high-brightness {
     background-image: url("emoji-extra4-stack.svg#1f506");
 }
-.ea-high-heel {
+.emoji-high-heel {
     background-image: url("emoji-extra4-stack.svg#1f460");
 }
-.ea-hocho {
+.emoji-hocho {
     background-image: url("emoji-extra4-stack.svg#1f52a");
 }
-.ea-honey-pot {
+.emoji-honey-pot {
     background-image: url("emoji-extra4-stack.svg#1f36f");
 }
-.ea-horse-racing {
+.emoji-horse-racing {
     background-image: url("emoji-extra4-stack.svg#1f3c7");
 }
-.ea-hourglass {
+.emoji-hourglass {
     background-image: url("emoji-extra4-stack.svg#231b");
 }
-.ea-hourglass-flowing-sand {
+.emoji-hourglass-flowing-sand {
     background-image: url("emoji-extra4-stack.svg#23f3");
 }
-.ea-ice-cream {
+.emoji-ice-cream {
     background-image: url("emoji-extra4-stack.svg#1f368");
 }
-.ea-icecream {
+.emoji-icecream {
     background-image: url("emoji-extra4-stack.svg#1f366");
 }
-.ea-inbox-tray {
+.emoji-inbox-tray {
     background-image: url("emoji-extra4-stack.svg#1f4e5");
 }
-.ea-incoming-envelope {
+.emoji-incoming-envelope {
     background-image: url("emoji-extra4-stack.svg#1f4e8");
 }
-.ea-iphone {
+.emoji-iphone {
     background-image: url("emoji-extra4-stack.svg#1f4f1");
 }
-.ea-jeans {
+.emoji-jeans {
     background-image: url("emoji-extra4-stack.svg#1f456");
 }
-.ea-key {
+.emoji-key {
     background-image: url("emoji-extra4-stack.svg#1f511");
 }
-.ea-kimono {
+.emoji-kimono {
     background-image: url("emoji-extra4-stack.svg#1f458");
 }
-.ea-ledger {
+.emoji-ledger {
     background-image: url("emoji-extra4-stack.svg#1f4d2");
 }
-.ea-lemon {
+.emoji-lemon {
     background-image: url("emoji-extra4-stack.svg#1f34b");
 }
-.ea-lipstick {
+.emoji-lipstick {
     background-image: url("emoji-extra4-stack.svg#1f484");
 }
-.ea-lock {
+.emoji-lock {
     background-image: url("emoji-extra4-stack.svg#1f512");
 }
-.ea-lock-with-ink-pen {
+.emoji-lock-with-ink-pen {
     background-image: url("emoji-extra4-stack.svg#1f50f");
 }
-.ea-lollipop {
+.emoji-lollipop {
     background-image: url("emoji-extra4-stack.svg#1f36d");
 }
-.ea-loop {
+.emoji-loop {
     background-image: url("emoji-extra4-stack.svg#27bf");
 }
-.ea-loudspeaker {
+.emoji-loudspeaker {
     background-image: url("emoji-extra4-stack.svg#1f4e2");
 }
-.ea-low-brightness {
+.emoji-low-brightness {
     background-image: url("emoji-extra4-stack.svg#1f505");
 }
-.ea-mag {
+.emoji-mag {
     background-image: url("emoji-extra4-stack.svg#1f50d");
 }
-.ea-mag-right {
+.emoji-mag-right {
     background-image: url("emoji-extra4-stack.svg#1f50e");
 }
-.ea-mahjong {
+.emoji-mahjong {
     background-image: url("emoji-extra4-stack.svg#1f004");
 }
-.ea-mailbox {
+.emoji-mailbox {
     background-image: url("emoji-extra4-stack.svg#1f4eb");
 }
-.ea-mailbox-closed {
+.emoji-mailbox-closed {
     background-image: url("emoji-extra4-stack.svg#1f4ea");
 }
-.ea-mailbox-with-mail {
+.emoji-mailbox-with-mail {
     background-image: url("emoji-extra4-stack.svg#1f4ec");
 }
-.ea-mailbox-with-no-mail {
+.emoji-mailbox-with-no-mail {
     background-image: url("emoji-extra4-stack.svg#1f4ed");
 }
-.ea-mans-shoe {
+.emoji-mans-shoe {
     background-image: url("emoji-extra4-stack.svg#1f45e");
 }
-.ea-meat-on-bone {
+.emoji-meat-on-bone {
     background-image: url("emoji-extra4-stack.svg#1f356");
 }
-.ea-mega {
+.emoji-mega {
     background-image: url("emoji-extra4-stack.svg#1f4e3");
 }
-.ea-melon {
+.emoji-melon {
     background-image: url("emoji-extra4-stack.svg#1f348");
 }
-.ea-memo {
+.emoji-memo {
     background-image: url("emoji-extra4-stack.svg#1f4dd");
 }
-.ea-microphone {
+.emoji-microphone {
     background-image: url("emoji-extra4-stack.svg#1f3a4");
 }
-.ea-microscope {
+.emoji-microscope {
     background-image: url("emoji-extra4-stack.svg#1f52c");
 }
-.ea-minidisc {
+.emoji-minidisc {
     background-image: url("emoji-extra4-stack.svg#1f4bd");
 }
-.ea-money-with-wings {
+.emoji-money-with-wings {
     background-image: url("emoji-extra4-stack.svg#1f4b8");
 }
-.ea-moneybag {
+.emoji-moneybag {
     background-image: url("emoji-extra4-stack.svg#1f4b0");
 }
-.ea-mountain-bicyclist {
+.emoji-mountain-bicyclist {
     background-image: url("emoji-extra4-stack.svg#1f6b5");
 }
-.ea-movie-camera {
+.emoji-movie-camera {
     background-image: url("emoji-extra5-stack.svg#1f3a5");
 }
-.ea-musical-keyboard {
+.emoji-musical-keyboard {
     background-image: url("emoji-extra5-stack.svg#1f3b9");
 }
-.ea-musical-score {
+.emoji-musical-score {
     background-image: url("emoji-extra5-stack.svg#1f3bc");
 }
-.ea-mute {
+.emoji-mute {
     background-image: url("emoji-extra5-stack.svg#1f507");
 }
-.ea-name-badge {
+.emoji-name-badge {
     background-image: url("emoji-extra5-stack.svg#1f4db");
 }
-.ea-necktie {
+.emoji-necktie {
     background-image: url("emoji-extra5-stack.svg#1f454");
 }
-.ea-newspaper {
+.emoji-newspaper {
     background-image: url("emoji-extra5-stack.svg#1f4f0");
 }
-.ea-no-bell {
+.emoji-no-bell {
     background-image: url("emoji-extra5-stack.svg#1f515");
 }
-.ea-notebook {
+.emoji-notebook {
     background-image: url("emoji-extra5-stack.svg#1f4d3");
 }
-.ea-notebook-with-decorative-cover {
+.emoji-notebook-with-decorative-cover {
     background-image: url("emoji-extra5-stack.svg#1f4d4");
 }
-.ea-nut-and-bolt {
+.emoji-nut-and-bolt {
     background-image: url("emoji-extra5-stack.svg#1f529");
 }
-.ea-oden {
+.emoji-oden {
     background-image: url("emoji-extra5-stack.svg#1f362");
 }
-.ea-open-file-folder {
+.emoji-open-file-folder {
     background-image: url("emoji-extra5-stack.svg#1f4c2");
 }
-.ea-orange-book {
+.emoji-orange-book {
     background-image: url("emoji-extra5-stack.svg#1f4d9");
 }
-.ea-outbox-tray {
+.emoji-outbox-tray {
     background-image: url("emoji-extra5-stack.svg#1f4e4");
 }
-.ea-page-facing-up {
+.emoji-page-facing-up {
     background-image: url("emoji-extra5-stack.svg#1f4c4");
 }
-.ea-page-with-curl {
+.emoji-page-with-curl {
     background-image: url("emoji-extra5-stack.svg#1f4c3");
 }
-.ea-pager {
+.emoji-pager {
     background-image: url("emoji-extra5-stack.svg#1f4df");
 }
-.ea-paperclip {
+.emoji-paperclip {
     background-image: url("emoji-extra5-stack.svg#1f4ce");
 }
-.ea-peach {
+.emoji-peach {
     background-image: url("emoji-extra5-stack.svg#1f351");
 }
-.ea-pear {
+.emoji-pear {
     background-image: url("emoji-extra5-stack.svg#1f350");
 }
-.ea-pencil2 {
+.emoji-pencil2 {
     background-image: url("emoji-extra5-stack.svg#270f");
 }
-.ea-phone {
+.emoji-phone {
     background-image: url("emoji-extra5-stack.svg#260e");
 }
-.ea-pill {
+.emoji-pill {
     background-image: url("emoji-extra5-stack.svg#1f48a");
 }
-.ea-pineapple {
+.emoji-pineapple {
     background-image: url("emoji-extra5-stack.svg#1f34d");
 }
-.ea-pizza {
+.emoji-pizza {
     background-image: url("emoji-extra5-stack.svg#1f355");
 }
-.ea-postal-horn {
+.emoji-postal-horn {
     background-image: url("emoji-extra5-stack.svg#1f4ef");
 }
-.ea-postbox {
+.emoji-postbox {
     background-image: url("emoji-extra5-stack.svg#1f4ee");
 }
-.ea-pouch {
+.emoji-pouch {
     background-image: url("emoji-extra5-stack.svg#1f45d");
 }
-.ea-poultry-leg {
+.emoji-poultry-leg {
     background-image: url("emoji-extra5-stack.svg#1f357");
 }
-.ea-pound {
+.emoji-pound {
     background-image: url("emoji-extra5-stack.svg#1f4b7");
 }
-.ea-purse {
+.emoji-purse {
     background-image: url("emoji-extra5-stack.svg#1f45b");
 }
-.ea-pushpin {
+.emoji-pushpin {
     background-image: url("emoji-extra5-stack.svg#1f4cc");
 }
-.ea-radio {
+.emoji-radio {
     background-image: url("emoji-extra5-stack.svg#1f4fb");
 }
-.ea-ramen {
+.emoji-ramen {
     background-image: url("emoji-extra5-stack.svg#1f35c");
 }
-.ea-ribbon {
+.emoji-ribbon {
     background-image: url("emoji-extra5-stack.svg#1f380");
 }
-.ea-rice {
+.emoji-rice {
     background-image: url("emoji-extra5-stack.svg#1f35a");
 }
-.ea-rice-ball {
+.emoji-rice-ball {
     background-image: url("emoji-extra5-stack.svg#1f359");
 }
-.ea-rice-cracker {
+.emoji-rice-cracker {
     background-image: url("emoji-extra5-stack.svg#1f358");
 }
-.ea-ring {
+.emoji-ring {
     background-image: url("emoji-extra5-stack.svg#1f48d");
 }
-.ea-rugby-football {
+.emoji-rugby-football {
     background-image: url("emoji-extra5-stack.svg#1f3c9");
 }
-.ea-running-shirt-with-sash {
+.emoji-running-shirt-with-sash {
     background-image: url("emoji-extra5-stack.svg#1f3bd");
 }
-.ea-sake {
+.emoji-sake {
     background-image: url("emoji-extra5-stack.svg#1f376");
 }
-.ea-sandal {
+.emoji-sandal {
     background-image: url("emoji-extra5-stack.svg#1f461");
 }
-.ea-satellite {
+.emoji-satellite {
     background-image: url("emoji-extra5-stack.svg#1f4e1");
 }
-.ea-saxophone {
+.emoji-saxophone {
     background-image: url("emoji-extra5-stack.svg#1f3b7");
 }
-.ea-scissors {
+.emoji-scissors {
     background-image: url("emoji-extra5-stack.svg#2702");
 }
-.ea-scroll {
+.emoji-scroll {
     background-image: url("emoji-extra5-stack.svg#1f4dc");
 }
-.ea-seat {
+.emoji-seat {
     background-image: url("emoji-extra5-stack.svg#1f4ba");
 }
-.ea-shaved-ice {
+.emoji-shaved-ice {
     background-image: url("emoji-extra5-stack.svg#1f367");
 }
-.ea-shirt {
+.emoji-shirt {
     background-image: url("emoji-extra5-stack.svg#1f455");
 }
-.ea-shower {
+.emoji-shower {
     background-image: url("emoji-extra5-stack.svg#1f6bf");
 }
-.ea-ski {
+.emoji-ski {
     background-image: url("emoji-extra5-stack.svg#1f3bf");
 }
-.ea-smoking {
+.emoji-smoking {
     background-image: url("emoji-extra5-stack.svg#1f6ac");
 }
-.ea-snowboarder {
+.emoji-snowboarder {
     background-image: url("emoji-extra5-stack.svg#1f3c2");
 }
-.ea-soccer {
+.emoji-soccer {
     background-image: url("emoji-extra5-stack.svg#26bd");
 }
-.ea-sound {
+.emoji-sound {
     background-image: url("emoji-extra5-stack.svg#1f509");
 }
-.ea-space-invader {
+.emoji-space-invader {
     background-image: url("emoji-extra5-stack.svg#1f47e");
 }
-.ea-spades {
+.emoji-spades {
     background-image: url("emoji-extra5-stack.svg#2660");
 }
-.ea-spaghetti {
+.emoji-spaghetti {
     background-image: url("emoji-extra5-stack.svg#1f35d");
 }
-.ea-speaker {
+.emoji-speaker {
     background-image: url("emoji-extra5-stack.svg#1f50a");
 }
-.ea-stew {
+.emoji-stew {
     background-image: url("emoji-extra5-stack.svg#1f372");
 }
-.ea-straight-ruler {
+.emoji-straight-ruler {
     background-image: url("emoji-extra5-stack.svg#1f4cf");
 }
-.ea-strawberry {
+.emoji-strawberry {
     background-image: url("emoji-extra5-stack.svg#1f353");
 }
-.ea-surfer {
+.emoji-surfer {
     background-image: url("emoji-extra5-stack.svg#1f3c4");
 }
-.ea-sushi {
+.emoji-sushi {
     background-image: url("emoji-extra5-stack.svg#1f363");
 }
-.ea-sweet-potato {
+.emoji-sweet-potato {
     background-image: url("emoji-extra5-stack.svg#1f360");
 }
-.ea-swimmer {
+.emoji-swimmer {
     background-image: url("emoji-extra5-stack.svg#1f3ca");
 }
-.ea-syringe {
+.emoji-syringe {
     background-image: url("emoji-extra5-stack.svg#1f489");
 }
-.ea-tada {
+.emoji-tada {
     background-image: url("emoji-extra5-stack.svg#1f389");
 }
-.ea-tanabata-tree {
+.emoji-tanabata-tree {
     background-image: url("emoji-extra5-stack.svg#1f38b");
 }
-.ea-tangerine {
+.emoji-tangerine {
     background-image: url("emoji-extra5-stack.svg#1f34a");
 }
-.ea-tea {
+.emoji-tea {
     background-image: url("emoji-extra5-stack.svg#1f375");
 }
-.ea-telephone-receiver {
+.emoji-telephone-receiver {
     background-image: url("emoji-extra5-stack.svg#1f4de");
 }
-.ea-telescope {
+.emoji-telescope {
     background-image: url("emoji-extra5-stack.svg#1f52d");
 }
-.ea-tennis {
+.emoji-tennis {
     background-image: url("emoji-extra5-stack.svg#1f3be");
 }
-.ea-toilet {
+.emoji-toilet {
     background-image: url("emoji-extra5-stack.svg#1f6bd");
 }
-.ea-tomato {
+.emoji-tomato {
     background-image: url("emoji-extra5-stack.svg#1f345");
 }
-.ea-tophat {
+.emoji-tophat {
     background-image: url("emoji-extra5-stack.svg#1f3a9");
 }
-.ea-triangular-ruler {
+.emoji-triangular-ruler {
     background-image: url("emoji-extra5-stack.svg#1f4d0");
 }
-.ea-trophy {
+.emoji-trophy {
     background-image: url("emoji-extra5-stack.svg#1f3c6");
 }
-.ea-tropical-drink {
+.emoji-tropical-drink {
     background-image: url("emoji-extra5-stack.svg#1f379");
 }
-.ea-trumpet {
+.emoji-trumpet {
     background-image: url("emoji-extra5-stack.svg#1f3ba");
 }
-.ea-tv {
+.emoji-tv {
     background-image: url("emoji-extra5-stack.svg#1f4fa");
 }
-.ea-unlock {
+.emoji-unlock {
     background-image: url("emoji-extra5-stack.svg#1f513");
 }
-.ea-vhs {
+.emoji-vhs {
     background-image: url("emoji-extra5-stack.svg#1f4fc");
 }
-.ea-video-camera {
+.emoji-video-camera {
     background-image: url("emoji-extra5-stack.svg#1f4f9");
 }
-.ea-video-game {
+.emoji-video-game {
     background-image: url("emoji-extra5-stack.svg#1f3ae");
 }
-.ea-violin {
+.emoji-violin {
     background-image: url("emoji-extra5-stack.svg#1f3bb");
 }
-.ea-watch {
+.emoji-watch {
     background-image: url("emoji-extra5-stack.svg#231a");
 }
-.ea-watermelon {
+.emoji-watermelon {
     background-image: url("emoji-extra5-stack.svg#1f349");
 }
-.ea-wine-glass {
+.emoji-wine-glass {
     background-image: url("emoji-extra5-stack.svg#1f377");
 }
-.ea-womans-clothes {
+.emoji-womans-clothes {
     background-image: url("emoji-extra5-stack.svg#1f45a");
 }
-.ea-womans-hat {
+.emoji-womans-hat {
     background-image: url("emoji-extra5-stack.svg#1f452");
 }
-.ea-wrench {
+.emoji-wrench {
     background-image: url("emoji-extra5-stack.svg#1f527");
 }
-.ea-yen {
+.emoji-yen {
     background-image: url("emoji-extra5-stack.svg#1f4b4");
 }
-.ea-aerial-tramway {
+.emoji-aerial-tramway {
     background-image: url("emoji-extra5-stack.svg#1f6a1");
 }
-.ea-airplane {
+.emoji-airplane {
     background-image: url("emoji-extra5-stack.svg#2708");
 }
-.ea-ambulance {
+.emoji-ambulance {
     background-image: url("emoji-extra6-stack.svg#1f691");
 }
-.ea-anchor {
+.emoji-anchor {
     background-image: url("emoji-extra6-stack.svg#2693");
 }
-.ea-articulated-lorry {
+.emoji-articulated-lorry {
     background-image: url("emoji-extra6-stack.svg#1f69b");
 }
-.ea-atm {
+.emoji-atm {
     background-image: url("emoji-extra6-stack.svg#1f3e7");
 }
-.ea-bank {
+.emoji-bank {
     background-image: url("emoji-extra6-stack.svg#1f3e6");
 }
-.ea-barber {
+.emoji-barber {
     background-image: url("emoji-extra6-stack.svg#1f488");
 }
-.ea-beginner {
+.emoji-beginner {
     background-image: url("emoji-extra6-stack.svg#1f530");
 }
-.ea-bike {
+.emoji-bike {
     background-image: url("emoji-extra6-stack.svg#1f6b2");
 }
-.ea-blue-car {
+.emoji-blue-car {
     background-image: url("emoji-extra6-stack.svg#1f699");
 }
-.ea-boat {
+.emoji-boat {
     background-image: url("emoji-extra6-stack.svg#26f5");
 }
-.ea-bridge-at-night {
+.emoji-bridge-at-night {
     background-image: url("emoji-extra6-stack.svg#1f309");
 }
-.ea-bullettrain-front {
+.emoji-bullettrain-front {
     background-image: url("emoji-extra6-stack.svg#1f685");
 }
-.ea-bullettrain-side {
+.emoji-bullettrain-side {
     background-image: url("emoji-extra6-stack.svg#1f684");
 }
-.ea-bus {
+.emoji-bus {
     background-image: url("emoji-extra6-stack.svg#1f68c");
 }
-.ea-busstop {
+.emoji-busstop {
     background-image: url("emoji-extra6-stack.svg#1f68f");
 }
-.ea-car {
+.emoji-car {
     background-image: url("emoji-extra6-stack.svg#1f697");
 }
-.ea-carousel-horse {
+.emoji-carousel-horse {
     background-image: url("emoji-extra6-stack.svg#1f3a0");
 }
-.ea-church {
+.emoji-church {
     background-image: url("emoji-extra6-stack.svg#26ea");
 }
-.ea-circus-tent {
+.emoji-circus-tent {
     background-image: url("emoji-extra6-stack.svg#1f3aa");
 }
-.ea-city-sunrise {
+.emoji-city-sunrise {
     background-image: url("emoji-extra6-stack.svg#1f307");
 }
-.ea-city-sunset {
+.emoji-city-sunset {
     background-image: url("emoji-extra6-stack.svg#1f306");
 }
-.ea-construction {
+.emoji-construction {
     background-image: url("emoji-extra6-stack.svg#1f6a7");
 }
-.ea-convenience-store {
+.emoji-convenience-store {
     background-image: url("emoji-extra6-stack.svg#1f3ea");
 }
-.ea-department-store {
+.emoji-department-store {
     background-image: url("emoji-extra6-stack.svg#1f3ec");
 }
-.ea-european-castle {
+.emoji-european-castle {
     background-image: url("emoji-extra6-stack.svg#1f3f0");
 }
-.ea-european-post-office {
+.emoji-european-post-office {
     background-image: url("emoji-extra6-stack.svg#1f3e4");
 }
-.ea-factory {
+.emoji-factory {
     background-image: url("emoji-extra6-stack.svg#1f3ed");
 }
-.ea-ferris-wheel {
+.emoji-ferris-wheel {
     background-image: url("emoji-extra6-stack.svg#1f3a1");
 }
-.ea-fire-engine {
+.emoji-fire-engine {
     background-image: url("emoji-extra6-stack.svg#1f692");
 }
-.ea-fountain {
+.emoji-fountain {
     background-image: url("emoji-extra6-stack.svg#26f2");
 }
-.ea-fuelpump {
+.emoji-fuelpump {
     background-image: url("emoji-extra6-stack.svg#26fd");
 }
-.ea-helicopter {
+.emoji-helicopter {
     background-image: url("emoji-extra6-stack.svg#1f681");
 }
-.ea-hospital {
+.emoji-hospital {
     background-image: url("emoji-extra6-stack.svg#1f3e5");
 }
-.ea-hotel {
+.emoji-hotel {
     background-image: url("emoji-extra6-stack.svg#1f3e8");
 }
-.ea-hotsprings {
+.emoji-hotsprings {
     background-image: url("emoji-extra6-stack.svg#2668");
 }
-.ea-house {
+.emoji-house {
     background-image: url("emoji-extra6-stack.svg#1f3e0");
 }
-.ea-house-with-garden {
+.emoji-house-with-garden {
     background-image: url("emoji-extra6-stack.svg#1f3e1");
 }
-.ea-japan {
+.emoji-japan {
     background-image: url("emoji-extra6-stack.svg#1f5fe");
 }
-.ea-japanese-castle {
+.emoji-japanese-castle {
     background-image: url("emoji-extra6-stack.svg#1f3ef");
 }
-.ea-light-rail {
+.emoji-light-rail {
     background-image: url("emoji-extra6-stack.svg#1f688");
 }
-.ea-love-hotel {
+.emoji-love-hotel {
     background-image: url("emoji-extra6-stack.svg#1f3e9");
 }
-.ea-minibus {
+.emoji-minibus {
     background-image: url("emoji-extra6-stack.svg#1f690");
 }
-.ea-monorail {
+.emoji-monorail {
     background-image: url("emoji-extra6-stack.svg#1f69d");
 }
-.ea-mount-fuji {
+.emoji-mount-fuji {
     background-image: url("emoji-extra6-stack.svg#1f5fb");
 }
-.ea-mountain-cableway {
+.emoji-mountain-cableway {
     background-image: url("emoji-extra6-stack.svg#1f6a0");
 }
-.ea-mountain-railway {
+.emoji-mountain-railway {
     background-image: url("emoji-extra6-stack.svg#1f69e");
 }
-.ea-moyai {
+.emoji-moyai {
     background-image: url("emoji-extra6-stack.svg#1f5ff");
 }
-.ea-office {
+.emoji-office {
     background-image: url("emoji-extra6-stack.svg#1f3e2");
 }
-.ea-oncoming-automobile {
+.emoji-oncoming-automobile {
     background-image: url("emoji-extra6-stack.svg#1f698");
 }
-.ea-oncoming-bus {
+.emoji-oncoming-bus {
     background-image: url("emoji-extra6-stack.svg#1f68d");
 }
-.ea-oncoming-police-car {
+.emoji-oncoming-police-car {
     background-image: url("emoji-extra6-stack.svg#1f694");
 }
-.ea-oncoming-taxi {
+.emoji-oncoming-taxi {
     background-image: url("emoji-extra6-stack.svg#1f696");
 }
-.ea-performing-arts {
+.emoji-performing-arts {
     background-image: url("emoji-extra6-stack.svg#1f3ad");
 }
-.ea-police-car {
+.emoji-police-car {
     background-image: url("emoji-extra6-stack.svg#1f693");
 }
-.ea-post-office {
+.emoji-post-office {
     background-image: url("emoji-extra6-stack.svg#1f3e3");
 }
-.ea-railway-car {
+.emoji-railway-car {
     background-image: url("emoji-extra6-stack.svg#1f683");
 }
-.ea-rainbow {
+.emoji-rainbow {
     background-image: url("emoji-extra6-stack.svg#1f308");
 }
-.ea-rocket {
+.emoji-rocket {
     background-image: url("emoji-extra6-stack.svg#1f680");
 }
-.ea-roller-coaster {
+.emoji-roller-coaster {
     background-image: url("emoji-extra6-stack.svg#1f3a2");
 }
-.ea-rotating-light {
+.emoji-rotating-light {
     background-image: url("emoji-extra6-stack.svg#1f6a8");
 }
-.ea-round-pushpin {
+.emoji-round-pushpin {
     background-image: url("emoji-extra6-stack.svg#1f4cd");
 }
-.ea-rowboat {
+.emoji-rowboat {
     background-image: url("emoji-extra6-stack.svg#1f6a3");
 }
-.ea-school {
+.emoji-school {
     background-image: url("emoji-extra6-stack.svg#1f3eb");
 }
-.ea-ship {
+.emoji-ship {
     background-image: url("emoji-extra6-stack.svg#1f6a2");
 }
-.ea-slot-machine {
+.emoji-slot-machine {
     background-image: url("emoji-extra6-stack.svg#1f3b0");
 }
-.ea-speedboat {
+.emoji-speedboat {
     background-image: url("emoji-extra6-stack.svg#1f6a4");
 }
-.ea-stars {
+.emoji-stars {
     background-image: url("emoji-extra6-stack.svg#1f303");
 }
-.ea-station {
+.emoji-station {
     background-image: url("emoji-extra6-stack.svg#1f689");
 }
-.ea-statue-of-liberty {
+.emoji-statue-of-liberty {
     background-image: url("emoji-extra6-stack.svg#1f5fd");
 }
-.ea-steam-locomotive {
+.emoji-steam-locomotive {
     background-image: url("emoji-extra6-stack.svg#1f682");
 }
-.ea-sunrise {
+.emoji-sunrise {
     background-image: url("emoji-extra6-stack.svg#1f305");
 }
-.ea-sunrise-over-mountains {
+.emoji-sunrise-over-mountains {
     background-image: url("emoji-extra6-stack.svg#1f304");
 }
-.ea-suspension-railway {
+.emoji-suspension-railway {
     background-image: url("emoji-extra6-stack.svg#1f69f");
 }
-.ea-taxi {
+.emoji-taxi {
     background-image: url("emoji-extra6-stack.svg#1f695");
 }
-.ea-tent {
+.emoji-tent {
     background-image: url("emoji-extra6-stack.svg#26fa");
 }
-.ea-ticket {
+.emoji-ticket {
     background-image: url("emoji-extra6-stack.svg#1f3ab");
 }
-.ea-tokyo-tower {
+.emoji-tokyo-tower {
     background-image: url("emoji-extra6-stack.svg#1f5fc");
 }
-.ea-tractor {
+.emoji-tractor {
     background-image: url("emoji-extra6-stack.svg#1f69c");
 }
-.ea-traffic-light {
+.emoji-traffic-light {
     background-image: url("emoji-extra6-stack.svg#1f6a5");
 }
-.ea-train2 {
+.emoji-train2 {
     background-image: url("emoji-extra6-stack.svg#1f686");
 }
-.ea-tram {
+.emoji-tram {
     background-image: url("emoji-extra6-stack.svg#1f68a");
 }
-.ea-trolleybus {
+.emoji-trolleybus {
     background-image: url("emoji-extra6-stack.svg#1f68e");
 }
-.ea-truck {
+.emoji-truck {
     background-image: url("emoji-extra6-stack.svg#1f69a");
 }
-.ea-vertical-traffic-light {
+.emoji-vertical-traffic-light {
     background-image: url("emoji-extra6-stack.svg#1f6a6");
 }
-.ea-warning {
+.emoji-warning {
     background-image: url("emoji-extra6-stack.svg#26a0");
 }
-.ea-wedding {
+.emoji-wedding {
     background-image: url("emoji-extra6-stack.svg#1f492");
 }
 .eaminus100 {
@@ -1929,669 +1929,669 @@
 .eaminus1234 {
     background-image: url("emoji-extra6-stack.svg#1f522");
 }
-.ea-a {
+.emoji-a {
     background-image: url("emoji-extra7-stack.svg#1f170");
 }
-.ea-ab {
+.emoji-ab {
     background-image: url("emoji-extra7-stack.svg#1f18e");
 }
-.ea-abc {
+.emoji-abc {
     background-image: url("emoji-extra7-stack.svg#1f524");
 }
-.ea-abcd {
+.emoji-abcd {
     background-image: url("emoji-extra7-stack.svg#1f521");
 }
-.ea-accept {
+.emoji-accept {
     background-image: url("emoji-extra7-stack.svg#1f251");
 }
-.ea-aquarius {
+.emoji-aquarius {
     background-image: url("emoji-extra7-stack.svg#2652");
 }
-.ea-aries {
+.emoji-aries {
     background-image: url("emoji-extra7-stack.svg#2648");
 }
-.ea-arrow-backward {
+.emoji-arrow-backward {
     background-image: url("emoji-extra7-stack.svg#25c0");
 }
-.ea-arrow-double-down {
+.emoji-arrow-double-down {
     background-image: url("emoji-extra7-stack.svg#23ec");
 }
-.ea-arrow-double-up {
+.emoji-arrow-double-up {
     background-image: url("emoji-extra7-stack.svg#23eb");
 }
-.ea-arrow-down {
+.emoji-arrow-down {
     background-image: url("emoji-extra7-stack.svg#2b07");
 }
-.ea-arrow-down-small {
+.emoji-arrow-down-small {
     background-image: url("emoji-extra7-stack.svg#1f53d");
 }
-.ea-arrow-forward {
+.emoji-arrow-forward {
     background-image: url("emoji-extra7-stack.svg#25b6");
 }
-.ea-arrow-heading-down {
+.emoji-arrow-heading-down {
     background-image: url("emoji-extra7-stack.svg#2935");
 }
-.ea-arrow-heading-up {
+.emoji-arrow-heading-up {
     background-image: url("emoji-extra7-stack.svg#2934");
 }
-.ea-arrow-left {
+.emoji-arrow-left {
     background-image: url("emoji-extra7-stack.svg#2b05");
 }
-.ea-arrow-lower-left {
+.emoji-arrow-lower-left {
     background-image: url("emoji-extra7-stack.svg#2199");
 }
-.ea-arrow-lower-right {
+.emoji-arrow-lower-right {
     background-image: url("emoji-extra7-stack.svg#2198");
 }
-.ea-arrow-right {
+.emoji-arrow-right {
     background-image: url("emoji-extra7-stack.svg#27a1");
 }
-.ea-arrow-right-hook {
+.emoji-arrow-right-hook {
     background-image: url("emoji-extra7-stack.svg#21aa");
 }
-.ea-arrow-up {
+.emoji-arrow-up {
     background-image: url("emoji-extra7-stack.svg#2b06");
 }
-.ea-arrow-up-down {
+.emoji-arrow-up-down {
     background-image: url("emoji-extra7-stack.svg#2195");
 }
-.ea-arrow-up-small {
+.emoji-arrow-up-small {
     background-image: url("emoji-extra7-stack.svg#1f53c");
 }
-.ea-arrow-upper-left {
+.emoji-arrow-upper-left {
     background-image: url("emoji-extra7-stack.svg#2196");
 }
-.ea-arrow-upper-right {
+.emoji-arrow-upper-right {
     background-image: url("emoji-extra7-stack.svg#2197");
 }
-.ea-arrows-clockwise {
+.emoji-arrows-clockwise {
     background-image: url("emoji-extra7-stack.svg#1f503");
 }
-.ea-arrows-counterclockwise {
+.emoji-arrows-counterclockwise {
     background-image: url("emoji-extra7-stack.svg#1f504");
 }
-.ea-b {
+.emoji-b {
     background-image: url("emoji-extra7-stack.svg#1f171");
 }
-.ea-baby-symbol {
+.emoji-baby-symbol {
     background-image: url("emoji-extra7-stack.svg#1f6bc");
 }
-.ea-baggage-claim {
+.emoji-baggage-claim {
     background-image: url("emoji-extra7-stack.svg#1f6c4");
 }
-.ea-ballot-box-with-check {
+.emoji-ballot-box-with-check {
     background-image: url("emoji-extra7-stack.svg#2611");
 }
-.ea-bangbang {
+.emoji-bangbang {
     background-image: url("emoji-extra7-stack.svg#203c");
 }
-.ea-black-circle {
+.emoji-black-circle {
     background-image: url("emoji-extra7-stack.svg#26ab");
 }
-.ea-black-square-button {
+.emoji-black-square-button {
     background-image: url("emoji-extra7-stack.svg#1f532");
 }
-.ea-cancer {
+.emoji-cancer {
     background-image: url("emoji-extra7-stack.svg#264b");
 }
-.ea-capital-abcd {
+.emoji-capital-abcd {
     background-image: url("emoji-extra7-stack.svg#1f520");
 }
-.ea-capricorn {
+.emoji-capricorn {
     background-image: url("emoji-extra7-stack.svg#2651");
 }
-.ea-chart {
+.emoji-chart {
     background-image: url("emoji-extra7-stack.svg#1f4b9");
 }
-.ea-children-crossing {
+.emoji-children-crossing {
     background-image: url("emoji-extra7-stack.svg#1f6b8");
 }
-.ea-cinema {
+.emoji-cinema {
     background-image: url("emoji-extra7-stack.svg#1f3a6");
 }
-.ea-cl {
+.emoji-cl {
     background-image: url("emoji-extra7-stack.svg#1f191");
 }
-.ea-clock1 {
+.emoji-clock1 {
     background-image: url("emoji-extra7-stack.svg#1f550");
 }
-.ea-clock10 {
+.emoji-clock10 {
     background-image: url("emoji-extra7-stack.svg#1f559");
 }
-.ea-clock1030 {
+.emoji-clock1030 {
     background-image: url("emoji-extra7-stack.svg#1f565");
 }
-.ea-clock11 {
+.emoji-clock11 {
     background-image: url("emoji-extra7-stack.svg#1f55a");
 }
-.ea-clock1130 {
+.emoji-clock1130 {
     background-image: url("emoji-extra7-stack.svg#1f566");
 }
-.ea-clock12 {
+.emoji-clock12 {
     background-image: url("emoji-extra7-stack.svg#1f55b");
 }
-.ea-clock1230 {
+.emoji-clock1230 {
     background-image: url("emoji-extra7-stack.svg#1f567");
 }
-.ea-clock130 {
+.emoji-clock130 {
     background-image: url("emoji-extra7-stack.svg#1f55c");
 }
-.ea-clock2 {
+.emoji-clock2 {
     background-image: url("emoji-extra7-stack.svg#1f551");
 }
-.ea-clock230 {
+.emoji-clock230 {
     background-image: url("emoji-extra7-stack.svg#1f55d");
 }
-.ea-clock3 {
+.emoji-clock3 {
     background-image: url("emoji-extra7-stack.svg#1f552");
 }
-.ea-clock330 {
+.emoji-clock330 {
     background-image: url("emoji-extra7-stack.svg#1f55e");
 }
-.ea-clock4 {
+.emoji-clock4 {
     background-image: url("emoji-extra7-stack.svg#1f553");
 }
-.ea-clock430 {
+.emoji-clock430 {
     background-image: url("emoji-extra7-stack.svg#1f55f");
 }
-.ea-clock5 {
+.emoji-clock5 {
     background-image: url("emoji-extra7-stack.svg#1f554");
 }
-.ea-clock530 {
+.emoji-clock530 {
     background-image: url("emoji-extra7-stack.svg#1f560");
 }
-.ea-clock6 {
+.emoji-clock6 {
     background-image: url("emoji-extra7-stack.svg#1f555");
 }
-.ea-clock630 {
+.emoji-clock630 {
     background-image: url("emoji-extra7-stack.svg#1f561");
 }
-.ea-clock7 {
+.emoji-clock7 {
     background-image: url("emoji-extra7-stack.svg#1f556");
 }
-.ea-clock730 {
+.emoji-clock730 {
     background-image: url("emoji-extra7-stack.svg#1f562");
 }
-.ea-clock8 {
+.emoji-clock8 {
     background-image: url("emoji-extra7-stack.svg#1f557");
 }
-.ea-clock830 {
+.emoji-clock830 {
     background-image: url("emoji-extra7-stack.svg#1f563");
 }
-.ea-clock9 {
+.emoji-clock9 {
     background-image: url("emoji-extra7-stack.svg#1f558");
 }
-.ea-clock930 {
+.emoji-clock930 {
     background-image: url("emoji-extra7-stack.svg#1f564");
 }
-.ea-congratulations {
+.emoji-congratulations {
     background-image: url("emoji-extra7-stack.svg#3297");
 }
-.ea-cool {
+.emoji-cool {
     background-image: url("emoji-extra7-stack.svg#1f192");
 }
-.ea-copyright {
+.emoji-copyright {
     background-image: url("emoji-extra7-stack.svg#a9");
 }
-.ea-curly-loop {
+.emoji-curly-loop {
     background-image: url("emoji-extra7-stack.svg#27b0");
 }
-.ea-currency-exchange {
+.emoji-currency-exchange {
     background-image: url("emoji-extra7-stack.svg#1f4b1");
 }
-.ea-customs {
+.emoji-customs {
     background-image: url("emoji-extra7-stack.svg#1f6c3");
 }
-.ea-diamond-shape-with-a-dot-inside {
+.emoji-diamond-shape-with-a-dot-inside {
     background-image: url("emoji-extra7-stack.svg#1f4a0");
 }
-.ea-do-not-litter {
+.emoji-do-not-litter {
     background-image: url("emoji-extra7-stack.svg#1f6af");
 }
-.ea-eight {
+.emoji-eight {
     background-image: url("emoji-extra7-stack.svg#38-20e3");
 }
-.ea-eight-pointed-black-star {
+.emoji-eight-pointed-black-star {
     background-image: url("emoji-extra7-stack.svg#2734");
 }
-.ea-eight-spoked-asterisk {
+.emoji-eight-spoked-asterisk {
     background-image: url("emoji-extra7-stack.svg#2733");
 }
-.ea-end {
+.emoji-end {
     background-image: url("emoji-extra7-stack.svg#1f51a");
 }
-.ea-fast-forward {
+.emoji-fast-forward {
     background-image: url("emoji-extra7-stack.svg#23e9");
 }
-.ea-five {
+.emoji-five {
     background-image: url("emoji-extra7-stack.svg#35-20e3");
 }
-.ea-four {
+.emoji-four {
     background-image: url("emoji-extra7-stack.svg#34-20e3");
 }
-.ea-free {
+.emoji-free {
     background-image: url("emoji-extra7-stack.svg#1f193");
 }
-.ea-gemini {
+.emoji-gemini {
     background-image: url("emoji-extra7-stack.svg#264a");
 }
-.ea-hash {
+.emoji-hash {
     background-image: url("emoji-extra7-stack.svg#23-20e3");
 }
-.ea-heart-decoration {
+.emoji-heart-decoration {
     background-image: url("emoji-extra7-stack.svg#1f49f");
 }
-.ea-heavy-check-mark {
+.emoji-heavy-check-mark {
     background-image: url("emoji-extra7-stack.svg#2714");
 }
-.ea-heavy-division-sign {
+.emoji-heavy-division-sign {
     background-image: url("emoji-extra7-stack.svg#2797");
 }
-.ea-heavy-dollar-sign {
+.emoji-heavy-dollar-sign {
     background-image: url("emoji-extra7-stack.svg#1f4b2");
 }
-.ea-heavy-minus-sign {
+.emoji-heavy-minus-sign {
     background-image: url("emoji-extra7-stack.svg#2796");
 }
-.ea-heavy-multiplication-x {
+.emoji-heavy-multiplication-x {
     background-image: url("emoji-extra7-stack.svg#2716");
 }
-.ea-heavy-plus-sign {
+.emoji-heavy-plus-sign {
     background-image: url("emoji-extra7-stack.svg#2795");
 }
-.ea-id {
+.emoji-id {
     background-image: url("emoji-extra7-stack.svg#1f194");
 }
-.ea-ideograph-advantage {
+.emoji-ideograph-advantage {
     background-image: url("emoji-extra7-stack.svg#1f250");
 }
-.ea-information-source {
+.emoji-information-source {
     background-image: url("emoji-extra7-stack.svg#2139");
 }
-.ea-interrobang {
+.emoji-interrobang {
     background-image: url("emoji-extra7-stack.svg#2049");
 }
-.ea-keycap-ten {
+.emoji-keycap-ten {
     background-image: url("emoji-extra7-stack.svg#1f51f");
 }
-.ea-koko {
+.emoji-koko {
     background-image: url("emoji-extra7-stack.svg#1f201");
 }
-.ea-large-blue-circle {
+.emoji-large-blue-circle {
     background-image: url("emoji-extra7-stack.svg#1f535");
 }
-.ea-large-blue-diamond {
+.emoji-large-blue-diamond {
     background-image: url("emoji-extra7-stack.svg#1f537");
 }
-.ea-large-orange-diamond {
+.emoji-large-orange-diamond {
     background-image: url("emoji-extra7-stack.svg#1f536");
 }
-.ea-left-luggage {
+.emoji-left-luggage {
     background-image: url("emoji-extra7-stack.svg#1f6c5");
 }
-.ea-left-right-arrow {
+.emoji-left-right-arrow {
     background-image: url("emoji-extra7-stack.svg#2194");
 }
-.ea-leftwards-arrow-with-hook {
+.emoji-leftwards-arrow-with-hook {
     background-image: url("emoji-extra7-stack.svg#21a9");
 }
-.ea-leo {
+.emoji-leo {
     background-image: url("emoji-extra7-stack.svg#264c");
 }
-.ea-libra {
+.emoji-libra {
     background-image: url("emoji-extra7-stack.svg#264e");
 }
-.ea-link {
+.emoji-link {
     background-image: url("emoji-extra7-stack.svg#1f517");
 }
-.ea-m {
+.emoji-m {
     background-image: url("emoji-extra7-stack.svg#24c2");
 }
-.ea-mens {
+.emoji-mens {
     background-image: url("emoji-extra7-stack.svg#1f6b9");
 }
-.ea-metro {
+.emoji-metro {
     background-image: url("emoji-extra7-stack.svg#1f687");
 }
-.ea-mobile-phone-off {
+.emoji-mobile-phone-off {
     background-image: url("emoji-extra7-stack.svg#1f4f4");
 }
-.ea-negative-squared-cross-mark {
+.emoji-negative-squared-cross-mark {
     background-image: url("emoji-extra7-stack.svg#274e");
 }
-.ea-new {
+.emoji-new {
     background-image: url("emoji-extra7-stack.svg#1f195");
 }
-.ea-ng {
+.emoji-ng {
     background-image: url("emoji-extra7-stack.svg#1f196");
 }
-.ea-nine {
+.emoji-nine {
     background-image: url("emoji-extra7-stack.svg#39-20e3");
 }
-.ea-no-bicycles {
+.emoji-no-bicycles {
     background-image: url("emoji-extra7-stack.svg#1f6b3");
 }
-.ea-no-entry {
+.emoji-no-entry {
     background-image: url("emoji-extra7-stack.svg#26d4");
 }
-.ea-no-entry-sign {
+.emoji-no-entry-sign {
     background-image: url("emoji-extra7-stack.svg#1f6ab");
 }
-.ea-no-mobile-phones {
+.emoji-no-mobile-phones {
     background-image: url("emoji-extra7-stack.svg#1f4f5");
 }
-.ea-no-pedestrians {
+.emoji-no-pedestrians {
     background-image: url("emoji-extra7-stack.svg#1f6b7");
 }
-.ea-no-smoking {
+.emoji-no-smoking {
     background-image: url("emoji-extra7-stack.svg#1f6ad");
 }
-.ea-non-potable-water {
+.emoji-non-potable-water {
     background-image: url("emoji-extra7-stack.svg#1f6b1");
 }
-.ea-o {
+.emoji-o {
     background-image: url("emoji-extra7-stack.svg#2b55");
 }
-.ea-o2 {
+.emoji-o2 {
     background-image: url("emoji-extra7-stack.svg#1f17e");
 }
-.ea-ok {
+.emoji-ok {
     background-image: url("emoji-extra7-stack.svg#1f197");
 }
-.ea-on {
+.emoji-on {
     background-image: url("emoji-extra7-stack.svg#1f51b");
 }
-.ea-one {
+.emoji-one {
     background-image: url("emoji-extra7-stack.svg#31-20e3");
 }
-.ea-ophiuchus {
+.emoji-ophiuchus {
     background-image: url("emoji-extra7-stack.svg#26ce");
 }
-.ea-parking {
+.emoji-parking {
     background-image: url("emoji-extra7-stack.svg#1f17f");
 }
-.ea-part-alternation-mark {
+.emoji-part-alternation-mark {
     background-image: url("emoji-extra7-stack.svg#303d");
 }
-.ea-passport-control {
+.emoji-passport-control {
     background-image: url("emoji-extra7-stack.svg#1f6c2");
 }
-.ea-pisces {
+.emoji-pisces {
     background-image: url("emoji-extra7-stack.svg#2653");
 }
-.ea-potable-water {
+.emoji-potable-water {
     background-image: url("emoji-extra7-stack.svg#1f6b0");
 }
-.ea-put-litter-in-its-place {
+.emoji-put-litter-in-its-place {
     background-image: url("emoji-extra7-stack.svg#1f6ae");
 }
-.ea-radio-button {
+.emoji-radio-button {
     background-image: url("emoji-extra7-stack.svg#1f518");
 }
-.ea-recycle {
+.emoji-recycle {
     background-image: url("emoji-extra7-stack.svg#267b");
 }
-.ea-red-circle {
+.emoji-red-circle {
     background-image: url("emoji-extra7-stack.svg#1f534");
 }
-.ea-registered {
+.emoji-registered {
     background-image: url("emoji-extra7-stack.svg#ae");
 }
-.ea-repeat {
+.emoji-repeat {
     background-image: url("emoji-extra7-stack.svg#1f501");
 }
-.ea-repeat-one {
+.emoji-repeat-one {
     background-image: url("emoji-extra7-stack.svg#1f502");
 }
-.ea-restroom {
+.emoji-restroom {
     background-image: url("emoji-extra7-stack.svg#1f6bb");
 }
-.ea-rewind {
+.emoji-rewind {
     background-image: url("emoji-extra7-stack.svg#23ea");
 }
-.ea-sa {
+.emoji-sa {
     background-image: url("emoji-extra7-stack.svg#1f202");
 }
-.ea-sagittarius {
+.emoji-sagittarius {
     background-image: url("emoji-extra7-stack.svg#2650");
 }
-.ea-scorpius {
+.emoji-scorpius {
     background-image: url("emoji-extra7-stack.svg#264f");
 }
-.ea-secret {
+.emoji-secret {
     background-image: url("emoji-extra7-stack.svg#3299");
 }
-.ea-seven {
+.emoji-seven {
     background-image: url("emoji-extra7-stack.svg#37-20e3");
 }
-.ea-signal-strength {
+.emoji-signal-strength {
     background-image: url("emoji-extra7-stack.svg#1f4f6");
 }
-.ea-six {
+.emoji-six {
     background-image: url("emoji-extra7-stack.svg#36-20e3");
 }
-.ea-six-pointed-star {
+.emoji-six-pointed-star {
     background-image: url("emoji-extra7-stack.svg#1f52f");
 }
-.ea-small-blue-diamond {
+.emoji-small-blue-diamond {
     background-image: url("emoji-extra7-stack.svg#1f539");
 }
-.ea-small-orange-diamond {
+.emoji-small-orange-diamond {
     background-image: url("emoji-extra7-stack.svg#1f538");
 }
-.ea-small-red-triangle {
+.emoji-small-red-triangle {
     background-image: url("emoji-extra7-stack.svg#1f53a");
 }
-.ea-small-red-triangle-down {
+.emoji-small-red-triangle-down {
     background-image: url("emoji-extra7-stack.svg#1f53b");
 }
-.ea-soon {
+.emoji-soon {
     background-image: url("emoji-extra7-stack.svg#1f51c");
 }
-.ea-sos {
+.emoji-sos {
     background-image: url("emoji-extra7-stack.svg#1f198");
 }
-.ea-symbols {
+.emoji-symbols {
     background-image: url("emoji-extra7-stack.svg#1f523");
 }
-.ea-taurus {
+.emoji-taurus {
     background-image: url("emoji-extra7-stack.svg#2649");
 }
-.ea-three {
+.emoji-three {
     background-image: url("emoji-extra7-stack.svg#33-20e3");
 }
-.ea-tm {
+.emoji-tm {
     background-image: url("emoji-extra7-stack.svg#2122");
 }
-.ea-top {
+.emoji-top {
     background-image: url("emoji-extra7-stack.svg#1f51d");
 }
-.ea-trident {
+.emoji-trident {
     background-image: url("emoji-extra7-stack.svg#1f531");
 }
-.ea-twisted-rightwards-arrows {
+.emoji-twisted-rightwards-arrows {
     background-image: url("emoji-extra7-stack.svg#1f500");
 }
-.ea-two {
+.emoji-two {
     background-image: url("emoji-extra7-stack.svg#32-20e3");
 }
-.ea-underage {
+.emoji-underage {
     background-image: url("emoji-extra7-stack.svg#1f51e");
 }
-.ea-up {
+.emoji-up {
     background-image: url("emoji-extra7-stack.svg#1f199");
 }
-.ea-vibration-mode {
+.emoji-vibration-mode {
     background-image: url("emoji-extra7-stack.svg#1f4f3");
 }
-.ea-virgo {
+.emoji-virgo {
     background-image: url("emoji-extra7-stack.svg#264d");
 }
-.ea-vs {
+.emoji-vs {
     background-image: url("emoji-extra7-stack.svg#1f19a");
 }
-.ea-wavy-dash {
+.emoji-wavy-dash {
     background-image: url("emoji-extra7-stack.svg#3030");
 }
-.ea-wc {
+.emoji-wc {
     background-image: url("emoji-extra7-stack.svg#1f6be");
 }
-.ea-wheelchair {
+.emoji-wheelchair {
     background-image: url("emoji-extra7-stack.svg#267f");
 }
-.ea-white-check-mark {
+.emoji-white-check-mark {
     background-image: url("emoji-extra7-stack.svg#2705");
 }
-.ea-white-circle {
+.emoji-white-circle {
     background-image: url("emoji-extra7-stack.svg#26aa");
 }
-.ea-white-flower {
+.emoji-white-flower {
     background-image: url("emoji-extra7-stack.svg#1f4ae");
 }
-.ea-white-square-button {
+.emoji-white-square-button {
     background-image: url("emoji-extra7-stack.svg#1f533");
 }
-.ea-womens {
+.emoji-womens {
     background-image: url("emoji-extra7-stack.svg#1f6ba");
 }
-.ea-x {
+.emoji-x {
     background-image: url("emoji-extra7-stack.svg#274c");
 }
-.ea-zero {
+.emoji-zero {
     background-image: url("emoji-extra7-stack.svg#30-20e3");
 }
-.ea-checkered-flag {
+.emoji-checkered-flag {
     background-image: url("emoji-flags-stack.svg#1f3c1");
 }
-.ea-triangular-flag-on-post {
+.emoji-triangular-flag-on-post {
     background-image: url("emoji-flags-stack.svg#1f6a9");
 }
-.ea-crossed-flags {
+.emoji-crossed-flags {
     background-image: url("emoji-flags-stack.svg#1f38c");
 }
-.ea-pirate-flag {
+.emoji-pirate-flag {
     background-image: url("emoji-flags-stack.svg#1f3f4-200d-2620-fe0f");
 }
-.ea-rainbow-flag {
+.emoji-rainbow-flag {
     background-image: url("emoji-flags-stack.svg#1f3f3-fe0f-200d-1f308");
 }
-.ea-european-union {
+.emoji-european-union {
     background-image: url("emoji-flags-stack.svg#1f1ea-1f1fa");
 }
-.ea-jp {
+.emoji-jp {
     background-image: url("emoji-flags-stack.svg#1f1ef-1f1f5");
 }
-.ea-kr {
+.emoji-kr {
     background-image: url("emoji-flags-stack.svg#1f1f0-1f1f7");
 }
-.ea-cn {
+.emoji-cn {
     background-image: url("emoji-flags-stack.svg#1f1e8-1f1f3");
 }
-.ea-us {
+.emoji-us {
     background-image: url("emoji-flags-stack.svg#1f1fa-1f1f8");
 }
-.ea-ru {
+.emoji-ru {
     background-image: url("emoji-flags-stack.svg#1f1f7-1f1fa");
 }
-.ea-gb {
+.emoji-gb {
     background-image: url("emoji-flags-stack.svg#1f1ec-1f1e7");
 }
-.ea-austria {
+.emoji-austria {
     background-image: url("emoji-flags-stack.svg#1f1e6-1f1f9");
 }
-.ea-belgium {
+.emoji-belgium {
     background-image: url("emoji-flags-stack.svg#1f1e7-1f1ea");
 }
-.ea-bulgaria {
+.emoji-bulgaria {
     background-image: url("emoji-flags-stack.svg#1f1e7-1f1ec");
 }
-.ea-canada {
+.emoji-canada {
     background-image: url("emoji-flags-stack.svg#1f1e8-1f1e6");
 }
-.ea-croatia {
+.emoji-croatia {
     background-image: url("emoji-flags-stack.svg#1f1ed-1f1f7");
 }
-.ea-cyprus {
+.emoji-cyprus {
     background-image: url("emoji-flags-stack.svg#1f1e8-1f1fe");
 }
-.ea-czechia {
+.emoji-czechia {
     background-image: url("emoji-flags-stack.svg#1f1e8-1f1ff");
 }
-.ea-denmark {
+.emoji-denmark {
     background-image: url("emoji-flags-stack.svg#1f1e9-1f1f0");
 }
-.ea-estonia {
+.emoji-estonia {
     background-image: url("emoji-flags-stack.svg#1f1ea-1f1ea");
 }
-.ea-finland {
+.emoji-finland {
     background-image: url("emoji-flags-stack.svg#1f1eb-1f1ee");
 }
-.ea-france {
+.emoji-france {
     background-image: url("emoji-flags-stack.svg#1f1eb-1f1f7");
 }
-.ea-germany {
+.emoji-germany {
     background-image: url("emoji-flags-stack.svg#1f1e9-1f1ea");
 }
-.ea-greece {
+.emoji-greece {
     background-image: url("emoji-flags-stack.svg#1f1ec-1f1f7");
 }
-.ea-hungary {
+.emoji-hungary {
     background-image: url("emoji-flags-stack.svg#1f1ed-1f1fa");
 }
-.ea-iceland {
+.emoji-iceland {
     background-image: url("emoji-flags-stack.svg#1f1ee-1f1f8");
 }
-.ea-ireland {
+.emoji-ireland {
     background-image: url("emoji-flags-stack.svg#1f1ee-1f1ea");
 }
-.ea-italy {
+.emoji-italy {
     background-image: url("emoji-flags-stack.svg#1f1ee-1f1f9");
 }
-.ea-latvia {
+.emoji-latvia {
     background-image: url("emoji-flags-stack.svg#1f1f1-1f1fb");
 }
-.ea-lithuania {
+.emoji-lithuania {
     background-image: url("emoji-flags-stack.svg#1f1f1-1f1f9");
 }
-.ea-luxembourg {
+.emoji-luxembourg {
     background-image: url("emoji-flags-stack.svg#1f1f1-1f1fa");
 }
-.ea-malta {
+.emoji-malta {
     background-image: url("emoji-flags-stack.svg#1f1f2-1f1f9");
 }
-.ea-netherlands {
+.emoji-netherlands {
     background-image: url("emoji-flags-stack.svg#1f1f3-1f1f1");
 }
-.ea-norway {
+.emoji-norway {
     background-image: url("emoji-flags-stack.svg#1f1f3-1f1f4");
 }
-.ea-poland {
+.emoji-poland {
     background-image: url("emoji-flags-stack.svg#1f1f5-1f1f1");
 }
-.ea-portugal {
+.emoji-portugal {
     background-image: url("emoji-flags-stack.svg#1f1f5-1f1f9");
 }
-.ea-romania {
+.emoji-romania {
     background-image: url("emoji-flags-stack.svg#1f1f7-1f1f4");
 }
-.ea-slovakia {
+.emoji-slovakia {
     background-image: url("emoji-flags-stack.svg#1f1f8-1f1f0");
 }
-.ea-slovenia {
+.emoji-slovenia {
     background-image: url("emoji-flags-stack.svg#1f1f8-1f1ee");
 }
-.ea-spain {
+.emoji-spain {
     background-image: url("emoji-flags-stack.svg#1f1ea-1f1f8");
 }
-.ea-sweden {
+.emoji-sweden {
     background-image: url("emoji-flags-stack.svg#1f1f8-1f1ea");
 }
-.ea-switzerland {
+.emoji-switzerland {
     background-image: url("emoji-flags-stack.svg#1f1e8-1f1ed");
 }
-.ea-turkey {
+.emoji-turkey {
     background-image: url("emoji-flags-stack.svg#1f1f9-1f1f7");
 }
-.ea-ukraine {
+.emoji-ukraine {
     background-image: url("emoji-flags-stack.svg#1f1fa-1f1e6");
 }
