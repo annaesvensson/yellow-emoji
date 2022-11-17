@@ -46,11 +46,13 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 `EmojiToolbarButtons` = verktygsfältknappar för [edit-tilläget](https://github.com/annaesvensson/yellow-edit/tress/main/README-sv.md)  
 
+## Tack
+
+Detta tilläg innehåller [Twemoji 13.0.0](https://github.com/twitter/twemoji) av Twitter. Tack för de vackra bilderna.
+
 ## Installation
 
 [Ladda ner tillägg](https://github.com/annaesvensson/yellow-emoji/archive/main.zip) och kopiera ZIP-fil till din `system/extensions` mapp. [Läs mer om tillägg](https://github.com/annaesvensson/yellow-update/tree/main/README-sv.md).
-
-Detta tilläg innehåller [Twemoji 13.0.0](https://github.com/twitter/twemoji) av Twitter. 
 
 ## Utvecklare
 

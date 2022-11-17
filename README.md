@@ -46,11 +46,13 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 `EmojiToolbarButtons` = toolbar buttons for the [edit extension](https://github.com/annaesvensson/yellow-edit)  
 
+## Acknowledgments
+
+This extension includes [Twemoji 13.0.0](https://github.com/twitter/twemoji) by Twitter. Thanks for the beautiful images.
+
 ## Installation
 
 [Download extension](https://github.com/annaesvensson/yellow-emoji/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
-
-This extension includes [Twemoji 13.0.0](https://github.com/twitter/twemoji) by Twitter. 
 
 ## Developer
 
