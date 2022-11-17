@@ -48,7 +48,7 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 
 ## Danksagung
 
-Diese Erweiterung enthält [Twemoji 13.0.0](https://github.com/twitter/twemoji) von Twitter. Danke für die schönen Bilder.
+Diese Erweiterung enthält [Twemoji 13.0.0](https://github.com/twitter/twemoji) von Twitter. Danke für die schönen Emoji.
 
 ## Installation
 
