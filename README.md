@@ -6,6 +6,10 @@ Lots and lots of emoji.
 
 ![Screenshot](emoji-screenshot.png?raw=true)
 
+## How to install an extension
+
+[Download ZIP file](https://github.com/annaesvensson/yellow-emoji/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+
 ## How to add an emoji
 
 Add `:shortcode:` to the text of a page. Here's an [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet). 
@@ -49,10 +53,6 @@ The following settings can be configured in file `system/extensions/yellow-syste
 ## Acknowledgements
 
 This extension includes [Twemoji 13.0.0](https://github.com/twitter/twemoji) by Twitter. Thank you for the beautiful emoji.
-
-## Installation
-
-[Download extension](https://github.com/annaesvensson/yellow-emoji/archive/main.zip) and copy ZIP file into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## Developer
 
