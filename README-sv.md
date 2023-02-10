@@ -52,7 +52,7 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 ## Tack
 
-Detta tilläg innehåller [Twemoji 13.0.0](https://github.com/twitter/twemoji) av Twitter. Tack för de vackra emoji.
+Detta tillägg innehåller [Twemoji 13.0.0](https://github.com/twitter/twemoji) av Twitter. Tack för de vackra emoji.
 
 ## Utvecklare
 
