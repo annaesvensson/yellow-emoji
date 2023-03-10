@@ -2475,80 +2475,404 @@
 .emoji-rainbow-flag {
     background-image: url("emoji-flags-stack.svg#1f3f3-fe0f-200d-1f308");
 }
-.emoji-european-union {
-    background-image: url("emoji-flags-stack.svg#1f1ea-1f1fa");
+.emoji-andorra {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1e9");
 }
-.emoji-jp {
-    background-image: url("emoji-flags-stack.svg#1f1ef-1f1f5");
+.emoji-ae {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1ea");
 }
-.emoji-kr {
-    background-image: url("emoji-flags-stack.svg#1f1f0-1f1f7");
+.emoji-afghanistan {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1eb");
 }
-.emoji-cn {
-    background-image: url("emoji-flags-stack.svg#1f1e8-1f1f3");
+.emoji-ag {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1ec");
 }
-.emoji-us {
-    background-image: url("emoji-flags-stack.svg#1f1fa-1f1f8");
+.emoji-anguilla {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1ee");
 }
-.emoji-ru {
-    background-image: url("emoji-flags-stack.svg#1f1f7-1f1fa");
+.emoji-albania {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1f1");
 }
-.emoji-gb {
-    background-image: url("emoji-flags-stack.svg#1f1ec-1f1e7");
+.emoji-armenia {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1f2");
+}
+.emoji-angola {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1f4");
+}
+.emoji-antarctica {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1f6");
+}
+.emoji-argentina {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1f7");
+}
+.emoji-american-samoa {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1f8");
 }
 .emoji-austria {
     background-image: url("emoji-flags-stack.svg#1f1e6-1f1f9");
 }
+.emoji-australia {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1fa");
+}
+.emoji-aruba {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1fc");
+}
+.emoji-aaland-islands {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1fd");
+}
+.emoji-azerbaijan {
+    background-image: url("emoji-flags-stack.svg#1f1e6-1f1ff");
+}
+.emoji-ba {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1e6");
+}
+.emoji-barbados {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1e7");
+}
+.emoji-bangladesh {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1e9");
+}
 .emoji-belgium {
     background-image: url("emoji-flags-stack.svg#1f1e7-1f1ea");
+}
+.emoji-burkina-faso {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1eb");
 }
 .emoji-bulgaria {
     background-image: url("emoji-flags-stack.svg#1f1e7-1f1ec");
 }
+.emoji-bahrain {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1ed");
+}
+.emoji-burundi {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1ee");
+}
+.emoji-benin {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1ef");
+}
+.emoji-saint-barthelemy {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1f1");
+}
+.emoji-bermuda {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1f2");
+}
+.emoji-brunei-darussalam {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1f3");
+}
+.emoji-bolivia {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1f4");
+}
+.emoji-bq {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1f6");
+}
+.emoji-brazil {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1f7");
+}
+.emoji-bahamas {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1f8");
+}
+.emoji-bhutan {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1f9");
+}
+.emoji-bouvet-island {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1fb");
+}
+.emoji-botswana {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1fc");
+}
+.emoji-belarus {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1fe");
+}
+.emoji-belize {
+    background-image: url("emoji-flags-stack.svg#1f1e7-1f1ff");
+}
 .emoji-canada {
     background-image: url("emoji-flags-stack.svg#1f1e8-1f1e6");
 }
-.emoji-croatia {
-    background-image: url("emoji-flags-stack.svg#1f1ed-1f1f7");
+.emoji-cc {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1e8");
+}
+.emoji-cd {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1e9");
+}
+.emoji-cf {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1eb");
+}
+.emoji-cg {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1ec");
+}
+.emoji-switzerland {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1ed");
+}
+.emoji-cote-divoire {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1ee");
+}
+.emoji-cook-islands {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1f0");
+}
+.emoji-chile {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1f1");
+}
+.emoji-cameroon {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1f2");
+}
+.emoji-cn {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1f3");
+}
+.emoji-colombia {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1f4");
+}
+.emoji-costa-rica {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1f7");
+}
+.emoji-cuba {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1fa");
+}
+.emoji-cape-verde {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1fb");
+}
+.emoji-curacao {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1fc");
+}
+.emoji-christmas-island {
+    background-image: url("emoji-flags-stack.svg#1f1e8-1f1fd");
 }
 .emoji-cyprus {
     background-image: url("emoji-flags-stack.svg#1f1e8-1f1fe");
 }
-.emoji-czechia {
+.emoji-czech-republic {
     background-image: url("emoji-flags-stack.svg#1f1e8-1f1ff");
-}
-.emoji-denmark {
-    background-image: url("emoji-flags-stack.svg#1f1e9-1f1f0");
-}
-.emoji-estonia {
-    background-image: url("emoji-flags-stack.svg#1f1ea-1f1ea");
-}
-.emoji-finland {
-    background-image: url("emoji-flags-stack.svg#1f1eb-1f1ee");
-}
-.emoji-france {
-    background-image: url("emoji-flags-stack.svg#1f1eb-1f1f7");
 }
 .emoji-germany {
     background-image: url("emoji-flags-stack.svg#1f1e9-1f1ea");
 }
+.emoji-djibouti {
+    background-image: url("emoji-flags-stack.svg#1f1e9-1f1ef");
+}
+.emoji-denmark {
+    background-image: url("emoji-flags-stack.svg#1f1e9-1f1f0");
+}
+.emoji-dominica {
+    background-image: url("emoji-flags-stack.svg#1f1e9-1f1f2");
+}
+.emoji-dominican-republic {
+    background-image: url("emoji-flags-stack.svg#1f1e9-1f1f4");
+}
+.emoji-algeria {
+    background-image: url("emoji-flags-stack.svg#1f1e9-1f1ff");
+}
+.emoji-ecuador {
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1e8");
+}
+.emoji-estonia {
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1ea");
+}
+.emoji-egypt {
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1ec");
+}
+.emoji-western-sahara {
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1ed");
+}
+.emoji-eritrea {
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1f7");
+}
+.emoji-spain {
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1f8");
+}
+.emoji-ethiopia {
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1f9");
+}
+.emoji-european-union {
+    background-image: url("emoji-flags-stack.svg#1f1ea-1f1fa");
+}
+.emoji-finland {
+    background-image: url("emoji-flags-stack.svg#1f1eb-1f1ee");
+}
+.emoji-fiji {
+    background-image: url("emoji-flags-stack.svg#1f1eb-1f1ef");
+}
+.emoji-fk {
+    background-image: url("emoji-flags-stack.svg#1f1eb-1f1f0");
+}
+.emoji-micronesia {
+    background-image: url("emoji-flags-stack.svg#1f1eb-1f1f2");
+}
+.emoji-faroe-islands {
+    background-image: url("emoji-flags-stack.svg#1f1eb-1f1f4");
+}
+.emoji-france {
+    background-image: url("emoji-flags-stack.svg#1f1eb-1f1f7");
+}
+.emoji-gabon {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1e6");
+}
+.emoji-gb {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1e7");
+}
+.emoji-grenada {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1e9");
+}
+.emoji-georgia {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1ea");
+}
+.emoji-french-guiana {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1eb");
+}
+.emoji-guernsey {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1ec");
+}
+.emoji-ghana {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1ed");
+}
+.emoji-gibraltar {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1ee");
+}
+.emoji-greenland {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1f1");
+}
+.emoji-gambia {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1f2");
+}
+.emoji-guinea {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1f3");
+}
+.emoji-guadeloupe {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1f5");
+}
+.emoji-equatorial-guinea {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1f6");
+}
 .emoji-greece {
     background-image: url("emoji-flags-stack.svg#1f1ec-1f1f7");
+}
+.emoji-south-georgia {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1f8");
+}
+.emoji-guatemala {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1f9");
+}
+.emoji-guam {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1fa");
+}
+.emoji-guinea-bissau {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1fc");
+}
+.emoji-guyana {
+    background-image: url("emoji-flags-stack.svg#1f1ec-1f1fe");
+}
+.emoji-hong-kong {
+    background-image: url("emoji-flags-stack.svg#1f1ed-1f1f0");
+}
+.emoji-hm {
+    background-image: url("emoji-flags-stack.svg#1f1ed-1f1f2");
+}
+.emoji-honduras {
+    background-image: url("emoji-flags-stack.svg#1f1ed-1f1f3");
+}
+.emoji-croatia {
+    background-image: url("emoji-flags-stack.svg#1f1ed-1f1f7");
+}
+.emoji-haiti {
+    background-image: url("emoji-flags-stack.svg#1f1ed-1f1f9");
 }
 .emoji-hungary {
     background-image: url("emoji-flags-stack.svg#1f1ed-1f1fa");
 }
-.emoji-iceland {
-    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f8");
+.emoji-indonesia {
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1e9");
 }
 .emoji-ireland {
     background-image: url("emoji-flags-stack.svg#1f1ee-1f1ea");
 }
+.emoji-israel {
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f1");
+}
+.emoji-im {
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f2");
+}
+.emoji-india {
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f3");
+}
+.emoji-io {
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f4");
+}
+.emoji-iraq {
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f6");
+}
+.emoji-iran {
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f7");
+}
+.emoji-iceland {
+    background-image: url("emoji-flags-stack.svg#1f1ee-1f1f8");
+}
 .emoji-italy {
     background-image: url("emoji-flags-stack.svg#1f1ee-1f1f9");
 }
-.emoji-latvia {
-    background-image: url("emoji-flags-stack.svg#1f1f1-1f1fb");
+.emoji-jersey {
+    background-image: url("emoji-flags-stack.svg#1f1ef-1f1ea");
+}
+.emoji-jamaica {
+    background-image: url("emoji-flags-stack.svg#1f1ef-1f1f2");
+}
+.emoji-jordan {
+    background-image: url("emoji-flags-stack.svg#1f1ef-1f1f4");
+}
+.emoji-jp {
+    background-image: url("emoji-flags-stack.svg#1f1ef-1f1f5");
+}
+.emoji-kenya {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1ea");
+}
+.emoji-kyrgyzstan {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1ec");
+}
+.emoji-cambodia {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1ed");
+}
+.emoji-kiribati {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1ee");
+}
+.emoji-comoros {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1f2");
+}
+.emoji-kn {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1f3");
+}
+.emoji-north-korea {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1f5");
+}
+.emoji-kr {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1f7");
+}
+.emoji-kuwait {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1fc");
+}
+.emoji-cayman-islands {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1fe");
+}
+.emoji-kazakhstan {
+    background-image: url("emoji-flags-stack.svg#1f1f0-1f1ff");
+}
+.emoji-la {
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1e6");
+}
+.emoji-lebanon {
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1e7");
+}
+.emoji-saint-lucia {
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1e8");
+}
+.emoji-liechtenstein {
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1ee");
+}
+.emoji-sri-lanka {
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1f0");
+}
+.emoji-liberia {
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1f7");
+}
+.emoji-lesotho {
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1f8");
 }
 .emoji-lithuania {
     background-image: url("emoji-flags-stack.svg#1f1f1-1f1f9");
@@ -2556,8 +2880,98 @@
 .emoji-luxembourg {
     background-image: url("emoji-flags-stack.svg#1f1f1-1f1fa");
 }
+.emoji-latvia {
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1fb");
+}
+.emoji-libya {
+    background-image: url("emoji-flags-stack.svg#1f1f1-1f1fe");
+}
+.emoji-morocco {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1e6");
+}
+.emoji-monaco {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1e8");
+}
+.emoji-moldova {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1e9");
+}
+.emoji-montenegro {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1ea");
+}
+.emoji-mf {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1eb");
+}
+.emoji-madagascar {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1ec");
+}
+.emoji-marshall-islands {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1ed");
+}
+.emoji-macedonia {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f0");
+}
+.emoji-mali {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f1");
+}
+.emoji-myanmar {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f2");
+}
+.emoji-mongolia {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f3");
+}
+.emoji-macao {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f4");
+}
+.emoji-mp {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f5");
+}
+.emoji-martinique {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f6");
+}
+.emoji-mauritania {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f7");
+}
+.emoji-montserrat {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1f8");
+}
 .emoji-malta {
     background-image: url("emoji-flags-stack.svg#1f1f2-1f1f9");
+}
+.emoji-mauritius {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1fa");
+}
+.emoji-maldives {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1fb");
+}
+.emoji-malawi {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1fc");
+}
+.emoji-mexico {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1fd");
+}
+.emoji-malaysia {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1fe");
+}
+.emoji-mozambique {
+    background-image: url("emoji-flags-stack.svg#1f1f2-1f1ff");
+}
+.emoji-namibia {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1e6");
+}
+.emoji-new-caledonia {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1e8");
+}
+.emoji-niger {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1ea");
+}
+.emoji-norfolk-island {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1eb");
+}
+.emoji-nigeria {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1ec");
+}
+.emoji-nicaragua {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1ee");
 }
 .emoji-netherlands {
     background-image: url("emoji-flags-stack.svg#1f1f3-1f1f1");
@@ -2565,33 +2979,252 @@
 .emoji-norway {
     background-image: url("emoji-flags-stack.svg#1f1f3-1f1f4");
 }
+.emoji-nepal {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1f5");
+}
+.emoji-nauru {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1f7");
+}
+.emoji-niue {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1fa");
+}
+.emoji-new-zealand {
+    background-image: url("emoji-flags-stack.svg#1f1f3-1f1ff");
+}
+.emoji-oman {
+    background-image: url("emoji-flags-stack.svg#1f1f4-1f1f2");
+}
+.emoji-panama {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1e6");
+}
+.emoji-peru {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1ea");
+}
+.emoji-french-polynesia {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1eb");
+}
+.emoji-pg {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1ec");
+}
+.emoji-philippines {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1ed");
+}
+.emoji-pakistan {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1f0");
+}
 .emoji-poland {
     background-image: url("emoji-flags-stack.svg#1f1f5-1f1f1");
+}
+.emoji-pm {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1f2");
+}
+.emoji-pitcairn {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1f3");
+}
+.emoji-puerto-rico {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1f7");
+}
+.emoji-palestinian-territory {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1f8");
 }
 .emoji-portugal {
     background-image: url("emoji-flags-stack.svg#1f1f5-1f1f9");
 }
+.emoji-palau {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1fc");
+}
+.emoji-paraguay {
+    background-image: url("emoji-flags-stack.svg#1f1f5-1f1fe");
+}
+.emoji-qatar {
+    background-image: url("emoji-flags-stack.svg#1f1f6-1f1e6");
+}
+.emoji-reunion {
+    background-image: url("emoji-flags-stack.svg#1f1f7-1f1ea");
+}
 .emoji-romania {
     background-image: url("emoji-flags-stack.svg#1f1f7-1f1f4");
 }
-.emoji-slovakia {
-    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f0");
+.emoji-serbia {
+    background-image: url("emoji-flags-stack.svg#1f1f7-1f1f8");
 }
-.emoji-slovenia {
-    background-image: url("emoji-flags-stack.svg#1f1f8-1f1ee");
+.emoji-ru {
+    background-image: url("emoji-flags-stack.svg#1f1f7-1f1fa");
 }
-.emoji-spain {
-    background-image: url("emoji-flags-stack.svg#1f1ea-1f1f8");
+.emoji-rwanda {
+    background-image: url("emoji-flags-stack.svg#1f1f7-1f1fc");
+}
+.emoji-saudi-arabia {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1e6");
+}
+.emoji-solomon-islands {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1e7");
+}
+.emoji-seychelles {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1e8");
+}
+.emoji-sudan {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1e9");
 }
 .emoji-sweden {
     background-image: url("emoji-flags-stack.svg#1f1f8-1f1ea");
 }
-.emoji-switzerland {
-    background-image: url("emoji-flags-stack.svg#1f1e8-1f1ed");
+.emoji-singapore {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1ec");
+}
+.emoji-sh {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1ed");
+}
+.emoji-slovenia {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1ee");
+}
+.emoji-sj {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1ef");
+}
+.emoji-slovakia {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f0");
+}
+.emoji-sierra-leone {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f1");
+}
+.emoji-san-marino {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f2");
+}
+.emoji-senegal {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f3");
+}
+.emoji-somalia {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f4");
+}
+.emoji-suriname {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f7");
+}
+.emoji-south-sudan {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f8");
+}
+.emoji-st {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1f9");
+}
+.emoji-el-salvador {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1fb");
+}
+.emoji-sx {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1fd");
+}
+.emoji-sy {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1fe");
+}
+.emoji-swaziland {
+    background-image: url("emoji-flags-stack.svg#1f1f8-1f1ff");
+}
+.emoji-tc {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1e8");
+}
+.emoji-chad {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1e9");
+}
+.emoji-tf {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1eb");
+}
+.emoji-togo {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1ec");
+}
+.emoji-thailand {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1ed");
+}
+.emoji-tajikistan {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1ef");
+}
+.emoji-tokelau {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1f0");
+}
+.emoji-timor-leste {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1f1");
+}
+.emoji-turkmenistan {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1f2");
+}
+.emoji-tunisia {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1f3");
+}
+.emoji-tonga {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1f4");
 }
 .emoji-turkey {
     background-image: url("emoji-flags-stack.svg#1f1f9-1f1f7");
 }
+.emoji-tt {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1f9");
+}
+.emoji-tuvalu {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1fb");
+}
+.emoji-taiwan {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1fc");
+}
+.emoji-tanzania {
+    background-image: url("emoji-flags-stack.svg#1f1f9-1f1ff");
+}
 .emoji-ukraine {
     background-image: url("emoji-flags-stack.svg#1f1fa-1f1e6");
+}
+.emoji-uganda {
+    background-image: url("emoji-flags-stack.svg#1f1fa-1f1ec");
+}
+.emoji-um {
+    background-image: url("emoji-flags-stack.svg#1f1fa-1f1f2");
+}
+.emoji-us {
+    background-image: url("emoji-flags-stack.svg#1f1fa-1f1f8");
+}
+.emoji-uruguay {
+    background-image: url("emoji-flags-stack.svg#1f1fa-1f1fe");
+}
+.emoji-uzbekistan {
+    background-image: url("emoji-flags-stack.svg#1f1fa-1f1ff");
+}
+.emoji-vatican-city {
+    background-image: url("emoji-flags-stack.svg#1f1fb-1f1e6");
+}
+.emoji-vc {
+    background-image: url("emoji-flags-stack.svg#1f1fb-1f1e8");
+}
+.emoji-venezuela {
+    background-image: url("emoji-flags-stack.svg#1f1fb-1f1ea");
+}
+.emoji-vg {
+    background-image: url("emoji-flags-stack.svg#1f1fb-1f1ec");
+}
+.emoji-vi {
+    background-image: url("emoji-flags-stack.svg#1f1fb-1f1ee");
+}
+.emoji-viet-nam {
+    background-image: url("emoji-flags-stack.svg#1f1fb-1f1f3");
+}
+.emoji-vanuatu {
+    background-image: url("emoji-flags-stack.svg#1f1fb-1f1fa");
+}
+.emoji-wf {
+    background-image: url("emoji-flags-stack.svg#1f1fc-1f1eb");
+}
+.emoji-samoa {
+    background-image: url("emoji-flags-stack.svg#1f1fc-1f1f8");
+}
+.emoji-kosovo {
+    background-image: url("emoji-flags-stack.svg#1f1fd-1f1f0");
+}
+.emoji-yemen {
+    background-image: url("emoji-flags-stack.svg#1f1fe-1f1ea");
+}
+.emoji-mayotte {
+    background-image: url("emoji-flags-stack.svg#1f1fe-1f1f9");
+}
+.emoji-south-africa {
+    background-image: url("emoji-flags-stack.svg#1f1ff-1f1e6");
+}
+.emoji-zambia {
+    background-image: url("emoji-flags-stack.svg#1f1ff-1f1f2");
+}
+.emoji-zimbabwe {
+    background-image: url("emoji-flags-stack.svg#1f1ff-1f1fc");
 }
