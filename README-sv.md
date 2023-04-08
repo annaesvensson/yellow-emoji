@@ -48,7 +48,7 @@ Smileys & känslor:
 
 Följande inställningar kan konfigureras i filen `system/extensions/yellow-system.ini`:
 
-`EmojiToolbarButtons` = verktygsfältknappar för [edit-tilläget](https://github.com/annaesvensson/yellow-edit/tress/main/README-sv.md)  
+`EmojiToolbarButtons` = verktygsfältknappar för [edit-tillägget](https://github.com/annaesvensson/yellow-edit/tress/main/README-sv.md)  
 
 ## Tack
 
