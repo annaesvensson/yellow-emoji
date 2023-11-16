@@ -4,7 +4,7 @@
 
 Lots and lots of emoji.
 
-![Screenshot](emoji-screenshot.png?raw=true)
+![Screenshot](SCREENSHOT.png?raw=true)
 
 ## How to install an extension
 

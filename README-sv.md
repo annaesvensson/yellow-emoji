@@ -4,7 +4,7 @@
 
 Massor och massor av emoji.
 
-![Skärmdump](emoji-screenshot.png?raw=true)
+![Skärmdump](SCREENSHOT.png?raw=true)
 
 ## Hur man installerar ett tillägg
 
