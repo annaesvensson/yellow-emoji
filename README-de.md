@@ -4,7 +4,7 @@
 
 Jede Menge Emoji.
 
-![Bildschirmfoto](SCREENSHOT.png?raw=true)
+![Bildschirmfoto](SCREENSHOT.png)
 
 ## Wie man eine Erweiterung installiert
 
