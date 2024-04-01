@@ -2,7 +2,7 @@
 // Emoji extension, https://github.com/annaesvensson/yellow-emoji
 
 class YellowEmoji {
-    const VERSION = "0.8.14";
+    const VERSION = "0.8.15";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -11,8 +11,8 @@ class YellowEmoji {
         $this->yellow->system->setDefault("emojiToolbarButtons", ":grinning: :smile: :angry: :frowning: :heart_eyes: :kissing_heart: :stuck_out_tongue_winking_eye: :joy: :heart: :fire: :star: :cookie: :coffee: :hand: :+1: :-1:");
     }
     
-    // Handle page content of shortcut
-    public function onParseContentShortcut($page, $name, $text, $type) {
+    // Handle page content element
+    public function onParseContentElement($page, $name, $text, $attributes, $type) {
         $output = null;
         if (($name=="emoji" && $type=="inline") || $type=="symbol") {
             list($shortname, $style) = $this->yellow->toolbox->getTextArguments($text);
@@ -60,7 +60,7 @@ class YellowEmoji {
         if ($convertShortcode) {
             $thisCompatible = $this;
             $callback = function ($matches) use ($thisCompatible) {
-                $output = $thisCompatible->onParseContentShortcut(null, "", $matches[1], "symbol");
+                $output = $thisCompatible->onParseContentElement(null, "", $matches[1], "", "symbol");
                 if (is_null($output)) $output = $matches[0];
                 return $output;
             };
