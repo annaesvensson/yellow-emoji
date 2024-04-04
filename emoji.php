@@ -2,7 +2,7 @@
 // Emoji extension, https://github.com/annaesvensson/yellow-emoji
 
 class YellowEmoji {
-    const VERSION = "0.8.15";
+    const VERSION = "0.9.1";
     public $yellow;         // access to API
     
     // Handle initialisation
