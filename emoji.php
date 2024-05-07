@@ -2,7 +2,7 @@
 // Emoji extension, https://github.com/annaesvensson/yellow-emoji
 
 class YellowEmoji {
-    const VERSION = "0.9.3";
+    const VERSION = "0.9.4";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -29,7 +29,7 @@ class YellowEmoji {
     
     // Handle content file editing
     public function onEditContentFile($page, $action, $email) {
-        if ($action=="normalise") {
+        if ($action=="precreate" || $action=="preedit") {
             $page->rawData = $this->normaliseText($page->rawData, true, false);
         }
     }
