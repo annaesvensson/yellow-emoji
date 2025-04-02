@@ -35,7 +35,7 @@ Adding an emoji by name:
     :heart: 
     :coffee:
 
-Adding an emoji with shortcut
+Adding an emoji with shortcut:
 
     [emoji emoji-smile]
     [emoji emoji-heart]
