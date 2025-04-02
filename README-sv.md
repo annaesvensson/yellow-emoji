@@ -12,29 +12,40 @@ Massor och massor av emoji.
 
 ## Hur man lägger till en emoji
 
-Lägg till `:shortcode:` till texten på en sida. Här är en [emoji-fusklapp](https://github.com/ikatyang/emoji-cheat-sheet).
+Lägg till `:smile:` eller `[emoji emoji-smile]` till texten på en sida. Här är en [emoji-fusklapp](https://github.com/ikatyang/emoji-cheat-sheet).
 
-Det är också möjligt att skapa en `[emoji]` förkortning eller använda HTML. Du kan valfritt lägga till en stil, till exempel `emoji-2x`, `emoji-3x`, `emoji-4x` och `emoji-5x`.
+## Hur man lägger till en ikon i en layoutfil
+
+Använd HTML-format, till exempel `<i class="emoji emoji-smile" aria-label="leende"></i>`.
 
 ## Exempel
 
-Lägga till emoji:
+Innehållsfil med emoji:
+
+    ---
+    Title: Exempelsida
+    ---
+    Detta är en exempelsida med emoji.
+
+    :smile: :grinning: :angry: :heart: :coffee: :thumbsup:
+
+Lägga till emoji efter namn:
 
     :smile: 
     :heart: 
     :coffee:
 
-Lägga till emoji med förkortning, olika storlek:
+Lägga till emoji med förkortning:
 
     [emoji emoji-smile]
-    [emoji emoji-heart emoji-2x]
-    [emoji emoji-coffee emoji-3x]
+    [emoji emoji-heart]
+    [emoji emoji-coffee]
 
-Lägga till emoji med HTML, olika storlek:
+Lägga till emoji med HTML:
 
     <i class="emoji emoji-smile" aria-label="leende"></i>
-    <i class="emoji emoji-heart emoji-2x" aria-label="hjärta"></i>
-    <i class="emoji emoji-coffee emoji-3x" aria-label="kaffe"></i>
+    <i class="emoji emoji-heart" aria-label="hjärta"></i>
+    <i class="emoji emoji-coffee" aria-label="kaffe"></i>
 
 Smileys & känslor:
 

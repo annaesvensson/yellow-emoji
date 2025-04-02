@@ -12,29 +12,40 @@ Jede Menge Emoji.
 
 ## Wie man ein Emoji hinzufügt
 
-Füge `:shortcode:` zum Text einer Seite hinzu. Hier ist ein [Emoji-Spickzettel](https://github.com/ikatyang/emoji-cheat-sheet). 
+Füge `:smile:` oder `[emoji emoji-smile]` zum Text einer Seite hinzu. Hier ist ein [Emoji-Spickzettel](https://github.com/ikatyang/emoji-cheat-sheet). 
 
-Es ist auch möglich eine `[emoji]`-Abkürzung zu erstellen oder HTML zu benutzen. Du kannst wahlweise einen Stil angeben, beispielsweise `emoji-2x`, `emoji-3x`, `emoji-4x` und `emoji-5x`.
+## Wie man ein Emoji zu einer Layoutdatei hinzufügt
+
+Benutze das HTML-Format, zum Beispiel `<i class="emoji emoji-smile" aria-label="Lächeln"></i>`.
 
 ## Beispiele
 
-Emoji hinzufügen:
+Inhaltsdatei mit Emoji:
+
+    ---
+    Title: Beispielseite
+    ---
+    Das ist eine Beispielseite mit Emoji.
+
+    :smile: :grinning: :angry: :heart: :coffee: :thumbsup:
+
+Emoji nach Namen hinzufügen:
 
     :smile: 
     :heart: 
     :coffee:
 
-Emoji mit Abkürzung hinzufügen, verschiedene Größen:
+Emoji mit Abkürzung hinzufügen:
 
     [emoji emoji-smile]
-    [emoji emoji-heart emoji-2x]
-    [emoji emoji-coffee emoji-3x]
+    [emoji emoji-heart]
+    [emoji emoji-coffee]
 
-Emoji mit HTML hinzufügen, verschiedene Größen:
+Emoji mit HTML hinzufügen:
 
     <i class="emoji emoji-smile" aria-label="Lächeln"></i>
-    <i class="emoji emoji-heart emoji-2x" aria-label="Herz"></i>
-    <i class="emoji emoji-coffee emoji-3x" aria-label="Kaffee"></i>
+    <i class="emoji emoji-heart" aria-label="Herz"></i>
+    <i class="emoji emoji-coffee" aria-label="Kaffee"></i>
 
 Smileys & Gefühle:
 
