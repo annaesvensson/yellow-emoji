@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Emoji 0.9.4
 
-Jede Menge Emoji.
+Jede Menge Emoji. Entwickelt von Anna Svensson.
 
 ![Bildschirmfoto](screenshot.png)
 
@@ -65,6 +63,4 @@ Die folgenden Einstellungen können in der Datei `system/extensions/yellow-syste
 
 Diese Erweiterung enthält [Twemoji 13.0.0](https://github.com/twitter/twemoji) von Twitter. Danke für die schönen Emoji.
 
-## Entwickler
-
-Anna Svensson. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
+Hast du Fragen? [Hilfe finden](https://datenstrom.se/de/yellow/help/).

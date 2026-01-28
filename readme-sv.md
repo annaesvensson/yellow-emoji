@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Emoji 0.9.4
 
-Massor och massor av emoji.
+Massor och massor av emoji. Utvecklad av Anna Svensson.
 
 ![Skärmdump](screenshot.png)
 
@@ -65,6 +63,4 @@ Följande inställningar kan konfigureras i filen `system/extensions/yellow-syst
 
 Detta tillägg innehåller [Twemoji 13.0.0](https://github.com/twitter/twemoji) av Twitter. Tack för de vackra emoji.
 
-## Utvecklare
-
-Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).
