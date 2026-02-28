@@ -2,7 +2,7 @@
 
 Jede Menge Emoji. Entwickelt von Anna Svensson.
 
-![Bildschirmfoto](screenshot.png)
+<p align="center"><img src="screenshot.png" alt="Bildschirmfoto" /></p>
 
 ## Wie man eine Erweiterung installiert
 
