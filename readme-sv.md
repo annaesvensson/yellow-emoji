@@ -1,4 +1,4 @@
-# Emoji 0.9.4
+# Emoji 1.0.1
 
 Massor och massor av emoji. Utvecklad av Anna Svensson.
 

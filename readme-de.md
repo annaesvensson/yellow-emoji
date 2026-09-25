@@ -1,4 +1,4 @@
-# Emoji 0.9.4
+# Emoji 1.0.1
 
 Jede Menge Emoji. Entwickelt von Anna Svensson.
 

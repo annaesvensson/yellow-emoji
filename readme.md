@@ -1,4 +1,4 @@
-# Emoji 0.9.4
+# Emoji 1.0.1
 
 Lots and lots of emoji. Developed by Anna Svensson.
 
